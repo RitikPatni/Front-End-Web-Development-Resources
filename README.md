@@ -4,5 +4,15 @@ These are my resources which I gathered over time. I would love to share these r
 
 ***Check for Broken links or inconsistencies***
 
-## Blogs
+## Learning
 
+* [Search Courses](https://hackr.io/)
+* [freeCodeCamp](https://www.freecodecamp.org)
+* [Udacity](https://in.udacity.com/)
+* [CodeCademy](https://www.codecademy.com/)
+* [MDN](https://developer.mozilla.org/en-US/)
+* [Coursera](https://www.coursera.org/)
+* [edx](https://www.edx.org/)
+* [NodeSchool](https://nodeschool.io/)
+* [Saylor](https://www.saylor.org/)
+* [Flexbox](http://gedd.ski/master/flexbox/)
