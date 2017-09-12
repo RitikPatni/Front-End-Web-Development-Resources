@@ -108,3 +108,4 @@
 * [Animate CSS](https://daneden.github.io/animate.css/)
 * [Typed JS](http://www.mattboldt.com/typed.js/)
 * [Wow JS](http://mynameismatthieu.com/WOW/)
+
