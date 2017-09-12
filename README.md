@@ -33,28 +33,20 @@
 * [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19)
 * [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
+* [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e)
 
 ## Tools
 
-* [Big Integer Calculator - Arbitrary Precision Arithmetic](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm)
 * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 * [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
-* [DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](http://distrowatch.com/)
-* [Factoring - Number Factorizer](http://www.numberempire.com/numberfactorizer.php)
 * [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
-* [GitHub Résumé](http://resume.github.io/)
-* [Index of Packages : Python Package Index](https://pypi.python.org/pypi/?)
-* [Number Empire - Math Tools](http://www.numberempire.com/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* [Scientific Calculator](https://calculatorpi.com/)
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [Sizzy:Browser Testing Tool](https://sizzy.co/)
 * [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/)
-* [Meeting for Good](https://meeting.freecodecamp.com/)
 * [Google Fonts](https://fonts.google.com/)
-* [Learn Anything](https://learn-anything.xyz/)
 * [Google Analytics](https://analytics.google.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
@@ -73,10 +65,10 @@
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
-* [Facebook Analytics](https://www.facebook.com/analytics/1398569040233966/?section=overview)
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Animate CSS](https://daneden.github.io/animate.css/)
 * [Typed JS](http://www.mattboldt.com/typed.js/)
+* [Coolors](https://coolors.co)
 
 ## CSS Frameworks
 
