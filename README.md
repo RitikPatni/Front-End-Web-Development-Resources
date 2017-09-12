@@ -1,4 +1,4 @@
-# My Journey
+# A list of useful resources for Front End Developers
 
 ***Check for Broken links or inconsistencies***
 
@@ -11,7 +11,6 @@
 * [MDN](https://developer.mozilla.org/en-US/)
 * [Coursera](https://www.coursera.org/)
 * [edx](https://www.edx.org/)
-* [NodeSchool](https://nodeschool.io/)
 * [Saylor](https://www.saylor.org/)
 * [Flexbox](http://gedd.ski/master/flexbox/)
 
