@@ -36,14 +36,10 @@
 
 * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 * [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
-* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [Sizzy:Browser Testing Tool](https://sizzy.co/)
 * [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/)
-* [Google Fonts](https://fonts.google.com/)
 * [Google Analytics](https://analytics.google.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
@@ -56,16 +52,12 @@
 * [CSS Triggers](https://csstriggers.com/)
 * [Responsinator](http://www.responsinator.com/)
 * [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
-* [Color Hunt](http://colorhunt.co/)
 * [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 * [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
-* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
 * [Favicon Generator](http://www.favicon-generator.org/)
-* [Animate CSS](https://daneden.github.io/animate.css/)
 * [Typed JS](http://www.mattboldt.com/typed.js/)
-* [Coolors](https://coolors.co)
 
 ## CSS Frameworks
 
@@ -79,6 +71,9 @@
 * [Semantic UI](https://semantic-ui.com/)
 * [Materialize CSS](http://materializecss.com/)
 * [Bulma CSS](http://bulma.io/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Foundation CSS](http://foundation.zurb.com/)
+* [Animate CSS](https://daneden.github.io/animate.css/)
 
 ## Icons
 
@@ -98,3 +93,16 @@
 * [Micon](http://xtoolkit.github.io/Micon/)
 * [Font Awesome](http://fontawesome.io/)
 * [Google Material Design Icons](http://google.github.io/material-design-icons/)
+
+## Colors
+
+* [Coolors](https://coolors.co)
+* [Color Hunt](http://colorhunt.co/)
+* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
+
+## TypoGraphy
+
+* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
+* [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
+* [Google Fonts](https://fonts.google.com/)
