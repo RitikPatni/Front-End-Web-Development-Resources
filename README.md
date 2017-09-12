@@ -22,7 +22,6 @@
 * [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw)
 * [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)
 * [Muzli](https://medium.muz.li/)
-* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
 * [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg)
 * [Medium](https://medium.com/)
 * [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19)
@@ -97,6 +96,7 @@
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
+* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
 
 ## Typography
 
