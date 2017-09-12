@@ -11,16 +11,14 @@
 * [edx](https://www.edx.org/)
 * [Saylor](https://www.saylor.org/)
 * [Flexbox](http://gedd.ski/master/flexbox/)
+* [LearnAnything](https://learn-anything.xyz/)
 
 ## Blogs
 
 * [100 Ways to Be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5)
 * [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/)
-* [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
 * [An Illustrated Guide for Setting Up Your Website Using Github &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465)
-* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
-* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 * [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw)
 * [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)
 * [Muzli](https://medium.muz.li/)
@@ -57,7 +55,6 @@
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Favicon Generator](http://www.favicon-generator.org/)
-* [Typed JS](http://www.mattboldt.com/typed.js/)
 
 ## CSS Frameworks
 
@@ -73,7 +70,6 @@
 * [Bulma CSS](http://bulma.io/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation CSS](http://foundation.zurb.com/)
-* [Animate CSS](https://daneden.github.io/animate.css/)
 
 ## Icons
 
@@ -100,9 +96,18 @@
 * [Color Hunt](http://colorhunt.co/)
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
+* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 
-## TypoGraphy
+## Typography
 
 * [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
 * [Google Fonts](https://fonts.google.com/)
+* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
+* [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
+
+## Animation Frameworks
+
+* [Animate CSS](https://daneden.github.io/animate.css/)
+* [Typed JS](http://www.mattboldt.com/typed.js/)
+* [Wow JS](http://mynameismatthieu.com/WOW/)
