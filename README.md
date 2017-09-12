@@ -1,7 +1,5 @@
 # A list of useful resources for Front End Developers
 
-***Check for Broken links or inconsistencies***
-
 ## Learning
 
 * [Search Courses](https://hackr.io/)
