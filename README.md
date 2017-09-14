@@ -29,6 +29,7 @@
 * [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e)
+* [Design Resources](http://designresources.party/)
 
 ## Tools
 
@@ -51,6 +52,7 @@
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Favicon Generator](http://www.favicon-generator.org/)
+* [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 
 ## CSS Frameworks
 
@@ -109,3 +111,9 @@
 * [Typed JS](http://www.mattboldt.com/typed.js/)
 * [Wow JS](http://mynameismatthieu.com/WOW/)
 
+## Stock Resources
+
+* [The Stocks](http://thestocks.im)
+* [MakerBook - The best free resorces for creatives](http://makerbook.net/)
+* [UnSplash](https://unsplash.com)
+* [Free stock images and Videos](http://allthefreestock.com/)
