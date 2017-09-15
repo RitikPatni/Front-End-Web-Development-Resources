@@ -117,3 +117,7 @@
 * [MakerBook - The best free resorces for creatives](http://makerbook.net/)
 * [UnSplash](https://unsplash.com)
 * [Free stock images and Videos](http://allthefreestock.com/)
+
+## Geolocation
+
+* [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
