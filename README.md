@@ -124,4 +124,4 @@
 
 ## Mockups
 
-* [https://mockupsjar.com/](Free Mockup Generator)
+* [Free Mockup Generator](https://mockupsjar.com/)
