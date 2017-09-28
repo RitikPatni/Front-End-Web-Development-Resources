@@ -52,6 +52,7 @@
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Favicon Generator](http://www.favicon-generator.org/)
+* [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 
 ## CSS Frameworks
