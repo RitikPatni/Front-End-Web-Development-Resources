@@ -111,6 +111,8 @@
 * [Animate CSS](https://daneden.github.io/animate.css/)
 * [Typed JS](http://www.mattboldt.com/typed.js/)
 * [Wow JS](http://mynameismatthieu.com/WOW/)
+* [Bounce JS](http://bouncejs.com/)
+* [Magic Animations](https://www.minimamente.com/example/magic_animations/)
 
 ## Stock Resources
 
@@ -118,6 +120,7 @@
 * [MakerBook - The best free resorces for creatives](http://makerbook.net/)
 * [UnSplash](https://unsplash.com)
 * [Free stock images and Videos](http://allthefreestock.com/)
+* [Pexels](https://www.pexels.com/)
 
 ## Geolocation
 
@@ -126,3 +129,4 @@
 ## Mockups
 
 * [Free Mockup Generator](https://mockupsjar.com/)
+* [Wireframe.cc](https://wireframe.cc/)
