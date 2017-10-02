@@ -52,6 +52,7 @@
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Favicon Generator](http://www.favicon-generator.org/)
+* [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 
 ## CSS Frameworks
@@ -110,6 +111,8 @@
 * [Animate CSS](https://daneden.github.io/animate.css/)
 * [Typed JS](http://www.mattboldt.com/typed.js/)
 * [Wow JS](http://mynameismatthieu.com/WOW/)
+* [Bounce JS](http://bouncejs.com/)
+* [Magic Animations](https://www.minimamente.com/example/magic_animations/)
 
 ## Stock Resources
 
@@ -117,7 +120,14 @@
 * [MakerBook - The best free resorces for creatives](http://makerbook.net/)
 * [UnSplash](https://unsplash.com)
 * [Free stock images and Videos](http://allthefreestock.com/)
+* [Pexels](https://www.pexels.com/)
 
 ## Geolocation
 
 * [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
+
+## Mockups
+
+* [Free Mockup Generator](https://mockupsjar.com/)
+* [Wireframe.cc](https://wireframe.cc/)
+* [Figma](https://www.figma.com/)
