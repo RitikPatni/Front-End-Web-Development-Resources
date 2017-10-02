@@ -127,6 +127,14 @@
 ## Geolocation
 
 * [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
+* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
+* [Google maps API | Google](https://developers.google.com/maps/)
+
+## Apis
+
+* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
+* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 
 ## Mockups
 
