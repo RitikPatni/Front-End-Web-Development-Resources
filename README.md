@@ -17,6 +17,7 @@
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [W3School](https://www.w3schools.com/)
 * [Tutorials point](https://www.tutorialspoint.com/html/)
+
 ## Blogs
 
 * [100 Ways to Be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5)
