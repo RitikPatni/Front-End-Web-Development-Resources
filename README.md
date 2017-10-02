@@ -15,7 +15,7 @@
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
-* [W3chool](https://www.w3schools.com/)
+* [W3School](https://www.w3schools.com/)
 * [Tutorials point](https://www.tutorialspoint.com/html/)
 ## Blogs
 
