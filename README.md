@@ -56,6 +56,7 @@
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
+* [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
 
 ## CSS Frameworks
 
