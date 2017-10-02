@@ -15,6 +15,8 @@
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [W3School](https://www.w3schools.com/)
+* [Tutorials point](https://www.tutorialspoint.com/html/)
 
 ## Blogs
 
@@ -131,3 +133,7 @@
 * [Free Mockup Generator](https://mockupsjar.com/)
 * [Wireframe.cc](https://wireframe.cc/)
 * [Figma](https://www.figma.com/)
+
+## Books
+* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
+* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
