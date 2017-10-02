@@ -15,6 +15,13 @@
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [W3School](https://www.w3schools.com/)
+* [Tutorials point](https://www.tutorialspoint.com/html/)
+* [Scotch](https://scotch.io/)
+* [EggHead](https://egghead.io/)
+
+
+
 
 ## Blogs
 
@@ -30,6 +37,10 @@
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e)
 * [Design Resources](http://designresources.party/)
+* [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+* [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
+* [CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/)
+* [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/)
 
 ## Tools
 
@@ -54,6 +65,8 @@
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
+* [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
+
 
 ## CSS Frameworks
 
@@ -125,9 +138,26 @@
 ## Geolocation
 
 * [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
+* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
+* [Google maps API | Google](https://developers.google.com/maps/)
+
+## Apis
+
+* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
+* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 
 ## Mockups
 
 * [Free Mockup Generator](https://mockupsjar.com/)
 * [Wireframe.cc](https://wireframe.cc/)
 * [Figma](https://www.figma.com/)
+
+## Books
+* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
+* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
+* [Lear How To Code Im HTML5 and CSS3](http://howtocodeinhtml.com/)
+* [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W)
+* [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
+* [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF)
+
