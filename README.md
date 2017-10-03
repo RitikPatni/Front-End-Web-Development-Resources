@@ -18,7 +18,16 @@
 * [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
-
+* [Design Resources](http://designresources.party/) - Design Resources from Skullface.
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
+* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [W3School](https://www.w3schools.com/)
+* [Tutorials point](https://www.tutorialspoint.com/html/)
+* [Grid Garden](http://cssgridgarden.com/)
+* [Scotch](https://scotch.io/)
+* [EggHead](https://egghead.io/)
 
 ## Blogs
 
@@ -33,39 +42,6 @@
 * [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
-* [Design Resources](http://designresources.party/) - Design Resources from Skullface.
-* [Search Courses](https://hackr.io/)
-* [freeCodeCamp](https://www.freecodecamp.org)
-* [Udacity](https://in.udacity.com/)
-* [CodeCademy](https://www.codecademy.com/)
-* [Coursera](https://www.coursera.org/)
-* [edx](https://www.edx.org/)
-* [Saylor](https://www.saylor.org/)
-* [Flexbox](http://gedd.ski/master/flexbox/)
-* [LearnAnything](https://learn-anything.xyz/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
-* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
-* [W3School](https://www.w3schools.com/)
-* [Tutorials point](https://www.tutorialspoint.com/html/)
-* [Grid Garden](http://cssgridgarden.com/)
-* [Scotch](https://scotch.io/)
-* [EggHead](https://egghead.io/)
-
-## Blogs
-
-* [100 Ways to Be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5)
-* [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/)
-* [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
-* [An Illustrated Guide for Setting Up Your Website Using Github &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465)
-* [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw)
-* [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)
-* [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg)
-* [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19)
-* [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
-* [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
-* [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e)
 * [Design Resources](http://designresources.party/)
 * [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
