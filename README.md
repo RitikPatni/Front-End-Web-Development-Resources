@@ -59,10 +59,8 @@
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
-* [JS Fiddle](https://jsfiddle.net/)
 * [Codepen](https://codepen.io/)
 * [JS Bin](http://jsbin.com/?html,output)
-* [Can I Use](http://caniuse.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 
 
@@ -127,10 +125,7 @@
 * [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
 * [Fontspiration](http://sfcd.com/work/fontspiration/)
 * [Typekit](https://typekit.com/)
-* [Fontspiration](http://sfcd.com/work/fontspiration/)
 * [Just My Type](https://justmytype.co/)
-* [Fontspiration](http://sfcd.com/work/fontspiration/)
-* [Fontspiration](http://sfcd.com/work/fontspiration/)
 
 
 ## Animation Frameworks
