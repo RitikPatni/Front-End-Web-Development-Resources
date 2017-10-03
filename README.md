@@ -19,11 +19,11 @@
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 * [Design Resources](http://designresources.party/) - Design Resources from Skullface.
-* [W3School](https://www.w3schools.com/)
-* [Tutorials point](https://www.tutorialspoint.com/html/)
-* [Grid Garden](http://cssgridgarden.com/)
-* [Scotch](https://scotch.io/)
-* [EggHead](https://egghead.io/)
+* [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
+* [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. 
+* [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
+* [Scotch](https://scotch.io/) - Many web development courses. Has both free and "Premium" (paid) memberships. 
+* [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. 
 
 ## Blogs
 
