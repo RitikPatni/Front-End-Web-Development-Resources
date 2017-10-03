@@ -2,6 +2,38 @@
 
 ## Learning
 
+* [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials.
+* [freeCodeCamp](https://www.freecodecamp.org) - A free resource incorporating programming projects and interview preparation for developer jobs.
+* [Udacity](https://in.udacity.com/) - Learn anything online – deep learning, machine learning, front end languages. 
+* [CodeCademy](https://www.codecademy.com/) - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. 
+* [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
+* [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
+* [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students. 
+* [Flexbox](http://gedd.ski/master/flexbox/) - Level up your Flexbox knowledge –  an online, Zombie-centric story course.
+* [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - The latest information about Open Web technologies.
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - A quick reference guide to the many features of CSS.
+* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox layout.
+* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
+* [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
+* [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
+* [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
+
+
+## Blogs
+
+* [100 Ways to Be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes.
+* [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/) - 72 Quotes about Design and Creativity from Margaret Kelsey.
+* [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
+* [An Illustrated Guide for Setting Up Your Website Using Github &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
+* [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw) - How to Build a Random Quote Generator with JavaScript and HTML, for Absolute Beginners from Sophanarith Sok.
+* [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) - Let’s Code a Neural Network from Scratch from Charles Fried
+* [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg) - What it’s Like to Build and Market a Chatbot When You’re Only 14 Years Old from Alec Jones
+* [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19) - Domain Registrars, DNS, and Hosting from Kirby Kohlmorge
+* [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning
+* [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
+* [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
+* [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 * [Search Courses](https://hackr.io/)
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [Udacity](https://in.udacity.com/)
@@ -63,8 +95,10 @@
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
+* [Codepen](https://codepen.io/)
+* [JS Bin](http://jsbin.com/?html,output)
+* [Stack Overflow](https://stackoverflow.com/)
 * [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
-
 
 ## CSS Frameworks
 
@@ -80,10 +114,13 @@
 * [Bulma CSS](http://bulma.io/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation CSS](http://foundation.zurb.com/)
+* [Jeet](http://jeet.gs/)
+* [Neat](https://neat.bourbon.io/)
+* [Unsemantic](https://unsemantic.com/)
+* [Less](http://lessframework.com/)
 * [Cardinal](http://cardinalcss.com/) 
 * [Caramel](http://caramel.ga/) 
 * [Tacit](https://github.com/yegor256/tacit)
-
 
 ## Icons
 
@@ -103,6 +140,8 @@
 * [Micon](http://xtoolkit.github.io/Micon/)
 * [Font Awesome](http://fontawesome.io/)
 * [Google Material Design Icons](http://google.github.io/material-design-icons/)
+* [Flat Icon](https://www.flaticon.com/)
+
 
 ## Colors
 
@@ -112,6 +151,8 @@
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 * [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
+* [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4)
+
 
 ## Typography
 
@@ -120,6 +161,10 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
 * [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
+* [Fontspiration](http://sfcd.com/work/fontspiration/)
+* [Typekit](https://typekit.com/)
+* [Just My Type](https://justmytype.co/)
+
 
 ## Animation Frameworks
 
