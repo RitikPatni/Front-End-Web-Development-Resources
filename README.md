@@ -94,6 +94,7 @@
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Favicon Generator](http://www.favicon-generator.org/)
 * [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
+* [Generate favicon based on text](https://favicon.io/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 * [Codepen](https://codepen.io/)
 * [JS Bin](http://jsbin.com/?html,output)
