@@ -19,10 +19,6 @@
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 * [Design Resources](http://designresources.party/) - Design Resources from Skullface.
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
-* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [W3School](https://www.w3schools.com/)
 * [Tutorials point](https://www.tutorialspoint.com/html/)
 * [Grid Garden](http://cssgridgarden.com/)
