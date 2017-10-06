@@ -68,6 +68,8 @@
 * [Bulma CSS](http://bulma.io/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation CSS](http://foundation.zurb.com/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [CSS Grid Garden](http://cssgridgarden.com/)
 
 ## Icons
 
