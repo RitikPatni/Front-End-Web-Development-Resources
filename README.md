@@ -17,21 +17,22 @@
  - [Books](#books)
 
 -----------------------------------------------------------------------------
+**Resources recommended by me are marked with a :thumbsup:**
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox layout.
-* [CodeCademy](https://www.codecademy.com/) - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. 
+* [CodeCademy](https://www.codecademy.com/):thumbsup: - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. 
 * [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
-* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) - A quick reference guide to the many features of CSS.
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/):thumbsup: - A quick reference guide to the many features of CSS.
 * [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 * [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
 * [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. 
-* [Flexbox](http://gedd.ski/master/flexbox/) - Level up your Flexbox knowledge –  an online, Zombie-centric story course.
+* [Flexbox](http://gedd.ski/master/flexbox/):thumbsup: - Level up your Flexbox knowledge –  an online, Zombie-centric story course.
 * [Flexbox Froggy](http://flexboxfroggy.com/)
-* [freeCodeCamp](https://www.freecodecamp.org) - A free resource incorporating programming projects and interview preparation for developer jobs.
+* [freeCodeCamp](https://www.freecodecamp.org):thumbsup: - A free resource incorporating programming projects and interview preparation for developer jobs.
 * [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 * [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - The latest information about Open Web technologies.
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/):thumbsup: - The latest information about Open Web technologies.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 * [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
 * [Scotch](https://scotch.io/) - Many web development courses. Has both free and "Premium" (paid) memberships.  
@@ -39,7 +40,7 @@
 * [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
 * [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development 
 * [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. 
-* [Udacity](https://in.udacity.com/) - Learn anything online – deep learning, machine learning, front end languages. 
+* [Udacity](https://in.udacity.com/):thumbsup: - Learn anything online – deep learning, machine learning, front end languages. 
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
@@ -68,29 +69,29 @@
 * [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 * [Better Code Hub](https://bettercodehub.com/repositories)
 * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
-* [Can I use... Support tables for HTML5, CSS3, etc](http://www.caniuse.com/)
+* [Can I use... Support tables for HTML5, CSS3, etc](http://www.caniuse.com/):thumbsup:
 * [Codepen](https://codepen.io/)
 * [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 * [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 * [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
-* [CSS Triggers](https://csstriggers.com/)
-* [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/)
+* [CSS Triggers](https://csstriggers.com/):thumbsup:
+* [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/):thumbsup:
 * [Favicon Generator](http://www.favicon-generator.org/)
-* [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)
-* [Generate favicon based on text](https://favicon.io/)
+* [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/):thumbsup:
+* [Generate favicon based on text](https://favicon.io/):thumbsup:
 * [Google Analytics](https://analytics.google.com/)
 * [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
 * [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
 * [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 * [JS Bin](http://jsbin.com/?html,output)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):thumbsup:
 * [Responsinator](http://www.responsinator.com/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 * [Sizzy:Browser Testing Tool](https://sizzy.co/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
 * [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
-* [Web Developer Checklist](http://webdevchecklist.com/)
+* [Web Developer Checklist](http://webdevchecklist.com/):thumbsup:
 
 ## CSS Frameworks
 
@@ -98,7 +99,6 @@
 * [Bulma CSS](http://bulma.io/)
 * [Caramel](http://caramel.ga/) 
 * [Cardinal](http://cardinalcss.com/) 
-* [CSS Grid Garden](http://cssgridgarden.com/)
 * [Element CSS](http://element.eleme.io/#/en-US)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Foundation CSS](http://foundation.zurb.com/)
@@ -107,7 +107,7 @@
 * [Pure CSS](https://purecss.io/)
 * [Less](http://lessframework.com/)
 * [Material Design Lite](https://getmdl.io/)
-* [Materialize CSS](http://materializecss.com/)
+* [Materialize CSS](http://materializecss.com/):thumbsup:
 * [Neat](https://neat.bourbon.io/)
 * [Semantic UI](https://semantic-ui.com/)
 * [Skeleton CSS](http://getskeleton.com/)
@@ -120,9 +120,9 @@
 
 * [Brandicons](http://fontello.github.io/brandico.font/demo.html)
 * [Flat Icon](https://www.flaticon.com/)
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](http://fontawesome.io/):thumbsup:
 * [Glyphicon](http://www.webhostinghub.com/glyphs/)
-* [Google Material Design Icons](http://google.github.io/material-design-icons/)
+* [Google Material Design Icons](http://google.github.io/material-design-icons/):thumbsup:
 * [Icomoon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
 * [Mapicons](http://map-icons.com/)
@@ -142,7 +142,7 @@
 * [Color Hunt](http://colorhunt.co/)
 * [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
-* [Coolors](https://coolors.co)
+* [Coolors](https://coolors.co):thumbsup:
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 * [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4)
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
@@ -153,7 +153,7 @@
 * [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
 * [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
 * [Fontspiration](http://sfcd.com/work/fontspiration/)
-* [Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/):thumbsup:
 * [Just My Type](https://justmytype.co/)
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
 * [Typekit](https://typekit.com/)
@@ -174,7 +174,7 @@
 * [MakerBook - The best free resorces for creatives](http://makerbook.net/)
 * [Pexels](https://www.pexels.com/)
 * [The Stocks](http://thestocks.im)
-* [UnSplash](https://unsplash.com)
+* [UnSplash](https://unsplash.com):thumbsup:
 
 ## Geolocation
 
@@ -190,7 +190,7 @@
 
 ## Mockups
 
-* [Figma](https://www.figma.com/)
+* [Figma](https://www.figma.com/):thumbsup:
 * [Free Mockup Generator](https://mockupsjar.com/)
 * [Wireframe.cc](https://wireframe.cc/)
 
