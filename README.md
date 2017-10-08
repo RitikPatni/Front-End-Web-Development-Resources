@@ -1,5 +1,21 @@
 ﻿# A list of useful resources for Front End Developers
+--------------------
 
+ - [Learning](#learning)
+ - [Blogs](#blogs)
+ - [Tools](#tools)
+ - [CSS Frameworks](#css-frameworks)
+ - [Icons](#icons)
+ - [Colors](#colors)
+ - [Typography](#typography)
+ - [Animation Frameworks](#animation-frameworks)
+ - [Stock Resources](#stock-resources)
+ - [Geolocation](#geolocation)
+ - [Apis](#apis)
+ - [Mockups](#mockups)
+ - [Books](#books)
+
+-----------------------------------------------------------------------------
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox layout.
