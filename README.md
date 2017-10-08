@@ -20,6 +20,7 @@
 * [Scotch](https://scotch.io/) - Many web development courses. Has both free and "Premium" (paid) memberships.  
 * [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials.
 * [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
+* [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development 
 * [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. 
 * [Udacity](https://in.udacity.com/) - Learn anything online – deep learning, machine learning, front end languages. 
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
