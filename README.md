@@ -1,5 +1,6 @@
 ﻿# A list of useful resources for Front End Developers
 --------------------
+## Table of Contents
 
  - [Learning](#learning)
  - [Blogs](#blogs)
