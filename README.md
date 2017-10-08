@@ -17,7 +17,6 @@
  - [Books](#books)
 
 -----------------------------------------------------------------------------
-**Resources recommended by me are marked with a :thumbsup:**
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox layout.
