@@ -24,6 +24,7 @@
 * [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 * [Scotch](https://scotch.io/) - Many web development courses. Has both free and "Premium" (paid) memberships. 
 * [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. 
+* [Flexbox Froggy](http://flexboxfroggy.com/)
 
 ## Blogs
 
@@ -94,6 +95,8 @@
 * [Cardinal](http://cardinalcss.com/) 
 * [Caramel](http://caramel.ga/) 
 * [Tacit](https://github.com/yegor256/tacit)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [CSS Grid Garden](http://cssgridgarden.com/)
 
 ## Icons
 
