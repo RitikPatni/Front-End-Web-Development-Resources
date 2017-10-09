@@ -15,6 +15,7 @@
  - [Apis](#apis)
  - [Mockups](#mockups)
  - [Books](#books)
+ - [Challenges](#challenges)
 
 -----------------------------------------------------------------------------
 ## Learning
@@ -198,5 +199,8 @@
 * [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
 * [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W)
 * [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF)
-* [Lear How To Code Im HTML5 and CSS3](http://howtocodeinhtml.com/)
+* [Learn How To Code Im HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
+
+## Challenges
+* [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design,a nd a chance to do your own.
