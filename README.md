@@ -203,4 +203,4 @@
 * [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
 
 ## Challenges
-* [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design,a nd a chance to do your own.
+* [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
