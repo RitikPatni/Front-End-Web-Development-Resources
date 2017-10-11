@@ -191,7 +191,7 @@
 ## Mockups
 
 * [Figma](https://www.figma.com/):thumbsup:
-* [Free Mockup Generator](https://mockupsjar.com/)
+* [MockupsJar](https://mockupsjar.com/):thumbsup:
 * [Wireframe.cc](https://wireframe.cc/)
 
 ## Books
