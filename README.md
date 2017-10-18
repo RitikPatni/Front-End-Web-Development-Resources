@@ -12,7 +12,7 @@
  - [Animation Frameworks](#animation-frameworks)
  - [Stock Resources](#stock-resources)
  - [Geolocation](#geolocation)
- - [Apis](#apis)
+ - [APIs](#apis)
  - [Mockups](#mockups)
  - [Books](#books)
  - [Challenges](#challenges)
@@ -182,11 +182,12 @@
 * [Google maps API | Google](https://developers.google.com/maps/)
 * [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
 
-## Apis
+## APIs
 
 * [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
 * [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [A list of public APIs](https://github.com/toddmotto/public-apis)
 
 ## Mockups
 
