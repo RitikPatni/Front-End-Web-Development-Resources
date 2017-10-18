@@ -3,7 +3,7 @@
 ## Table of Contents
 
  - [Learning](#learning)
- - [Youtube channels](#youtobe-channels)
+ - [Youtube channels](#youtube-channels)
  - [Blogs](#blogs)
  - [Tools](#tools)
  - [CSS Frameworks](#css-frameworks)
