@@ -12,7 +12,7 @@
  - [Animation Frameworks](#animation-frameworks)
  - [Stock Resources](#stock-resources)
  - [Geolocation](#geolocation)
- - [Apis](#apis)
+ - [APIs](#apis)
  - [Mockups](#mockups)
  - [Books](#books)
  - [Challenges](#challenges)
@@ -47,7 +47,7 @@
 
 ## Blogs
 
-* [100 Ways to Be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes.
+* [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes.
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
 * [An Illustrated Guide for Setting Up Your Website Using Github &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
@@ -182,11 +182,12 @@
 * [Google maps API | Google](https://developers.google.com/maps/)
 * [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
 
-## Apis
+## APIs
 
 * [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
 * [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
+* [A list of public APIs](https://github.com/toddmotto/public-apis)
 
 ## Mockups
 
@@ -199,7 +200,7 @@
 * [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
 * [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W)
 * [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF)
-* [Learn How To Code Im HTML5 and CSS3](http://howtocodeinhtml.com/)
+* [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
 * [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books)
 
