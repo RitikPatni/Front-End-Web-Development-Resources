@@ -3,6 +3,7 @@
 ## Table of Contents
 
  - [Learning](#learning)
+ - [Youtube channels](#youtube-channels)
  - [Blogs](#blogs)
  - [Tools](#tools)
  - [CSS Frameworks](#css-frameworks)
@@ -44,6 +45,24 @@
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
+
+## Youtube channels
+
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb/):thumbsup:
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/)
+* [thenewboston](https://www.youtube.com/user/thenewboston)
+* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/)
+* [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/)
+* [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+* [Brad Hussey](https://www.youtube.com/user/hussey17)
+* [Coder’s Guide](https://www.youtube.com/user/CodersGuide/)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
+* [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft)
+* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - Arabic only
 
 ## Blogs
 
