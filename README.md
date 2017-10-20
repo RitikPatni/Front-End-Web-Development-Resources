@@ -48,21 +48,21 @@
 
 ## Youtube channels
 
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb/):thumbsup:
-* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/)
-* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/)
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/)
-* [thenewboston](https://www.youtube.com/user/thenewboston)
-* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/)
-* [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/)
-* [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
-* [Brad Hussey](https://www.youtube.com/user/hussey17)
-* [Coder’s Guide](https://www.youtube.com/user/CodersGuide/)
-* [Derek Banas](https://www.youtube.com/user/derekbanas)
-* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
-* [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft)
-* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - Arabic only
+* [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on: WordPress, PSD to HTML
+* [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on: Bootstrap, SASS, jQuery, PHP, Freelancing
+* [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier.
+* [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on: HTML, CSS, Javascript, Bootstrap
+* [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on: C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub.
+* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only** 
+* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, Javascript, React JS / Redux, Node JS
+* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, Javascript, Git and Github, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
+* [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, Javascript, React, Math, Science, Software Engineering, Open source software
+* [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on: ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb/):thumbsup: - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQLECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, Codeigniter, Programing Tips
 
 ## Blogs
 
