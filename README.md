@@ -1,4 +1,4 @@
-﻿# A list of useful resources for Front End Developers
+# A list of useful resources for Front End Developers
 --------------------
 ## Table of Contents
 
@@ -160,11 +160,11 @@
 ## Colors
 
 * [Color Hunt](http://colorhunt.co/) - Open Collections of Beautiful Color Palettes
-* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial with examples on the Use of Color
+* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the Use of Color with examples
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive Color Wheel with Different Color Rules (Adjustments possible)
 * [Coolors](https://coolors.co):thumbsup: - Super fast Color Scheme Creator with a lot of funcionalities
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A Complete Guide to design in Color (Article on Medium)
-* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated Color Palette Inspiration
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated Color Palette Inspirations
 * [Material Palette](https://www.materialpalette.com/) - Color Palette Generator for Material Design
 * [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive Color Picker: Creates a Color Scheme based on your Preferences and Palettes on the Internet
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced Tool for Creating Color Schemes
@@ -197,14 +197,14 @@
 * [Free stock images and Videos](http://allthefreestock.com/) - A great collection of Stock Photos, Videos and other resources. Most of them under the CC0-License, all of them free
 * [MakerBook - The best free resorces for creatives](http://makerbook.net/) - A Directory of Sites to get free Recources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools)
 * [Pexels](https://www.pexels.com/) - Exclusively Stock Photos of High Quality, Great Feature: Filter Photos by Color.
-* [The Stocks](http://thestocks.im) - Another awesome Directory sharing Sites for Resources, loading directly on the web page
-* [UnSplash](https://unsplash.com):thumbsup: - "Beautiful, Free Photos", Collections of Photos
+* [The Stocks](http://thestocks.im) - Another awesome Directory sharing Sites for Resources, loading directly on the Webpage
+* [UnSplash](https://unsplash.com):thumbsup: - "Beautiful, Free Photos" & Themed Collections of Photos
 
 ## Geolocation
 
 * [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
-* [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & pricing informations & learning resources - extensive
-* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube Tutorial about using the Google Maps APIs
+* [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive
+* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube Tutorial on using the Google Maps APIs
 
 ## APIs
 
