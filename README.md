@@ -105,6 +105,7 @@
 * [JS Bin](http://jsbin.com/?html,output)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):thumbsup:
 * [Responsinator](http://www.responsinator.com/)
+* [Responsive Grid System](http://www.responsivegridsystem.com/)
 * [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
 * [Sizzy:Browser Testing Tool](https://sizzy.co/)
 * [Stack Overflow](https://stackoverflow.com/)
@@ -163,8 +164,11 @@
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
 * [Coolors](https://coolors.co):thumbsup:
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
+* [Material Palette](https://www.materialpalette.com/)
 * [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4)
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [UI Gradients](https://uigradients.com/#Influenza)
 
 
 ## Typography
@@ -172,6 +176,7 @@
 * [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
 * [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
 * [Fontspiration](http://sfcd.com/work/fontspiration/)
+* [Fontsquirrel](https://www.fontsquirrel.com/)
 * [Google Fonts](https://fonts.google.com/):thumbsup:
 * [Just My Type](https://justmytype.co/)
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
