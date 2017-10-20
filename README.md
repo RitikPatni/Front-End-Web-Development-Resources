@@ -159,16 +159,16 @@
 
 ## Colors
 
-* [Color Hunt](http://colorhunt.co/)
-* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
-* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
-* [Coolors](https://coolors.co):thumbsup:
-* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
-* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
-* [Material Palette](https://www.materialpalette.com/)
-* [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4)
-* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* [UI Gradients](https://uigradients.com/#Influenza)
+* [Color Hunt](http://colorhunt.co/) - Open Collections of Beautiful Color Palettes
+* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial with examples on the Use of Color
+* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive Color Wheel with Different Color Rules (Adjustments possible)
+* [Coolors](https://coolors.co):thumbsup: - Super fast Color Scheme Creator with a lot of funcionalities
+* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A Complete Guide to design in Color (Article on Medium)
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated Color Palette Inspiration
+* [Material Palette](https://www.materialpalette.com/) - Color Palette Generator for Material Design
+* [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive Color Picker: Creates a Color Scheme based on your Preferences and Palettes on the Internet
+* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced Tool for Creating Color Schemes
+* [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful Gradients, download JPG and copy CSS Code
 
 
 ## Typography
@@ -186,38 +186,38 @@
 
 ## Animation Frameworks
 
-* [Animate CSS](https://daneden.github.io/animate.css/)
-* [Bounce JS](http://bouncejs.com/)
-* [Magic Animations](https://www.minimamente.com/example/magic_animations/)
-* [Typed JS](http://www.mattboldt.com/typed.js/)
-* [Wow JS](http://mynameismatthieu.com/WOW/)
+* [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different Animation Types (over 70)
+* [Bounce JS](http://bouncejs.com/) - Tool and JS Library, Creating CSS3 powered Animations(Adjustments possible) & Export CSS-Code
+* [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different Animations with Link to GitHub Repo
+* [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript Typing Animation Library with a great Documentation on GitHub
+* [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript Library: Reveal CSS animation as you scroll down a page
 
 ## Stock Resources
 
-* [Free stock images and Videos](http://allthefreestock.com/)
-* [MakerBook - The best free resorces for creatives](http://makerbook.net/)
-* [Pexels](https://www.pexels.com/)
-* [The Stocks](http://thestocks.im)
-* [UnSplash](https://unsplash.com):thumbsup:
+* [Free stock images and Videos](http://allthefreestock.com/) - A great collection of Stock Photos, Videos and other resources. Most of them under the CC0-License, all of them free
+* [MakerBook - The best free resorces for creatives](http://makerbook.net/) - A Directory of Sites to get free Recources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools)
+* [Pexels](https://www.pexels.com/) - Exclusively Stock Photos of High Quality, Great Feature: Filter Photos by Color.
+* [The Stocks](http://thestocks.im) - Another awesome Directory sharing Sites for Resources, loading directly on the web page
+* [UnSplash](https://unsplash.com):thumbsup: - "Beautiful, Free Photos", Collections of Photos
 
 ## Geolocation
 
-* [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
-* [Google maps API | Google](https://developers.google.com/maps/)
-* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
+* [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
+* [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & pricing informations & learning resources - extensive
+* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube Tutorial about using the Google Maps APIs
 
 ## APIs
 
 * [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
-* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
+* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)  
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [A list of public APIs](https://github.com/toddmotto/public-apis)
 
 ## Mockups
 
-* [Figma](https://www.figma.com/):thumbsup:
-* [MockupsJar](https://mockupsjar.com/):thumbsup:
-* [Wireframe.cc](https://wireframe.cc/)
+* [Figma](https://www.figma.com/):thumbsup: - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
+* [MockupsJar](https://mockupsjar.com/):thumbsup: - Build mockups with screenshots of your application or web Design for free to share with customers and clients
+* [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
 
 ## Books
 * [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
