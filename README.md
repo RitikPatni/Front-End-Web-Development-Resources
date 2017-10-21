@@ -220,13 +220,13 @@
 * [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
 
 ## Books
-* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
-* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
-* [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W)
-* [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF)
-* [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/)
-* [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
-* [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books)
+* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages)
+* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages)
+* [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5
+* [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF) - A complete course from Beginner to Mastermind
+* [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/) - A free e-book about making websites in HTML5 and CSS for absolute beginners
+* [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY) - A comprehensive book about making RWD
+* [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books) A directory of free learning resources, categorized by language
 
 ## Challenges
 * [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
