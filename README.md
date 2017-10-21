@@ -46,6 +46,10 @@
 * [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Youtube channels
 
 * [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on: WordPress, PSD to HTML
@@ -62,7 +66,11 @@
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, Javascript, Git and Github, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 * [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
 * [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on: ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb/):thumbsup: - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQLECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, Codeigniter, Programing Tips
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb/):thumbsup: - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, Codeigniter, Programing Tips
+
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Blogs
 
@@ -82,6 +90,10 @@
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
 * [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg) - What it’s Like to Build and Market a Chatbot When You’re Only 14 Years Old from Alec Jones
 * [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Tools
 
@@ -113,6 +125,10 @@
 * [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
 * [Web Developer Checklist](http://webdevchecklist.com/):thumbsup:
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## CSS Frameworks
 
 * [Bootstrap](http://getbootstrap.com/)
@@ -136,6 +152,10 @@
 * [Unsemantic](https://unsemantic.com/)
 * [Vital CSS](https://vitalcss.com/components/)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Icons
 
 * [Brandicons](http://fontello.github.io/brandico.font/demo.html)
@@ -156,6 +176,9 @@
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * [Zocial | CSS3 Button Set](http://zocial.smcllns.com/)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Colors
 
@@ -170,6 +193,9 @@
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [UI Gradients](https://uigradients.com/#Influenza)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Typography
 
@@ -183,6 +209,9 @@
 * [Typekit](https://typekit.com/)
 * [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Animation Frameworks
 
@@ -192,6 +221,10 @@
 * [Typed JS](http://www.mattboldt.com/typed.js/)
 * [Wow JS](http://mynameismatthieu.com/WOW/)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Stock Resources
 
 * [Free stock images and Videos](http://allthefreestock.com/)
@@ -200,11 +233,19 @@
 * [The Stocks](http://thestocks.im)
 * [UnSplash](https://unsplash.com):thumbsup:
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Geolocation
 
 * [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
 * [Google maps API | Google](https://developers.google.com/maps/)
 * [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## APIs
 
@@ -213,11 +254,19 @@
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [A list of public APIs](https://github.com/toddmotto/public-apis)
 
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Mockups
 
 * [Figma](https://www.figma.com/):thumbsup:
 * [MockupsJar](https://mockupsjar.com/):thumbsup:
 * [Wireframe.cc](https://wireframe.cc/)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Books
 * [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
@@ -227,6 +276,10 @@
 * [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
 * [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
 
 ## Challenges
 * [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
