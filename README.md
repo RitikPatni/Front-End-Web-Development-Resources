@@ -174,7 +174,7 @@
 ## Typography
 
 * [A Crash Course in Typography: The Basics of Type](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html) - First article of a series on Typography
-* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - 
+* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - a great resource for everything Typography
 * [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on Hot to pair Google Fonts
 * [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs
 * [Fontsquirrel](https://www.fontsquirrel.com/) - A resource for FREE, hand-picked, high-quality, commercial-use fonts
