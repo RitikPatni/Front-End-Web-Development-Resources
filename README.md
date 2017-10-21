@@ -173,15 +173,16 @@
 
 ## Typography
 
-* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
-* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
-* [Fontspiration](http://sfcd.com/work/fontspiration/)
-* [Fontsquirrel](https://www.fontsquirrel.com/)
-* [Google Fonts](https://fonts.google.com/):thumbsup:
-* [Just My Type](https://justmytype.co/)
+* [A Crash Course in Typography: The Basics of Type](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html) - First article of a series on Typography
+* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - 
+* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on Hot to pair Google Fonts
+* [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs
+* [Fontsquirrel](https://www.fontsquirrel.com/) - A resource for FREE, hand-picked, high-quality, commercial-use fonts
+* [Google Fonts](https://fonts.google.com/):thumbsup: - A catalog of free & open source fonts, great details and font pair suggestions
+* [Just My Type](https://justmytype.co/) - A collection of font pairings
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
-* [Typekit](https://typekit.com/)
-* [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
+* [Typekit](https://typekit.com/) - "Quality fonts from the world’s best foundries"
+* [Typography Terms](https://designschool.canva.com/blog/typography-terms/) - Everything you need to know about type theory
 
 
 ## Animation Frameworks
