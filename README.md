@@ -1,4 +1,4 @@
-﻿# A list of useful resources for Front End Developers
+# A list of useful resources for Front End Developers
 --------------------
 ## Table of Contents
 
@@ -182,16 +182,16 @@
 
 ## Colors
 
-* [Color Hunt](http://colorhunt.co/)
-* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/)
-* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4)
-* [Coolors](https://coolors.co):thumbsup:
-* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
-* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
-* [Material Palette](https://www.materialpalette.com/)
-* [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4)
-* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* [UI Gradients](https://uigradients.com/#Influenza)
+* [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes
+* [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples
+* [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
+* [Coolors](https://coolors.co):thumbsup: - Super fast color scheme creator with a lot of funcionalities
+* [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
+* [Material Palette](https://www.materialpalette.com/) - Color palette generator for Material Design
+* [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive color picker: creates a color scheme based on your preferences and palettes on the Internet
+* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes
+* [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -199,15 +199,16 @@
 
 ## Typography
 
-* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular)
-* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
-* [Fontspiration](http://sfcd.com/work/fontspiration/)
-* [Fontsquirrel](https://www.fontsquirrel.com/)
-* [Google Fonts](https://fonts.google.com/):thumbsup:
-* [Just My Type](https://justmytype.co/)
-* [Table of Contents | The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc/)
-* [Typekit](https://typekit.com/)
-* [Typography Terms](https://designschool.canva.com/blog/typography-terms/)
+* [A Crash Course in Typography: The Basics of Type](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html) - First article of a series on Typography
+* [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - A great resource for everything related to Typography
+* [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on How to pair Google Fonts
+* [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs
+* [Fontsquirrel](https://www.fontsquirrel.com/) - A resource for FREE, hand-picked, high-quality, commercial-use fonts
+* [Google Fonts](https://fonts.google.com/):thumbsup: - A catalog of free & open source fonts, great details and font pair suggestions
+* [Just My Type](https://justmytype.co/) - A collection of font pairings
+* [Table of Contents | The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) - A practical guide to web typography
+* [Typekit](https://typekit.com/) - "Quality fonts from the world’s best foundries"
+* [Typography Terms](https://designschool.canva.com/blog/typography-terms/) - An infographic on Typography Terms + explanations
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -215,11 +216,11 @@
 
 ## Animation Frameworks
 
-* [Animate CSS](https://daneden.github.io/animate.css/)
-* [Bounce JS](http://bouncejs.com/)
-* [Magic Animations](https://www.minimamente.com/example/magic_animations/)
-* [Typed JS](http://www.mattboldt.com/typed.js/)
-* [Wow JS](http://mynameismatthieu.com/WOW/)
+* [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70)
+* [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code
+* [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo
+* [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub
+* [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -227,11 +228,11 @@
 
 ## Stock Resources
 
-* [Free stock images and Videos](http://allthefreestock.com/)
-* [MakerBook - The best free resorces for creatives](http://makerbook.net/)
-* [Pexels](https://www.pexels.com/)
-* [The Stocks](http://thestocks.im)
-* [UnSplash](https://unsplash.com):thumbsup:
+* [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free
+* [MakerBook - The best free resorces for creatives](http://makerbook.net/) - A directory of sites to get free recources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools)
+* [Pexels](https://www.pexels.com/) - Exclusively stock photos of high quality, great feature: Filter photos by color.
+* [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage
+* [UnSplash](https://unsplash.com):thumbsup: - "Beautiful, Free Photos" & themed collections of photos
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -239,9 +240,9 @@
 
 ## Geolocation
 
-* [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/)
-* [Google maps API | Google](https://developers.google.com/maps/)
-* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/)
+* [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
+* [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive
+* [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube tutorial on using the Google Maps APIs
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -250,7 +251,7 @@
 ## APIs
 
 * [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
-* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
+* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)  
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [A list of public APIs](https://github.com/toddmotto/public-apis)
 
@@ -260,22 +261,22 @@
 
 ## Mockups
 
-* [Figma](https://www.figma.com/):thumbsup:
-* [MockupsJar](https://mockupsjar.com/):thumbsup:
-* [Wireframe.cc](https://wireframe.cc/)
+* [Figma](https://www.figma.com/):thumbsup: - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
+* [MockupsJar](https://mockupsjar.com/):thumbsup: - Build mockups with screenshots of your application or web Design for free to share with customers and clients
+* [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
 
 **[⬆ back to top](#table-of-contents)**
 
 ---
 
 ## Books
-* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf)
-* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf)
-* [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W)
-* [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF)
-* [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/)
-* [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY)
-* [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books)
+* [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages)
+* [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages)
+* [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5
+* [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF) - A complete course from Beginner to Mastermind
+* [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/) - A free e-book about making websites in HTML5 and CSS for absolute beginners
+* [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY) - A comprehensive book about making RWD
+* [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books) A directory of free learning resources, categorized by language
 
 **[⬆ back to top](#table-of-contents)**
 
