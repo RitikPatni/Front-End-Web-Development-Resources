@@ -1,4 +1,4 @@
-# A list of useful resources for Front End Developers
+﻿# A list of useful resources for Front End Developers
 --------------------
 ## Table of Contents
 
@@ -228,10 +228,16 @@
 
 ## Stock Resources
 
-* [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free
-* [MakerBook - The best free resorces for creatives](http://makerbook.net/) - A directory of sites to get free recources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools)
+* [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free.
+* [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions.
+* [I’d Pin That!](http://idpinthat.com) - Created to help bloggers and non-designers create high quality images like those often seen on Pinterest. I’d Pin That is more than just a source for free images — **it is an image editor!** Use the tools provided here to add your own text and edit the images right on the site.
+* [MakerBook - The best free resorces for creatives](http://makerbook.net/) - A directory of sites to get free recources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools).
+* [Morguefile](https://morguefile.com/) - Founded in 1996 by college student Michael Connors.Photographers contribute images to Morguefile for visitors to use in their creative projects. Yes, they’re all completely free. The website does ask that you credit the photographer when possible.
 * [Pexels](https://www.pexels.com/) - Exclusively stock photos of high quality, great feature: Filter photos by color.
+* [Pixabay](https://pixabay.com/) - In addition to photos, Pixabay offers **video, vectors and illustrations.**
+* [Public Domain Archive](http://publicdomainarchive.com/) - “a public domain image repository” created by Matt a graphic designer, web designer and photographer.Vintage and modern images.
 * [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage
+* [The Open Photo Project](https://openphoto.net/) - The Open Photo Project is a photo sharing platform created in 1998 by Michael Jastremski. Contributors have offered their images free of charge under terms of Creative Commons licensing.
 * [UnSplash](https://unsplash.com):thumbsup: - "Beautiful, Free Photos" & themed collections of photos
 
 **[⬆ back to top](#table-of-contents)**
@@ -285,3 +291,7 @@
 ## Challenges
 * [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 * [JavaScript30](https://javascript30.com/) A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
