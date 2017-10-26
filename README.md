@@ -10,6 +10,7 @@
  - [Icons](#icons)
  - [Colors](#colors)
  - [Typography](#typography)
+ - [Design Inspiration](#design-inspiration)
  - [Animation Frameworks](#animation-frameworks)
  - [Stock Resources](#stock-resources)
  - [Geolocation](#geolocation)
@@ -209,6 +210,15 @@
 * [Table of Contents | The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) - A practical guide to web typography
 * [Typekit](https://typekit.com/) - "Quality fonts from the world’s best foundries"
 * [Typography Terms](https://designschool.canva.com/blog/typography-terms/) - An infographic on Typography Terms + explanations
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+##Design Inspiration
+* [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired.
+* [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design.
+* [Webdesign Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world.
 
 **[⬆ back to top](#table-of-contents)**
 
