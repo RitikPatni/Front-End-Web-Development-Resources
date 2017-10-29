@@ -1,4 +1,4 @@
-﻿# A list of useful resources for Front End Developers
+﻿# A List of Useful Resources for Front End Developers
 --------------------
 ## Table of Contents
 
@@ -22,14 +22,14 @@
 -----------------------------------------------------------------------------
 ## Learning
 
-* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox layout.
+* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
 * [CodeCademy](https://www.codecademy.com/):thumbsup: - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. 
 * [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
-* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/):thumbsup: - A quick reference guide to the many features of CSS.
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/):thumbsup: - A quick reference guide to many features of CSS.
 * [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 * [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
 * [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. 
-* [Flexbox](http://gedd.ski/master/flexbox/):thumbsup: - Level up your Flexbox knowledge –  an online, Zombie-centric story course.
+* [Flexbox](http://gedd.ski/master/flexbox/):thumbsup: - Level up your Flexbox knowledge – an online, Zombie-centric story course.
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [freeCodeCamp](https://www.freecodecamp.org):thumbsup: - A free resource incorporating programming projects and interview preparation for developer jobs.
 * [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
@@ -37,7 +37,7 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/):thumbsup: - The latest information about Open Web technologies.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 * [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
-* [Scotch](https://scotch.io/) - Many web development courses. Has both free and "Premium" (paid) memberships.  
+* [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships.  
 * [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials.
 * [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
 * [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development 
