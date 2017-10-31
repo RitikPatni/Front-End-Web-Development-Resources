@@ -5,6 +5,7 @@
  - [Learning](#learning)
  - [Youtube channels](#youtube-channels)
  - [Blogs](#blogs)
+ - [Code Editors](#code-editors)
  - [Tools](#tools)
  - [CSS Frameworks](#css-frameworks)
  - [Icons](#icons)
@@ -91,6 +92,18 @@
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
 * [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg) - What it’s Like to Build and Market a Chatbot When You’re Only 14 Years Old from Alec Jones
 * [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+##Code Editors
+
+* [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file. **Open Source** **All Platforms**
+* [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** **All Platforms**
+* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.  **Windows Only**
+* [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms**
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined.It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** **All Platforms**
 
 **[⬆ back to top](#table-of-contents)**
 
