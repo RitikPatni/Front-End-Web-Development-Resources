@@ -1,4 +1,6 @@
-﻿# A List of Useful Resources for Front End Developers
+﻿[![Build Status](https://travis-ci.org/{RitikPatni}/{Front-End-Web-Development-Resources}.png?branch=master)](https://travis-ci.org/{RitikPatni}/{Front-End-Web-Development-Resources})
+
+ # A List of Useful Resources for Front End Developers
 --------------------
 ## Table of Contents
 
