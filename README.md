@@ -1,5 +1,6 @@
 ﻿[![Build Status](https://travis-ci.org/RitikPatni/Front-End-Web-Development-Resources.png?branch=master)](https://travis-ci.org/RitikPatni/Front-End-Web-Development-Resources)
  [![Inline docs](http://inch-ci.org/github/RitikPatni/Front-End-Web-Development-Resources.svg?branch=master)](http://inch-ci.org/github/RitikPatni/Front-End-Web-Development-Resources)
+ [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 
 
  # A List of Useful Resources for Front End Developers
