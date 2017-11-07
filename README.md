@@ -2,8 +2,8 @@
  [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 
 
- # A List of Useful Resources for Front End Developers
---------------------
+# A List of Useful Resources for Front End Developers
+---
 ## Table of Contents
 
  - [Learning](#learning)
@@ -24,7 +24,7 @@
  - [Books](#books)
  - [Challenges](#challenges)
 
------------------------------------------------------------------------------
+---
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
