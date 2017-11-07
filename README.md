@@ -2,8 +2,8 @@
  [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 
 
- # A List of Useful Resources for Front End Developers
---------------------
+# A List of Useful Resources for Front End Developers
+---
 ## Table of Contents
 
  - [Learning](#learning)
@@ -24,7 +24,7 @@
  - [Books](#books)
  - [Challenges](#challenges)
 
------------------------------------------------------------------------------
+---
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
@@ -51,6 +51,7 @@
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
+* [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by  Jeremy Thomas creater of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -316,8 +317,9 @@
 ---
 
 ## Challenges
-* [CSS Zen Garden](http://www.csszengarden.com/) A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
-* [JavaScript30](https://javascript30.com/) A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
+* [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
+* [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
+* [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
 
 **[⬆ back to top](#table-of-contents)**
 
