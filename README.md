@@ -1,5 +1,6 @@
- [![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
- [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
+[![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 [![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
 [![GitHub stars](https://img.shields.io/github/stars/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/stargazers)
 [![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
