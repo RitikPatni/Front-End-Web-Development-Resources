@@ -1,7 +1,9 @@
- [![Inline docs](http://inch-ci.org/github/RitikPatni/Front-End-Web-Development-Resources.svg?branch=master)](http://inch-ci.org/github/RitikPatni/Front-End-Web-Development-Resources)
+ [![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
  [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
-[![star this repo](http://githubbadges.com/star.svg?user=RitikPatni&repo=Front-End-Web-Development-Resources&style=default)](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
-[![fork this repo](http://githubbadges.com/fork.svg?user=RitikPatni&repo=Front-End-Web-Development-Resources&style=default)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/fork)
+[![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
+[![GitHub stars](https://img.shields.io/github/stars/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/stargazers)
+[![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
 
 # A List of Useful Resources for Front End Developers
