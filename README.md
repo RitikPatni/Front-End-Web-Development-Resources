@@ -100,6 +100,7 @@
 * [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw) - How to Build a Random Quote Generator with JavaScript and HTML, for Absolute Beginners from Sophanarith Sok.
 * [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) - Let’s Code a Neural Network from Scratch from Charles Fried
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
+* [The Front End CheckList](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
 * [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg) - What it’s Like to Build and Market a Chatbot When You’re Only 14 Years Old from Alec Jones
 * [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
 
