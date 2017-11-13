@@ -93,6 +93,7 @@
 * [CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/)
 * [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/) - 72 Quotes about Design and Creativity from Margaret Kelsey.
 * [Design Resources](http://designresources.party/)
+* [Design For Change](https://medium.muz.li/design-for-change-439fc7ec6bb9?source=grid_home---8-5969bf7021a3-----3-1-----------------10)
 * [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19) - Domain Registrars, DNS, and Hosting from Kirby Kohlmorge
 * [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/)
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
