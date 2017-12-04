@@ -218,6 +218,7 @@
 * [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive color picker: creates a color scheme based on your preferences and palettes on the Internet
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes
 * [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code
+* [BADA55 Color Codes](http://bada55.io/)
 
 **[⬆ back to top](#table-of-contents)**
 
