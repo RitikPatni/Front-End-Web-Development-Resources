@@ -7,7 +7,7 @@
 ## Table of Contents
 
  - [Learning](#learning)
- - [Youtube channels](#youtube-channels)
+ - [Youtube Channels](#youtube-channels)
  - [Blogs](#blogs)
  - [Code Editors](#code-editors)
  - [Tools](#tools)
@@ -57,7 +57,7 @@
 
 ---
 
-## Youtube channels
+## Youtube Channels
 
 * [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on: WordPress, PSD to HTML
 * [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on: Bootstrap, SASS, jQuery, PHP, Freelancing
@@ -297,6 +297,7 @@
 
 * [Figma](https://www.figma.com/):thumbsup: - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
 * [MockupsJar](https://mockupsjar.com/):thumbsup: - Build mockups with screenshots of your application or web Design for free to share with customers and clients
+* [MockUPhone](https://mockuphone.com) - Free and simple screenshots device mockups generator. Wrap your design in mobile devices or Laptop/Desktop in a few clicks!
 * [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
 
 **[⬆ back to top](#table-of-contents)**
