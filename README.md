@@ -303,16 +303,20 @@
 
 ## Mockups
 
+* [Am I Responsive](http://ami.responsivedesign.is/) - This is a tool to check the responsiveness of a website and take a screenshot on multiple devices in a single frame. Go to the site and enter the URL to capture the screenshot. You should have separate screen capture tool to take the proper screenshot.
 * [Figma](https://www.figma.com/):thumbsup: - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
+* [Magic Mockups](http://magicmockups.com/) - Place your product in realistic environment! Free real-life product/app mockup generator. **Laptop, Phone, Tablet, Imac.**
 * [MockupsJar](https://mockupsjar.com/):thumbsup: - Build mockups with screenshots of your application or web Design for free to share with customers and clients
 * [MockUPhone](https://mockuphone.com) - Free and simple screenshots device mockups generator. Wrap your design in mobile devices or Laptop/Desktop in a few clicks!
 * [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
+* [Multi Device Website Mockup Generator](http://techsini.com/multi-mockup/) - Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, MacBook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click. You should have a proper screen grabber tool to take the screenshot from the browser.
 
 **[⬆ back to top](#table-of-contents)**
 
 ---
 
 ## Books
+
 * [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages)
 * [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages)
 * [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5
