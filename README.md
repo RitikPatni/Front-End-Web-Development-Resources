@@ -6,39 +6,41 @@
 [![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
-
 # A List of Useful Resources for Front End Developers
+
 ---
+
 ## Table of Contents
 
- - [Learning](#learning)
- - [Youtube Channels](#youtube-channels)
- - [Blogs](#blogs)
- - [Code Editors](#code-editors)
- - [Tools](#tools)
- - [CSS Frameworks](#css-frameworks)
- - [Icons](#icons)
- - [Colors](#colors)
- - [Typography](#typography)
- - [Design Inspiration](#design-inspiration)
- - [Animation Frameworks](#animation-frameworks)
- - [Stock Resources](#stock-resources)
- - [Geolocation](#geolocation)
- - [APIs](#apis)
- - [Mockups](#mockups)
- - [Books](#books)
- - [Challenges](#challenges)
+* [Learning](#learning)
+* [Youtube Channels](#youtube-channels)
+* [Blogs](#blogs)
+* [Code Editors](#code-editors)
+* [Tools](#tools)
+* [CSS Frameworks](#css-frameworks)
+* [Icons](#icons)
+* [Colors](#colors)
+* [Typography](#typography)
+* [Design Inspiration](#design-inspiration)
+* [Animation Frameworks](#animation-frameworks)
+* [Stock Resources](#stock-resources)
+* [Geolocation](#geolocation)
+* [APIs](#apis)
+* [Mockups](#mockups)
+* [Books](#books)
+* [Challenges](#challenges)
 
 ---
+
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
-* [CodeCademy](https://www.codecademy.com/):thumbsup: - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. 
+* [CodeCademy](https://www.codecademy.com/):thumbsup: - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
 * [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/):thumbsup: - A quick reference guide to many features of CSS.
 * [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 * [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
-* [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. 
+* [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships.
 * [Flexbox](http://gedd.ski/master/flexbox/):thumbsup: - Level up your Flexbox knowledge – an online, Zombie-centric story course.
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [freeCodeCamp](https://www.freecodecamp.org):thumbsup: - A free resource incorporating programming projects and interview preparation for developer jobs.
@@ -47,18 +49,19 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/):thumbsup: - The latest information about Open Web technologies.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 * [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
-* [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships.  
+* [Scrimba](https://www.scrimba.com/)
+* [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships.
 * [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials.
 * [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
-* [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development 
-* [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. 
-* [Udacity](https://in.udacity.com/):thumbsup: - Learn anything online – deep learning, machine learning, front end languages. 
+* [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development
+* [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples.
+* [Udacity](https://in.udacity.com/):thumbsup: - Learn anything online – deep learning, machine learning, front end languages.
 * [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 * [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side langages. Includes descriptions and interactive examples.
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
-* [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by  Jeremy Thomas creater of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
-
-**[⬆ back to top](#table-of-contents)**
+* [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creater of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
+* [WesBos](http://wesbos.com/)
+  **[⬆ back to top](#table-of-contents)**
 
 ---
 
@@ -70,7 +73,7 @@
 * [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on: HTML, CSS, Javascript, Bootstrap
 * [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on: C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub.
-* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only** 
+* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only**
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, Javascript, React, Math, Science, Software Engineering, Open source software
 * [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, Javascript, React JS / Redux, Node JS
@@ -113,7 +116,7 @@
 
 * [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file. **Open Source** | **All Platforms**
 * [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** | **All Platforms**
-* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.  **Windows Only**
+* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only**
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms**
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined.It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms**
 
@@ -159,8 +162,8 @@
 
 * [Bootstrap](http://getbootstrap.com/)
 * [Bulma CSS](http://bulma.io/)
-* [Caramel](http://caramel.ga/) 
-* [Cardinal](http://cardinalcss.com/) 
+* [Caramel](http://caramel.ga/)
+* [Cardinal](http://cardinalcss.com/)
 * [Element CSS](http://element.eleme.io/#/en-US)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Foundation CSS](http://foundation.zurb.com/)
@@ -242,6 +245,7 @@
 ---
 
 ## Design Inspiration
+
 * [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired.
 * [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design.
 * [Webdesign Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world.
@@ -293,7 +297,7 @@
 ## APIs
 
 * [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
-* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)  
+* [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 * [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 * [A list of public APIs](https://github.com/toddmotto/public-apis)
 
@@ -313,6 +317,7 @@
 ---
 
 ## Books
+
 * [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages)
 * [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages)
 * [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5
@@ -326,6 +331,7 @@
 ---
 
 ## Challenges
+
 * [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 * [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 * [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
