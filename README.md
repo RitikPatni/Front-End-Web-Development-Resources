@@ -91,6 +91,7 @@
 ## Blogs
 
 * [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes.
+* [2017 Design RoundUp](https://tympanus.net/codrops2017/):thumbsup:
 * [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
 * [An Illustrated Guide for Setting Up Your Website Using Github &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
