@@ -35,6 +35,7 @@
 ## Learning
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
+* [Best Of JS](https://bestof.js.org/):thumbsup:A site to check best GitHub repos for your favorite js framework
 * [CodeCademy](https://www.codecademy.com/):thumbsup: - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
 * [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
 * [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/):thumbsup: - A quick reference guide to many features of CSS.
