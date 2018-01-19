@@ -106,6 +106,7 @@
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
 * [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning
 * [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw) - How to Build a Random Quote Generator with JavaScript and HTML, for Absolute Beginners from Sophanarith Sok.
+* [How to build your first Vue Component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514):thumbsup:
 * [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) - Let’s Code a Neural Network from Scratch from Charles Fried
 * [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
 * [The Front End CheckList](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
