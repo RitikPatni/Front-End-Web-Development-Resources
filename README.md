@@ -198,6 +198,7 @@
 * [Glyphicon](http://www.webhostinghub.com/glyphs/)
 * [Google Material Design Icons](http://google.github.io/material-design-icons/):thumbsup:
 * [Icomoon](https://icomoon.io/)
+* [Icongram](https://icongr.am/)
 * [Ionicons](http://ionicons.com/)
 * [Mapicons](http://map-icons.com/)
 * [MfgLabs-Iconset](http://mfglabs.github.io/mfglabs-iconset/)
