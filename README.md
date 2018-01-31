@@ -217,6 +217,7 @@
 
 ## Colors
 
+* [BADA55 Color Codes](http://bada55.io/)
 * [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes
 * [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
@@ -224,10 +225,10 @@
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
 * [Material Palette](https://www.materialpalette.com/) - Color palette generator for Material Design
+* [Pigment Palette Generator](https://pigment.shapefactory.co/)
 * [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive color picker: creates a color scheme based on your preferences and palettes on the Internet
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes
 * [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code
-* [BADA55 Color Codes](http://bada55.io/)
 
 **[⬆ back to top](#table-of-contents)**
 
