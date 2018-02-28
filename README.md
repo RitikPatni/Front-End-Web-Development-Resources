@@ -222,6 +222,7 @@
 * [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
 * [Coolors](https://coolors.co):thumbsup: - Super fast color scheme creator with a lot of funcionalities
+* [Data Color Picker](https://learnui.design/tools/data-color-picker.html) :thumbsup:
 * [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
 * [Material Palette](https://www.materialpalette.com/) - Color palette generator for Material Design
