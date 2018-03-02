@@ -267,6 +267,7 @@
 * [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70)
 * [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code
 * [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo
+* [Partcles JS](https://vincentgarreau.com/particles.js/):thumbsup:
 * [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub
 * [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page
 
