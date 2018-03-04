@@ -29,6 +29,7 @@
 * [Mockups](#mockups)
 * [Books](#books)
 * [Challenges](#challenges)
+* [Free Tools For Students](#free-tools-for-students)
 
 ---
 
@@ -348,6 +349,15 @@
 * [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 * [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 * [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## Free Tools For Students
+* [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
+
+* [**JetBrains Student License**](https://www.jetbrains.com/student/): Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members. 
 
 **[⬆ back to top](#table-of-contents)**
 
