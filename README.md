@@ -203,6 +203,7 @@
 * [Icongram](https://icongr.am/)
 * [Ionicons](http://ionicons.com/)
 * [Mapicons](http://map-icons.com/)
+* [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/)
 * [MfgLabs-Iconset](http://mfglabs.github.io/mfglabs-iconset/)
 * [Micon](http://xtoolkit.github.io/Micon/)
 * [Octicons](https://octicons.github.com/)
