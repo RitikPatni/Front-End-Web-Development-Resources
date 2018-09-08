@@ -64,6 +64,7 @@
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 - [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
+- [Web Best Practices | Checkbot](https://www.checkbot.io/guide/) - Details 50+ SEO, speed and security web best practices.
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
 - [WesBos](http://wesbos.com/)
 
@@ -142,6 +143,7 @@
 - [Better Code Hub](https://bettercodehub.com/repositories)
 - [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 - [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/):thumbsup:
+- [Checkbot - Browser extension that tests websites for SEO, speed and security issues](https://www.checkbot.io/)
 - [Codepen](https://codepen.io/)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
