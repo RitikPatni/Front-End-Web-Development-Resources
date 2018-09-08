@@ -64,7 +64,6 @@
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 - [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
-- [Web Best Practices | Checkbot](https://www.checkbot.io/guide/) - Details 50+ SEO, speed and security web best practices.
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
 - [WesBos](http://wesbos.com/)
 
