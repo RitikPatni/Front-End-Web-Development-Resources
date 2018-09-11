@@ -119,8 +119,9 @@
 - [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
 - [A well curated list for UX](https://blog.prototypr.io/my-ux-resource-list-96ab9e36ac24):thumbsup:
 - [Airbnb Open source](https://airbnb.io/):thumbsup:
-
-**[⬆ back to top](#table-of-contents)**
+- [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4):thumbsup:
+- [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/):fire::fire::fire:
+  **[⬆ back to top](#table-of-contents)**
 
 ---
 
@@ -166,6 +167,7 @@
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
 - [Web Developer Checklist](http://webdevchecklist.com/):thumbsup:
+- [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -240,6 +242,7 @@
 - [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code
 - [All Gradient sites in one place](https://cssgradient.io/gradient-backgrounds/) :thumbsup:
+- [Google, but for colors](https://picular.co/)
 
 **[⬆ back to top](#table-of-contents)**
 
