@@ -39,19 +39,19 @@
 ## Learning
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
-- [Best Of JS](https://bestof.js.org/)👍 A site to check best GitHub repos for your favorite js framework
-- [CodeCademy](https://www.codecademy.com/)👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
+- [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
+- [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
-- [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)👍 - A quick reference guide to many features of CSS.
+- [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS.
 - [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships.
-- [Flexbox](http://gedd.ski/master/flexbox/)👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course.
+- [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course.
 - [Flexbox Froggy](http://flexboxfroggy.com/)
-- [freeCodeCamp](https://www.freecodecamp.org)👍 - A free resource incorporating programming projects and interview preparation for developer jobs.
+- [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs.
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)👍 - The latest information about Open Web technologies.
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies.
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 - [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
 - [Scrimba](https://www.scrimba.com/)
@@ -60,7 +60,7 @@
 - [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development
 - [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples.
-- [Udacity](https://in.udacity.com/)👍 - Learn anything online – deep learning, machine learning, front end languages.
+- [Udacity](https://in.udacity.com/) 👍 - Learn anything online – deep learning, machine learning, front end languages.
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 - [Watch and Code®](https://watchandcode.com/p/practical-javascript) - Build a strong JavaScript foundation for web development.
 - [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
@@ -88,7 +88,7 @@
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
 - [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on: ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/)👍 - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -97,7 +97,7 @@
 ## Blogs
 
 - [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes.
-- [2017 Design RoundUp](https://tympanus.net/codrops2017/)👍
+- [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍
 - [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
 - [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
 - [An Illustrated Guide for Setting Up Your Website Using GitHub &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
@@ -112,16 +112,17 @@
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
 - [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning
 - [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw) - How to Build a Random Quote Generator with JavaScript and HTML, for Absolute Beginners from Sophanarith Sok.
-- [How to build your first Vue Component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514):👍
+- [How to build your first Vue Component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514) 👍
 - [Let’s code a Neural Network from scratch — Part 1 – TypeMe – Medium](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) - Let’s Code a Neural Network from Scratch from Charles Fried
 - [Music Player Inspirations](https://medium.muz.li/music-player-inspiration-2017-999403b2a85e) - Music Player Inspiration 2017 from Muzli.
 - [The Front End CheckList](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
 - [What it’s like to build and market a chatbot when you’re only 14 years old](https://medium.freecodecamp.com/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c#.eosguojxg) - What it’s Like to Build and Market a Chatbot When You’re Only 14 Years Old from Alec Jones
 - [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
-- [A well curated list for UX](https://blog.prototypr.io/my-ux-resource-list-96ab9e36ac24)👍
-- [Airbnb Open source](https://airbnb.io/)👍
-- [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)👍
-- [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/)🔥🔥
+- [A well curated list for UX](https://blog.prototypr.io/my-ux-resource-list-96ab9e36ac24) 👍
+- [Airbnb Open source](https://airbnb.io/) 👍
+- [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 👍
+- [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/) 🔥🔥🔥
+  
   **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -143,23 +144,23 @@
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 - [Better Code Hub](https://bettercodehub.com/repositories)
 - [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
-- [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/)👍
+- [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/) 👍
 - [Checkbot - Browser extension that tests websites for SEO, speed and security issues](https://www.checkbot.io/)
 - [Codepen](https://codepen.io/)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
-- [CSS Triggers](https://csstriggers.com/)👍
-- [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/)👍
+- [CSS Triggers](https://csstriggers.com/) 👍
+- [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/) 👍
 - [Favicon Generator](http://www.favicon-generator.org/)
-- [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/)👍
-- [Generate favicon based on text](https://favicon.io/)👍
+- [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/) 👍
+- [Generate favicon based on text](https://favicon.io/) 👍
 - [Google Analytics](https://analytics.google.com/)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
 - [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 - [JS Bin](http://jsbin.com/?html,output)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)👍
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) 👍
 - [Responsinator](http://www.responsinator.com/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
@@ -167,7 +168,7 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
-- [Web Developer Checklist](http://webdevchecklist.com/)👍
+- [Web Developer Checklist](http://webdevchecklist.com/) 👍
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
 
 **[⬆ back to top](#table-of-contents)**
@@ -188,11 +189,12 @@
 - [Pure CSS](https://purecss.io/)
 - [Less](http://lessframework.com/)
 - [Material Design Lite](https://getmdl.io/)
-- [Materialize CSS](http://materializecss.com/)👍
+- [Materialize CSS](http://materializecss.com/)
 - [Neat](https://neat.bourbon.io/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Skeleton CSS](http://getskeleton.com/)
 - [Tacit](https://github.com/yegor256/tacit)
+- [TailwindCSS](https://tailwindcss.com/) 🔥🔥🔥 
 - [UI Kit](https://getuikit.com/)
 - [Unsemantic](https://unsemantic.com/)
 - [Vital CSS](https://vitalcss.com/components/)
@@ -205,9 +207,9 @@
 
 - [Brandicons](http://fontello.github.io/brandico.font/demo.html)
 - [Flat Icon](https://www.flaticon.com/)
-- [Font Awesome](http://fontawesome.io/)👍
+- [Font Awesome](http://fontawesome.io/) 👍
 - [Glyphicon](http://www.webhostinghub.com/glyphs/)
-- [Google Material Design Icons](http://google.github.io/material-design-icons/)👍
+- [Google Material Design Icons](http://google.github.io/material-design-icons/) 👍
 - [Icomoon](https://icomoon.io/)
 - [Icongram](https://icongr.am/)
 - [Ionicons](http://ionicons.com/)
@@ -256,7 +258,7 @@
 - [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on How to pair Google Fonts
 - [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs
 - [Fontsquirrel](https://www.fontsquirrel.com/) - A resource for FREE, hand-picked, high-quality, commercial-use fonts
-- [Google Fonts](https://fonts.google.com/)👍 - A catalog of free & open source fonts, great details and font pair suggestions
+- [Google Fonts](https://fonts.google.com/) 👍 - A catalog of free & open source fonts, great details and font pair suggestions
 - [Just My Type](https://justmytype.co/) - A collection of font pairings
 - [Table of Contents | The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) - A practical guide to web typography
 - [Typekit](https://typekit.com/) - "Quality fonts from the world’s best foundries"
@@ -281,7 +283,7 @@
 - [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70)
 - [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code
 - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo
-- [Partcles JS](https://vincentgarreau.com/particles.js/)👍
+- [Partcles JS](https://vincentgarreau.com/particles.js/) 👍
 - [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub
 - [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page
 
@@ -301,8 +303,8 @@
 - [Public Domain Archive](http://publicdomainarchive.com/) - “a public domain image repository” created by Matt a graphic designer, web designer and photographer.Vintage and modern images.
 - [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage
 - [The Open Photo Project](https://openphoto.net/) - The Open Photo Project is a photo sharing platform created in 1998 by Michael Jastremski. Contributors have offered their images free of charge under terms of Creative Commons licensing.
-- [UnSplash](https://unsplash.com)👍 - "Beautiful, Free Photos" & themed collections of photos
-- [UnDraw](https://undraw.co)👍 - "MIT licensed illustrations for every project you can imagine and create
+- [UnSplash](https://unsplash.com) 👍 - "Beautiful, Free Photos" & themed collections of photos
+- [UnDraw](https://undraw.co) 👍 - "MIT licensed illustrations for every project you can imagine and create
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -332,9 +334,9 @@
 ## Mockups
 
 - [Am I Responsive](http://ami.responsivedesign.is/) - This is a tool to check the responsiveness of a website and take a screenshot on multiple devices in a single frame. Go to the site and enter the URL to capture the screenshot. You should have separate screen capture tool to take the proper screenshot.
-- [Figma](https://www.figma.com/)👍 - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
+- [Figma](https://www.figma.com/) 👍 - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
 - [Magic Mockups](http://magicmockups.com/) - Place your product in realistic environment! Free real-life product/app mockup generator. **Laptop, Phone, Tablet, Imac.**
-- [MockupsJar](https://mockupsjar.com/)👍 - Build mockups with screenshots of your application or web Design for free to share with customers and clients
+- [MockupsJar](https://mockupsjar.com/) 👍 - Build mockups with screenshots of your application or web Design for free to share with customers and clients
 - [MockUPhone](https://mockuphone.com) - Free and simple screenshots device mockups generator. Wrap your design in mobile devices or Laptop/Desktop in a few clicks!
 - [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic
 - [Multi Device Website Mockup Generator](http://techsini.com/multi-mockup/) - Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, MacBook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click. You should have a proper screen grabber tool to take the screenshot from the browser.
@@ -380,4 +382,4 @@
 
 ## YouTubeVideos
 
-- [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI)😎
+- [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
