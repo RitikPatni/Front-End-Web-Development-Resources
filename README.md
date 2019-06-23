@@ -13,26 +13,26 @@
 ## Table of Contents
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
-    - [Table of Contents](#table-of-contents)
-    - [Learning](#learning)
-    - [YouTube Channels](#youtube-channels)
-    - [Blogs](#blogs)
-    - [Code Editors](#code-editors)
-    - [Tools](#tools)
-    - [CSS Frameworks](#css-frameworks)
-    - [Icons](#icons)
-    - [Colors](#colors)
-    - [Typography](#typography)
-    - [Design Inspiration](#design-inspiration)
-    - [Animation Frameworks](#animation-frameworks)
-    - [Stock Resources](#stock-resources)
-    - [Geolocation](#geolocation)
-    - [APIs](#apis)
-    - [Mockups](#mockups)
-    - [Books](#books)
-    - [Challenges](#challenges)
-    - [Free Tools For Students](#free-tools-for-students)
-    - [YouTubeVideos](#youtubevideos)
+  - [Table of Contents](#table-of-contents)
+  - [Learning](#learning)
+  - [YouTube Channels](#youtube-channels)
+  - [Blogs](#blogs)
+  - [Code Editors](#code-editors)
+  - [Tools](#tools)
+  - [CSS Frameworks](#css-frameworks)
+  - [Icons](#icons)
+  - [Colors](#colors)
+  - [Typography](#typography)
+  - [Design Inspiration](#design-inspiration)
+  - [Animation Frameworks](#animation-frameworks)
+  - [Stock Resources](#stock-resources)
+  - [Geolocation](#geolocation)
+  - [APIs](#apis)
+  - [Mockups](#mockups)
+  - [Books](#books)
+  - [Challenges](#challenges)
+  - [Free Tools For Students](#free-tools-for-students)
+  - [YouTubeVideos](#youtubevideos)
 
 ---
 
@@ -122,7 +122,7 @@
 - [Airbnb Open source](https://airbnb.io/) 👍
 - [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 👍
 - [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/) 🔥🔥🔥
-  
+
   **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -194,7 +194,7 @@
 - [Semantic UI](https://semantic-ui.com/)
 - [Skeleton CSS](http://getskeleton.com/)
 - [Tacit](https://github.com/yegor256/tacit)
-- [TailwindCSS](https://tailwindcss.com/) 🔥🔥🔥 
+- [TailwindCSS](https://tailwindcss.com/) 🔥🔥🔥
 - [UI Kit](https://getuikit.com/)
 - [Unsemantic](https://unsemantic.com/)
 - [Vital CSS](https://vitalcss.com/components/)
