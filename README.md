@@ -18,6 +18,7 @@
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
   - [Code Editors](#code-editors)
+    - [Visual Studio Code Extensions](#visual-studio-code-extensions)
   - [Tools](#tools)
   - [CSS Frameworks](#css-frameworks)
   - [Icons](#icons)
@@ -133,7 +134,19 @@
 - [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** | **All Platforms**
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only**
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms**
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined.It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms**
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms**
+
+### Visual Studio Code Extensions
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - This extension color codes various types of comments to give them different significance and stand out from the rest of your code.
+- [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Colors matching brackets to make your code much more readable very helpfull.
+- [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - A Quick Development Live Server with live browser reload.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Google Material themed icon pack.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - As you start typing a path in quotations, you will get intellisense for directories and file names.
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - You know those fancy code screenshots you see in articles and tweets? Well, most likely they came from Polacode. It's super simple to use. Copy a piece of code to your clipboard, open up the extension, paste the code, and click to save your image!
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your code automatically on save.
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) -  Settings Sync extension save your setting off in Github. Then, you can load them to any new version of VS Code with one command.
 
 **[⬆ back to top](#table-of-contents)**
 
