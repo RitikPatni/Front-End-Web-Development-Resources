@@ -10,3 +10,8 @@
 
 - Write content for resources or categories
 - Add more resources but only after reading the rules
+
+## Resources
+-Create a github account
+-install gitbash for windows
+-learning basic commands for gitbash
