@@ -83,6 +83,7 @@
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub.
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only**
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Tutorials on JavaScript, React, Functional Programming, GraphQL, Life as a Developer
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
@@ -146,7 +147,7 @@
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - As you start typing a path in quotations, you will get intellisense for directories and file names.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - You know those fancy code screenshots you see in articles and tweets? Well, most likely they came from Polacode. It's super simple to use. Copy a piece of code to your clipboard, open up the extension, paste the code, and click to save your image!
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your code automatically on save.
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) -  Settings Sync extension save your setting off in Github. Then, you can load them to any new version of VS Code with one command.
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Settings Sync extension save your setting off in Github. Then, you can load them to any new version of VS Code with one command.
 
 **[⬆ back to top](#table-of-contents)**
 
