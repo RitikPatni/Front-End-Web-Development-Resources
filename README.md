@@ -375,6 +375,7 @@
 
 ## Challenges
 
+- [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage.
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
