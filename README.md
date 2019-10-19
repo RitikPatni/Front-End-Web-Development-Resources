@@ -68,6 +68,7 @@
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
 - [WesBos](http://wesbos.com/)
+- [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one      place. Your handy partner for all types of modern web development and designs.
 
 **[⬆ back to top](#table-of-contents)**
 
