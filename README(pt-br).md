@@ -6,11 +6,11 @@
 [![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
-# A List of Useful Resources for Front End Developers
+# Uma Lista de Recursos Úteis para Desenvolvedores Front End
 
 ---
 
-## Table of Contents
+## Tabela de Conteúdos
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
@@ -37,7 +37,7 @@
 
 ---
 
-## Learning
+## Aprendendo
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
@@ -73,7 +73,7 @@
 
 ---
 
-## YouTube Channels
+## Canais do Youtube
 
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on: WordPress, PSD to HTML
 - [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on: Bootstrap, SASS, jQuery, PHP, Freelancing
@@ -128,7 +128,7 @@
 
 ---
 
-## Code Editors
+## Editores de Código
 
 - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file. **Open Source** | **All Platforms**
 - [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** | **All Platforms**
@@ -136,7 +136,7 @@
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms**
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms**
 
-### Visual Studio Code Extensions
+### Extensões do Visual Studio Code
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - This extension color codes various types of comments to give them different significance and stand out from the rest of your code.
@@ -152,7 +152,7 @@
 
 ---
 
-## Tools
+## Ferramentas
 
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 - [Better Code Hub](https://bettercodehub.com/repositories)
@@ -188,7 +188,7 @@
 
 ---
 
-## CSS Frameworks
+## Frameworks de CSS
 
 - [Bootstrap](http://getbootstrap.com/)
 - [Bulma CSS](http://bulma.io/)
@@ -216,7 +216,7 @@
 
 ---
 
-## Icons
+## Ícones
 
 - [Brandicons](http://fontello.github.io/brandico.font/demo.html)
 - [Flat Icon](https://www.flaticon.com/)
@@ -242,7 +242,7 @@
 
 ---
 
-## Colors
+## Cores
 
 - [BADA55 Color Codes](http://bada55.io/)
 - [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes
@@ -264,7 +264,7 @@
 
 ---
 
-## Typography
+## Tipografia
 
 - [A Crash Course in Typography: The Basics of Type](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html) - First article of a series on Typography
 - [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - A great resource for everything related to Typography
@@ -281,7 +281,7 @@
 
 ---
 
-## Design Inspiration
+## Inspirações de Design
 
 - [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired.
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design.
@@ -291,7 +291,7 @@
 
 ---
 
-## Animation Frameworks
+## Frameworks de Animação
 
 - [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70)
 - [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code
@@ -304,7 +304,7 @@
 
 ---
 
-## Stock Resources
+## Coleção de Recursos
 
 - [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free.
 - [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions.
@@ -323,7 +323,7 @@
 
 ---
 
-## Geolocation
+## Geolocalização
 
 - [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
 - [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive
@@ -344,7 +344,7 @@
 
 ---
 
-## Mockups
+## Maquetes
 
 - [Am I Responsive](http://ami.responsivedesign.is/) - This is a tool to check the responsiveness of a website and take a screenshot on multiple devices in a single frame. Go to the site and enter the URL to capture the screenshot. You should have separate screen capture tool to take the proper screenshot.
 - [Figma](https://www.figma.com/) 👍 - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas
@@ -359,7 +359,7 @@
 
 ---
 
-## Books
+## Livros
 
 - [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages)
 - [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages)
@@ -373,7 +373,7 @@
 
 ---
 
-## Challenges
+## Desafios
 
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
@@ -383,7 +383,7 @@
 
 ---
 
-## Free Tools For Students
+## Free Tools For Students Ferramentas Gratuitas para Estudantes
 
 - [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
 
@@ -393,6 +393,6 @@
 
 ---
 
-## YouTube Videos
+## Vídeos do YouTube
 
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
