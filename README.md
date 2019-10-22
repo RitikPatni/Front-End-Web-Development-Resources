@@ -40,6 +40,8 @@
 ## Learning
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
+- [A Complete Guide to Grd | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
+- [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
@@ -67,8 +69,11 @@
 - [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
-- [WesBos](http://wesbos.com/)
-- [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one      place. Your handy partner for all types of modern web development and designs.
+- [WesBos](http://wesbos.com/) - Free and premium courses in web development
+- [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one place. Your handy partner for all types of modern web development and designs.
+- [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers.
+- [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Leve Up Tuts.
+- [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -126,7 +131,8 @@
 - [Airbnb Open source](https://airbnb.io/) 👍
 - [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 👍
 - [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/) 🔥🔥🔥
-[Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese
+- [Preload, Prefetch and priorities in chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese
 
   **[⬆ back to top](#table-of-contents)**
 
@@ -151,6 +157,7 @@
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - You know those fancy code screenshots you see in articles and tweets? Well, most likely they came from Polacode. It's super simple to use. Copy a piece of code to your clipboard, open up the extension, paste the code, and click to save your image!
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your code automatically on save.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Settings Sync extension save your setting off in Github. Then, you can load them to any new version of VS Code with one command.
+- [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Javascript linter for highlighting code errors and best practices.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -164,9 +171,11 @@
 - [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/) 👍
 - [Checkbot - Browser extension that tests websites for SEO, speed and security issues](https://www.checkbot.io/)
 - [Codepen](https://codepen.io/)
+- [Codesandbox)(https://codesandbox.io/)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
+- [https://www.browserstack.com/]
 - [CSS Triggers](https://csstriggers.com/) 👍
 - [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/) 👍
 - [Favicon Generator](http://www.favicon-generator.org/)
@@ -177,7 +186,7 @@
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/)
 - [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 - [JS Bin](http://jsbin.com/?html,output)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) 👍
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) 👍
 - [Responsinator](http://www.responsinator.com/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
@@ -343,6 +352,7 @@
 - [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 - [A list of public APIs](https://github.com/toddmotto/public-apis)
+- [jsonplaceholder](https://jsonplaceholder.typicode.com) - Fake Online REST API for Testing and Prototyping
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -371,7 +381,8 @@
 - [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF) - A complete course from Beginner to Mastermind
 - [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/) - A free e-book about making websites in HTML5 and CSS for absolute beginners
 - [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY) - A comprehensive book about making RWD
-- [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books) A directory of free learning resources, categorized by language
+- [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books) - A directory of free learning resources, categorized by language
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series diving deep into the core mechanisms of the JavaScript language.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -383,6 +394,8 @@
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
+- [leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
+- [hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
 
 **[⬆ back to top](#table-of-contents)**
 
