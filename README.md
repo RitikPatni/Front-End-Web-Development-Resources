@@ -132,6 +132,8 @@
 - [The Cost of JS](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 👍
 - [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/) 🔥🔥🔥
 - [Preload, Prefetch and priorities in chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese
+
   **[⬆ back to top](#table-of-contents)**
 
 ---
