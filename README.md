@@ -145,6 +145,7 @@
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only**
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms**
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms**
+- [UltraEdit](https://www.ultraedit.com/) - UltraEdit is a powerful HTML and Code editor available for Mac, Windows, and Linux. It comes with a built-in file comparison utility, autocompletion, advanced layout, multi-tab, multi-pane editors, and syntax highlighting for the most popular programming languages.
 
 ### Visual Studio Code Extensions
 
@@ -187,6 +188,7 @@
 - [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf)
 - [JS Bin](http://jsbin.com/?html,output)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) 👍
+- [Node Package Manager(npm)](https://www.npmjs.com)
 - [Responsinator](http://www.responsinator.com/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
@@ -297,6 +299,8 @@
 ## Design Inspiration
 
 - [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired.
+- [Awwwards](https://www.awwwards.com/) - The Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+- [Dribble](https://dribbble.com/) - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design.
 - [Web design Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world.
 
