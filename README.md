@@ -297,6 +297,7 @@
 ## Design Inspiration
 
 - [Admire The Web](https://www.admiretheweb.com/) - Admire the Web is where we showcase the very best in website design inspiration - carefully curated and organised to keep you inspired.
+- [Awwwards](https://www.awwwards.com/) - Awards that recognize the talent and effort of the best web designers, developers and agencies in the world
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design.
 - [Web design Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world.
 
