@@ -47,11 +47,14 @@
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
 - [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS.
 - [Design Resources](http://designresources.party/) - Design Resources from Skullface.
+- [dev.to](https://dev.to/) 👍 - Where programmers share ideas and help each other grow.
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships.
+- [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development.
 - [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course.
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs.
+- [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks.
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies.
