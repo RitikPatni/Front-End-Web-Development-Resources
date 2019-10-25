@@ -117,6 +117,7 @@
 - [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19) - Domain Registrars, DNS, and Hosting from Kirby Kohlmorge
 - [Beginners guide to Gatsby](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a) Gatsby.js: How to set up and use the React Static Site Generator from Aman Mittal
 - [Examples of everything in ECMAScript in 2016,2017, 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+- [Flavio Copes Tutorials](https://flaviocopes.com/) - Daily tutorials about Javascript and Web development by Flavio Copes
 - [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
 - [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning
