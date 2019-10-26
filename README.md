@@ -177,7 +177,7 @@
 - [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/) 👍
 - [Checkbot - Browser extension that tests websites for SEO, speed and security issues](https://www.checkbot.io/)
 - [Codepen](https://codepen.io/)
-- [Codesandbox)(https://codesandbox.io/)
+- [Codesandbox](https://codesandbox.io/)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
