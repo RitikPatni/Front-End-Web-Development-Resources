@@ -171,14 +171,14 @@
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 - [Better Code Hub](https://bettercodehub.com/repositories)
 - [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
+- [BrowserStack](https://www.browserstack.com/)
 - [Can I use... Support tables for HTML5, CSS3, etc.](http://www.caniuse.com/) 👍
 - [Checkbot - Browser extension that tests websites for SEO, speed and security issues](https://www.checkbot.io/)
 - [Codepen](https://codepen.io/)
-- [Codesandbox)(https://codesandbox.io/)
+- [Codesandbox](https://codesandbox.io/)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
-- [https://www.browserstack.com/]
 - [CSS Triggers](https://csstriggers.com/) 👍
 - [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/) 👍
 - [Favicon Generator](http://www.favicon-generator.org/)
@@ -200,6 +200,7 @@
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
 - [Web Developer Checklist](http://webdevchecklist.com/) 👍
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
+- [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba)
 
 **[⬆ back to top](#table-of-contents)**
 
