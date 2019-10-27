@@ -1,4 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
 [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 [![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
 [![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
