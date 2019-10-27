@@ -41,6 +41,7 @@
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
 - [A Complete Guide to Grd | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
+- [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
@@ -57,6 +58,7 @@
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks.
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
+- [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies.
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 - [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
@@ -401,6 +403,7 @@
 ## Challenges
 
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage.
+- [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges.
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
