@@ -15,6 +15,7 @@
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
   - [Learning](#learning)
+  - [A11y](#a11y) 
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
   - [Code Editors](#code-editors)
@@ -77,6 +78,18 @@
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers.
 - [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Leve Up Tuts.
 - [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## A11y
+
+- [A11y Style Guide](https://a11y-style-guide.com/style-guide/section-resources.html) - A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist.
+- [Axe](https://www.deque.com/axe/) - Accessibility testing toolkit.
+- [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) - CCA helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators.
+- [Deque University](https://dequeuniversity.com/) - Online courses on web and mobile accessibility skills.
+- [W3C Intro to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - Strategies, standards, resources to make the Web accessible to people with disabilities.
 
 **[⬆ back to top](#table-of-contents)**
 
