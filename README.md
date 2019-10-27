@@ -17,6 +17,7 @@
   - [Learning](#learning)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
   - [Code Editors](#code-editors)
     - [Visual Studio Code Extensions](#visual-studio-code-extensions)
   - [Tools](#tools)
@@ -139,6 +140,16 @@
 - [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese
 
   **[⬆ back to top](#table-of-contents)**
+
+---
+
+## Podcasts
+
+- [Coding Blocks](https://www.codingblocks.net/)
+- [Frontend Happy Hour](https://frontendhappyhour.com/)
+- [JavaScript Jabber](https://devchat.tv/js-jabber)
+
+**[⬆ back to top](#table-of-contents)**
 
 ---
 
