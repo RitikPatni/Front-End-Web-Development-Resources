@@ -14,7 +14,6 @@
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
-  - [- Google Drive Links](#google-drive-links)
   - [Learning](#learning)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
