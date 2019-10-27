@@ -77,6 +77,7 @@
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers.
 - [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Leve Up Tuts.
 - [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses.
+- [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -204,6 +205,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com/) 👍
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba)
+- [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest)
 
 **[⬆ back to top](#table-of-contents)**
 
