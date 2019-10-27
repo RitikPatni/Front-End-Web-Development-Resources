@@ -14,6 +14,7 @@
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
+  - [- Google Drive Links](#google-drive-links)
   - [Learning](#learning)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
@@ -31,10 +32,10 @@
   - [APIs](#apis)
   - [Mockups](#mockups)
   - [Books](#books)
-  - [Challenges](#challenges)
+  - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
-  - [YouTubeVideos](#youtubevideos)
-  - [Google Drive Links](#googledrive)
+  - [YouTube Videos](#youtube-videos)
+  - [Google Drive Links](#google-drive-links)
 ---
 
 ## Learning
@@ -52,10 +53,8 @@
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships.
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development.
 - [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course.
-- [Flexbox Froggy](http://flexboxfroggy.com/)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs.
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks.
-- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies.
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
@@ -216,7 +215,6 @@
 - [Caramel](http://caramel.ga/)
 - [Cardinal](http://cardinalcss.com/)
 - [Element CSS](http://element.eleme.io/#/en-US)
-- [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Foundation CSS](http://foundation.zurb.com/)
 - [Jeet](http://jeet.gs/)
 - [Petal CSS](https://shakrmedia.github.io/petal/)
@@ -398,14 +396,17 @@
 
 ---
 
-## Challenges
+## Challenges / Games
 
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage.
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
+- [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels.
+- [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels.
+- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has  28 different levels to learn CSS Grid Layout. 
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
-- [leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
-- [hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
+- [Leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
+- [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
 
 **[⬆ back to top](#table-of-contents)**
 
