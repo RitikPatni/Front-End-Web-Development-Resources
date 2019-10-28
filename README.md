@@ -8,14 +8,14 @@
 
 # A List of Useful Resources for Front End Developers
 
---- 
+---
 
 ## Table of Contents
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
   - [Learning](#learning)
-  - [A11y](#a11y) 
+  - [A11y](#a11y)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
   - [Podcasts](#podcasts)
@@ -429,7 +429,7 @@
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 - [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels.
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels.
-- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has  28 different levels to learn CSS Grid Layout. 
+- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
 - [Leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
@@ -452,7 +452,5 @@
 
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) 
-
-
 
 **[⬆ back to top](#table-of-contents)**
