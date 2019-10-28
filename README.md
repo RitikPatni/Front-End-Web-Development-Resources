@@ -33,9 +33,7 @@
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
-  - [YouTube Videos](#youtube-videos)
-  - [Google Drive Links](#google-drive-links)
----
+  - [YouTubeVideos](#youtubevideos)
 
 ## Learning
 
@@ -425,17 +423,6 @@
 
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) 
-
-
-
-**[⬆ back to top](#table-of-contents)**
-
----
-
-## Google Drive Links
-
-- [**Frontend Masters Web Development Courses 310.95 GB PACK **](https://drive.google.com/drive/u/0/folders/1_uR2KQzwtdRKNGEVfwUPHAj0RBZHrkb-) 😎
-
 
 
 
