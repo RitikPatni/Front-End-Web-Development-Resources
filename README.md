@@ -8,16 +8,17 @@
 
 # A List of Useful Resources for Front End Developers
 
---- 
+---
 
 ## Table of Contents
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
-  - [- Google Drive Links](#google-drive-links)
   - [Learning](#learning)
+  - [A11y](#a11y)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
   - [Code Editors](#code-editors)
     - [Visual Studio Code Extensions](#visual-studio-code-extensions)
   - [Tools](#tools)
@@ -34,14 +35,13 @@
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
-  - [YouTube Videos](#youtube-videos)
-  - [Google Drive Links](#google-drive-links)
----
+  - [YouTubeVideos](#youtubevideos)
 
 ## Learning
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
 - [A Complete Guide to Grd | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
+- [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
@@ -56,6 +56,7 @@
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs.
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks.
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
+- [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies.
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
 - [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students.
@@ -76,6 +77,19 @@
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers.
 - [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Leve Up Tuts.
 - [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses.
+- [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## A11y
+
+- [A11y Style Guide](https://a11y-style-guide.com/style-guide/section-resources.html) - A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist.
+- [Axe](https://www.deque.com/axe/) - Accessibility testing toolkit.
+- [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) - CCA helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators.
+- [Deque University](https://dequeuniversity.com/) - Online courses on web and mobile accessibility skills.
+- [W3C Intro to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - Strategies, standards, resources to make the Web accessible to people with disabilities.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -141,6 +155,16 @@
 
 ---
 
+## Podcasts
+
+- [Coding Blocks](https://www.codingblocks.net/)
+- [Frontend Happy Hour](https://frontendhappyhour.com/)
+- [JavaScript Jabber](https://devchat.tv/js-jabber)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
 ## Code Editors
 
 - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file. **Open Source** | **All Platforms**
@@ -156,13 +180,18 @@
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - This extension color codes various types of comments to give them different significance and stand out from the rest of your code.
 - [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Colors matching brackets to make your code much more readable very helpfull.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
+- [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Javascript linter for highlighting code errors and best practices.
+- [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - A VS Code extension that allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - A Quick Development Live Server with live browser reload.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Google Material themed icon pack.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - As you start typing a path in quotations, you will get intellisense for directories and file names.
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - You know those fancy code screenshots you see in articles and tweets? Well, most likely they came from Polacode. It's super simple to use. Copy a piece of code to your clipboard, open up the extension, paste the code, and click to save your image!
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your code automatically on save.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Settings Sync extension save your setting off in Github. Then, you can load them to any new version of VS Code with one command.
-- [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Javascript linter for highlighting code errors and best practices.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -204,6 +233,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com/) 👍
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba)
+- [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -402,11 +432,12 @@
 ## Challenges / Games
 
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage.
+- [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges.
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors.
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own.
 - [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels.
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels.
-- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has  28 different levels to learn CSS Grid Layout. 
+- [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
 - [Leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
@@ -429,18 +460,5 @@
 
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) 
-
-
-
-**[⬆ back to top](#table-of-contents)**
-
----
-
-## Google Drive Links
-
-- [**Frontend Masters Web Development Courses 310.95 GB PACK **](https://drive.google.com/drive/u/0/folders/1_uR2KQzwtdRKNGEVfwUPHAj0RBZHrkb-) 😎
-
-
-
 
 **[⬆ back to top](#table-of-contents)**
