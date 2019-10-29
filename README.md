@@ -36,6 +36,7 @@
   - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTubeVideos](#youtubevideos)
+  - [Testing](#testing)
 
 ## Learning
 
@@ -468,3 +469,14 @@
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) 
 
 **[⬆ back to top](#table-of-contents)**
+
+## Testing
+
+- [Jest](https://jestjs.io/) - JavaScript testing framework
+- [Mocha](https://mochajs.org/) - JavaScript testing framework
+- [Karma](https://karma-runner.github.io/latest/index.html) - JavaScript test runner
+- [Istanbul](https://istanbul.js.org/) - JavaScript test coverage tool
+- [TestCafe](https://devexpress.github.io/testcafe/) - Node.js end-to-end testing
+- [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework
+- [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript
+- [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing
