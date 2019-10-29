@@ -1,4 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
 [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
 [![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
 [![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
@@ -229,6 +229,7 @@
 - [Responsinator](http://www.responsinator.com/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
+- [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-indipendent pixel.
 - [Sizzy:Browser Testing Tool](https://sizzy.co/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
@@ -279,6 +280,7 @@
 - [Google Material Design Icons](http://google.github.io/material-design-icons/) 👍
 - [Icomoon](https://icomoon.io/)
 - [Icongram](https://icongr.am/)
+- [Icons8](https://icons8.com/)
 - [Ionicons](http://ionicons.com/)
 - [Mapicons](http://map-icons.com/)
 - [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/)
@@ -304,6 +306,7 @@
 - [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples
 - [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
 - [Coolors](https://coolors.co)👍 - Super fast color scheme creator with a lot of funcionalities
+- [Colordesigner Tools](https://colordesigner.io/) - The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control. Check also the other tools [here](https://colordesigner.io/tools)
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) 👍
 - [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
 - [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
