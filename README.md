@@ -36,6 +36,7 @@
   - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTubeVideos](#youtubevideos)
+  - [Testing](#testing)
 
 ## Learning
 
@@ -200,6 +201,7 @@
 ## Tools
 
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory)
+- [Animista](http://animista.net/) - CSS animation presets/generator
 - [Better Code Hub](https://bettercodehub.com/repositories)
 - [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)
 - [BrowserStack](https://www.browserstack.com/)
@@ -211,6 +213,8 @@
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
 - [CSS Triggers](https://csstriggers.com/) 👍
+- [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator
+- [ColorLisa](http://colorlisa.com/) - Color palette generator based on great artists
 - [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/) 👍
 - [Favicon Generator](http://www.favicon-generator.org/)
 - [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/) 👍
@@ -230,6 +234,7 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input)
+- [TinyPNG](https://tinypng.com/) - PNG and JPEG compression/optimizer
 - [Web Developer Checklist](http://webdevchecklist.com/) 👍
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/)
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba)
@@ -286,6 +291,7 @@
 - [OpenWebIcons](http://pfefferle.github.io/openwebicons/)
 - [Stackicons](http://stackicons.com/)
 - [Typicons](http://typicons.com/)
+- [The Noun Project](https://thenounproject.com/)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
 - [Zocial | CSS3 Button Set](http://zocial.smcllns.com/)
 
@@ -362,12 +368,15 @@
 
 - [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free.
 - [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions.
+- [Humaaans](https://www.humaaans.com/) - Library of editible people illustrations. Free for both commercial and personal use.
 - [I’d Pin That!](http://idpinthat.com) - Created to help bloggers and non-designers create high quality images like those often seen on Pinterest. I’d Pin That is more than just a source for free images — **it is an image editor!** Use the tools provided here to add your own text and edit the images right on the site.
 - [MakerBook - The best free resources for creatives](http://makerbook.net/) - A directory of sites to get free resources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools).
 - [Morguefile](https://morguefile.com/) - Founded in 1996 by college student Michael Connors.Photographers contribute images to Morguefile for visitors to use in their creative projects. Yes, they’re all completely free. The website does ask that you credit the photographer when possible.
 - [Pexels](https://www.pexels.com/) - Exclusively stock photos of high quality, great feature: Filter photos by color.
 - [Pixabay](https://pixabay.com/) - In addition to photos, Pixabay offers **video, vectors and illustrations.**
 - [Public Domain Archive](http://publicdomainarchive.com/) - “a public domain image repository” created by Matt a graphic designer, web designer and photographer.Vintage and modern images.
+- [Picalls](https://picalls.com/) - Free photos and wallpapers licensed under the Creative Commons CC0 license.
+- [StockSnap.io](https://stocksnap.io/) - High quality stock photos free to download and use. Licensed under the Creative Commons CC0 license.
 - [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage
 - [The Open Photo Project](https://openphoto.net/) - The Open Photo Project is a photo sharing platform created in 1998 by Michael Jastremski. Contributors have offered their images free of charge under terms of Creative Commons licensing.
 - [UnSplash](https://unsplash.com) 👍 - "Beautiful, Free Photos" & themed collections of photos
@@ -382,6 +391,8 @@
 - [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
 - [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive
 - [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube tutorial on using the Google Maps APIs
+- [OpenCage Geocoder](https://opencagedata.com/) - Free to use forward (lat/long to text) and reverse (text to lat/long) geocoding API
+- [GeoJS](https://www.geojs.io/) - Free to use API for geolocation lookup by IP address
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -394,6 +405,9 @@
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 - [A list of public APIs](https://github.com/toddmotto/public-apis)
 - [jsonplaceholder](https://jsonplaceholder.typicode.com) - Fake Online REST API for Testing and Prototyping
+- [Lorem Picsum](https://picsum.photos/) - Easy to use and customize placeholder photos
+- [OpenWeatherMap](https://openweathermap.org/api) - Weather API with free and paid licenses
+- [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -460,5 +474,18 @@
 
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) 
+
+**[⬆ back to top](#table-of-contents)**
+
+## Testing
+
+- [Jest](https://jestjs.io/) - JavaScript testing framework
+- [Mocha](https://mochajs.org/) - JavaScript testing framework
+- [Karma](https://karma-runner.github.io/latest/index.html) - JavaScript test runner
+- [Istanbul](https://istanbul.js.org/) - JavaScript test coverage tool
+- [TestCafe](https://devexpress.github.io/testcafe/) - Node.js end-to-end testing
+- [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework
+- [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript
+- [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing
 
 **[⬆ back to top](#table-of-contents)**
