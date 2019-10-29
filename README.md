@@ -480,3 +480,5 @@
 - [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework
 - [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript
 - [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing
+
+**[⬆ back to top](#table-of-contents)**
