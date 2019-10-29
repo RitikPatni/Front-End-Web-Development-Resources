@@ -388,6 +388,8 @@
 - [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form.
 - [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive
 - [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube tutorial on using the Google Maps APIs
+- [OpenCage Geocoder](https://opencagedata.com/) - Free to use forward (lat/long to text) and reverse (text to lat/long) geocoding API
+- [GeoJS](https://www.geojs.io/) - Free to use API for geolocation lookup by IP address
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -401,6 +403,8 @@
 - [A list of public APIs](https://github.com/toddmotto/public-apis)
 - [jsonplaceholder](https://jsonplaceholder.typicode.com) - Fake Online REST API for Testing and Prototyping
 - [Lorem Picsum](https://picsum.photos/) - Easy to use and customize placeholder photos
+- [OpenWeatherMap](https://openweathermap.org/api) - Weather API with free and paid licenses
+- [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com
 
 **[⬆ back to top](#table-of-contents)**
 
