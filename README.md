@@ -110,6 +110,7 @@
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
+- [Mackenzie Child - Design to Code Challenge](https://www.youtube.com/watch?v=gnizXEUupsA&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_) - Tutorials on UI, how to design & code multiple styles of sites.
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos) - Tutorials on JavaScript, Node, Machine Learning, Neural Networks, Algorithms
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
@@ -127,7 +128,9 @@
 - [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore
 - [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
 - [An Illustrated Guide for Setting Up Your Website Using GitHub &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
+- [Brad Frost Blog](https://bradfrost.com/) - Author of Atomic Design, building design systems in CSS & HTML.
 - [CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/)
+- [CSS Tricks](https://css-tricks.com/) - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 - [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/) - 72 Quotes about Design and Creativity from Margaret Kelsey.
 - [Design Resources](http://designresources.party/)
 - [Design For Change](https://medium.muz.li/design-for-change-439fc7ec6bb9?source=grid_home---8-5969bf7021a3-----3-1-----------------10)
@@ -289,6 +292,7 @@
 - [Octicons](https://octicons.github.com/)
 - [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 - [OpenWebIcons](http://pfefferle.github.io/openwebicons/)
+- [Shape.so](https://shape.so/)
 - [Stackicons](http://stackicons.com/)
 - [Typicons](http://typicons.com/)
 - [The Noun Project](https://thenounproject.com/)
@@ -307,6 +311,7 @@
 - [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
 - [Coolors](https://coolors.co)👍 - Super fast color scheme creator with a lot of funcionalities
 - [Colordesigner Tools](https://colordesigner.io/) - The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control. Check also the other tools [here](https://colordesigner.io/tools)
+- [Colormind - Bootstrap](http://colormind.io/bootstrap/) - Colormind is a color scheme generator that uses deep learning to automatically apply the color pallete to a live website mockup.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) 👍
 - [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
 - [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
