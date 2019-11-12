@@ -129,6 +129,7 @@
 - [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS.
 - [An Illustrated Guide for Setting Up Your Website Using GitHub &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar.
 - [Brad Frost Blog](https://bradfrost.com/) - Author of Atomic Design, building design systems in CSS & HTML.
+- [Best Free Fonts](https://www.websiteplanet.com/blog/best-free-fonts/) - 70+ Best Free Fonts for Designers – Free for Commercial Use in 2019
 - [CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/)
 - [CSS Tricks](https://css-tricks.com/) - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 - [Design and Creativity quotes](http://blog.invisionapp.com/design-and-creativity-quotes/) - 72 Quotes about Design and Creativity from Margaret Kelsey.
