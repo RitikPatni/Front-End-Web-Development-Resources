@@ -315,6 +315,7 @@
 - [Colormind - Bootstrap](http://colormind.io/bootstrap/) - Colormind is a color scheme generator that uses deep learning to automatically apply the color pallete to a live website mockup.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) 👍
 - [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b) - A complete guide to design in color (article on Medium)
+- [Image Color Picker](https://image-color.com) - Image color picker and palette generator
 - [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations
 - [Material Palette](https://www.materialpalette.com/) - Color palette generator for Material Design
 - [Pigment Palette Generator](https://pigment.shapefactory.co/)
