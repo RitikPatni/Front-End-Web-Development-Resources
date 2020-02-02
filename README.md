@@ -220,6 +220,7 @@
 - [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator
 - [ColorLisa](http://colorlisa.com/) - Color palette generator based on great artists
 - [DirtyMarkup · Tidy up your HTML, CSS, and JavaScript code](https://dirtymarkup.com/) 👍
+- [ExtendsClass](https://extendsclass.com/)
 - [Favicon Generator](http://www.favicon-generator.org/)
 - [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/) 👍
 - [Generate favicon based on text](https://favicon.io/) 👍
