@@ -155,6 +155,7 @@
 - [CSS Scroll-Snap](https://css-tricks.com/practical-css-scroll-snapping/) 🔥🔥🔥
 - [Preload, Prefetch and priorities in chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese
+- [IDEs for web Developers](https://websitesetup.org/best-ide-software/)
 
   **[⬆ back to top](#table-of-contents)**
 
