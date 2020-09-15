@@ -410,6 +410,7 @@
 ## APIs
 
 - [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa)
+- [Abstract APIs](https://www.abstractapi.com) - Free utility API's for compressing images, creating user avatars, validating emails, and more
 - [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 - [A list of public APIs](https://github.com/toddmotto/public-apis)
