@@ -186,7 +186,7 @@
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - This extension color codes various types of comments to give them different significance and stand out from the rest of your code.
-- [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Colors matching brackets to make your code much more readable very helpfull.
+- [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Colors matching brackets to make your code much more readable - very helpful.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 - [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Javascript linter for highlighting code errors and best practices.
 - [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - A VS Code extension that allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
@@ -236,7 +236,7 @@
 - [Responsinator](http://www.responsinator.com/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/)
-- [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-indipendent pixel.
+- [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-independent pixel.
 - [Sizzy:Browser Testing Tool](https://sizzy.co/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input)
@@ -313,7 +313,7 @@
 - [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes
 - [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples
 - [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible)
-- [Coolors](https://coolors.co)👍 - Super fast color scheme creator with a lot of funcionalities
+- [Coolors](https://coolors.co)👍 - Super fast color scheme creator with a lot of functionalities
 - [Colordesigner Tools](https://colordesigner.io/) - The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control. Check also the other tools [here](https://colordesigner.io/tools)
 - [Colormind - Bootstrap](http://colormind.io/bootstrap/) - Colormind is a color scheme generator that uses deep learning to automatically apply the color pallete to a live website mockup.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) 👍
@@ -366,7 +366,7 @@
 - [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70)
 - [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code
 - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo
-- [Partcles JS](https://vincentgarreau.com/particles.js/) 👍
+- [Particles JS](https://vincentgarreau.com/particles.js/) 👍
 - [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub
 - [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page
 
@@ -378,7 +378,7 @@
 
 - [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free.
 - [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions.
-- [Humaaans](https://www.humaaans.com/) - Library of editible people illustrations. Free for both commercial and personal use.
+- [Humaaans](https://www.humaaans.com/) - Library of editable people illustrations. Free for both commercial and personal use.
 - [I’d Pin That!](http://idpinthat.com) - Created to help bloggers and non-designers create high quality images like those often seen on Pinterest. I’d Pin That is more than just a source for free images — **it is an image editor!** Use the tools provided here to add your own text and edit the images right on the site.
 - [MakerBook - The best free resources for creatives](http://makerbook.net/) - A directory of sites to get free resources (Photography, Mockups, Graphics, Textures, Fonts, Colours, Video, Audio & Tools).
 - [Morguefile](https://morguefile.com/) - Founded in 1996 by college student Michael Connors.Photographers contribute images to Morguefile for visitors to use in their creative projects. Yes, they’re all completely free. The website does ask that you credit the photographer when possible.
@@ -464,7 +464,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels.
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout.
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript.
-- [Leetcode](https://leetcode.com/) - Coding prolems to solve in a range of categories and difficulties
+- [Leetcode](https://leetcode.com/) - Coding problems to solve in a range of categories and difficulties
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges.
 
 **[⬆ back to top](#table-of-contents)**
