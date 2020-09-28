@@ -15,6 +15,7 @@
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
+  - [Useful](#useful)
   - [Learning](#learning)
   - [A11y](#a11y)
   - [YouTube Channels](#youtube-channels)
@@ -36,22 +37,26 @@
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
   - [Free Tools For Students](#free-tools-for-students)
-  - [YouTubeVideos](#youtubevideos)
+  - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
+
+## Useful
+
+- [BGJar](https://bgjar.com/) 🔥 🔥 - Free SVG background generator for your websites, blogs, and app.   ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Learning
 
-- [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
-- [A Complete Guide to Grd | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
-- [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+- [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout. 
+- [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
+- [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command-line workflow with ZSH, Z, and related tools.
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid
-- [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
+- [Best Of JS](https://bestof.js.org/) 👍 A site to check the best GitHub Repos for your favorite js framework
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages.
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale.
 - [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS.
 - [Design Resources](http://designresources.party/) - Design Resources from Skullface.
 - [dev.to](https://dev.to/) 👍 - Where programmers share ideas and help each other grow.
-- [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton and more.
+- [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more.
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships.
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development.
 - [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course.
@@ -71,13 +76,12 @@
 - [Udacity](https://in.udacity.com/) 👍 - Learn anything online – deep learning, machine learning, front end languages.
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace.
 - [Watch and Code®](https://watchandcode.com/p/practical-javascript) - Build a strong JavaScript foundation for web development.
-- [W3School](https://www.w3schools.com/) - Web developlment reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
+- [W3School](https://www.w3schools.com/) - Web development reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples.
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs.
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io).
 - [WesBos](http://wesbos.com/) - Free and premium courses in web development
 - [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one place. Your handy partner for all types of modern web development and designs.
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers.
-- [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Leve Up Tuts.
 - [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses.
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery.
 
@@ -99,25 +103,25 @@
 
 ## YouTube Channels
 
-- [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on: WordPress, PSD to HTML
-- [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on: Bootstrap, SASS, jQuery, PHP, Freelancing
+- [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on WordPress, PSD to HTML
+- [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on Bootstrap, SASS, jQuery, PHP, Freelancing
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier.
-- [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on: HTML, CSS, JavaScript, Bootstrap
-- [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on: C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C
+- [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on HTML, CSS, JavaScript, Bootstrap
+- [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub.
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only**
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Tutorials on JavaScript, React, Functional Programming, GraphQL, Life as a Developer
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
-- [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
-- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
+- [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 - [Mackenzie Child - Design to Code Challenge](https://www.youtube.com/watch?v=gnizXEUupsA&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_) - Tutorials on UI, how to design & code multiple styles of sites.
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos) - Tutorials on JavaScript, Node, Machine Learning, Neural Networks, Algorithms
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
-- [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
-- [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on: ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
-- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on: HTML, CSS, Javascript, Node JS, MongoDB and hosting.
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
+- [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
+- [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
+- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -168,6 +172,7 @@
 - [Coding Blocks](https://www.codingblocks.net/)
 - [Frontend Happy Hour](https://frontendhappyhour.com/)
 - [JavaScript Jabber](https://devchat.tv/js-jabber)
+- [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Level Up Tuts.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -286,6 +291,7 @@
 - [Font Awesome](http://fontawesome.io/) 👍
 - [Glyphicon](http://www.webhostinghub.com/glyphs/)
 - [Google Material Design Icons](http://google.github.io/material-design-icons/) 👍
+- [IconSVG](https://iconsvg.xyz/) 🔥 🔥 🔥 - Quick customizable icons for your projects  ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Icomoon](https://icomoon.io/)
 - [Icongram](https://icongr.am/)
 - [Icons8](https://icons8.com/)
