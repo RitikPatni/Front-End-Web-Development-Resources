@@ -224,6 +224,7 @@
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run)
+- [CSS Minifier](https://cssminifier.com/) - Minfy your CSS files!
 - [CSS Triggers](https://csstriggers.com/) 👍
 - [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator
 - [ColorLisa](http://colorlisa.com/) - Color palette generator based on great artists
