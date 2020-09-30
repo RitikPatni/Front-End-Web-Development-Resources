@@ -242,6 +242,7 @@
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [CSS Minifier](https://cssminifier.com/) - Minify your CSS files! ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Triggers](https://csstriggers.com/) 👍 ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [ColorLisa](http://colorlisa.com/) - Color palette generator based on great artists ![Free](https://img.shields.io/badge/-Free-brightgreen)
