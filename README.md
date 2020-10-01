@@ -150,7 +150,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. !
+- [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. [Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
