@@ -87,6 +87,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Scrimba](https://www.scrimba.com/)
 - [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships.
 - [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials.
+- [SoloLearn](https://www.sololearn.com/)- A free portal for learning web development.
 - [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects.
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development
 - [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples.
