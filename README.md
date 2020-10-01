@@ -7,6 +7,23 @@
 [![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
+# Front-end development
+# **Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+
+<p>
+This is an open-source repository for all who want to learn front-end Development.</p>
+
+
+<br>
+<h2 align="center" ><strong>Front-end development</strong></h2><br>
+
+> **Front-end web development** is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
+<br>
+
+**Make sure to show your support by star mark & sharing the repository**
+
+
+
 # A List of Useful Resources for Front End Developers
 
 ---
