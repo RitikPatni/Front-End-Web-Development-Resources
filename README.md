@@ -50,7 +50,7 @@
 - [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command-line workflow with ZSH, Z, and related tools. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Best Of JS](https://bestof.js.org/) 👍 A site to check the best GitHub Repos for your favorite js framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Best Of JS](https://bestof.js.org/) 👍 A site to check the best GitHub Repos for your favourite js framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -73,6 +73,7 @@
 - [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
 - [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [SoloLearn](https://www.sololearn.com/)- A free portal for learning web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -131,7 +132,7 @@
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
@@ -436,7 +437,7 @@
 
 - [Geocomplete-location autocomplete](https://ubilabs.github.io/geocomplete/) - An advanced jQuery plugin that wraps the Google Maps APIs Geocoding and Places Autocomplete services into a dropdown for an input-form. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google maps API | Google](https://developers.google.com/maps/) - Google Map APIs including documentation & learning resources - extensive ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great TouTube tutorial on using the Google Maps APIs ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Google maps API | Traversy](https://youtu.be/Zxf1mnP5zcw/) - Great YouTube tutorial on using the Google Maps APIs ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [OpenCage Geocoder](https://opencagedata.com/) - Free to use forward (lat/long to text) and reverse (text to lat/long) geocoding API ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [GeoJS](https://www.geojs.io/) - Free to use API for geolocation lookup by IP address ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -479,7 +480,7 @@
 
 ## Books
 
-- [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the bascis of HTML (free pdf/18 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the basics of HTML (free pdf/18 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5 ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF) - A complete course from Beginner to Mastermind ![Paid](https://img.shields.io/badge/-Paid-blue)
