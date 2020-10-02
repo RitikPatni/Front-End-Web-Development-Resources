@@ -270,6 +270,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Favicon Generator](http://www.favicon-generator.org/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/) 👍 ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Generate favicon based on text](https://favicon.io/) 👍 ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Get Waves](https://getwaves.io/) - Generate many types of SVG waves for use in web design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google Analytics](https://analytics.google.com/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
