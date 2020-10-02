@@ -386,6 +386,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [All Gradient sites in one place](https://cssgradient.io/gradient-backgrounds/) 👍 ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google, but for colors](https://picular.co/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Flat UI Colors](https://flatuicolors.com/) - Color picker for flat designs ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -453,6 +454,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [The Open Photo Project](https://openphoto.net/) - The Open Photo Project is a photo sharing platform created in 1998 by Michael Jastremski. Contributors have offered their images free of charge under terms of Creative Commons licensing. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UnSplash](https://unsplash.com) 👍 - "Beautiful, Free Photos" & themed collections of photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UnDraw](https://undraw.co) 👍 - "MIT licensed illustrations for every project you can imagine and create ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Canva](https://www.canva.com) 👍 - 8,000+ free templates and thousands of free photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
