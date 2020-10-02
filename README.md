@@ -30,6 +30,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Table of Contents
 
+- [Front-end development](#front-end-development)
+- [**Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">](#hi-there-img-srchttpsrawgithubusercontentcomiampavangandhiiampavangandhimastergifshigif-width35px)
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
   - [Useful](#useful)
@@ -73,12 +75,14 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Design Resources](http://designresources.party/) - Design Resources from Skullface. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [dev.to](https://dev.to/) 👍 - Where programmers share ideas and help each other grow. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dicoding Academy](https://dicoding.com/) - Where everyone can learn programming from fundamentals (**Available only in Bahasa Indonesia**). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Khan Academy](https://www.khanacademy.org/computing) - A universal online learning platform that also provides the important courses for developers. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -212,6 +216,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Geany](https://geany.org/) - Geany is a small and lightweight integrated development environment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [IntellijIDEA](https://www.jetbrains.com/idea/) - A universal IDE from JetBrains. It has code-completion, integrationa, and Version Control System (VCS). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 ![Paid](https://img.shields.io/badge/-Paid-blue)
