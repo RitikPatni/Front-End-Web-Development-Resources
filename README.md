@@ -77,7 +77,6 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Khan Academy](https://www.khanacademy.org/computing) - A universal online learning platform that also provides the important courses for developers. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
@@ -511,7 +510,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## Books
 
 - [Ebook Foundation-free programing books: GitHub Repository](https://github.com/EbookFoundation/free-programming-books) - A directory of free learning resources, categorized by language ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [HTML Basics](https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the basics of HTML (free pdf/18 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [HTML Basics](https://web.archive.org/web/20181122220803/https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf) - A workshop covering the basics of HTML (free pdf/18 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [HTML5 for Masterminds, 2nd Edition](https://www.amazon.com/gp/product/1500429120/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1500429120&linkCode=as2&tag=pinnok-20&linkId=IBCPBVE3TBPCOUWF) - A complete course from Beginner to Mastermind ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [HTML5 Pocket Reference (Pocket Reference (O'Reilly)](http://www.amazon.com/gp/product/1449363350/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449363350&linkCode=as2&tag=pinnok-20&linkId=M6JD2MFAN24X3E7W) - A comprehensive compact reference for HTML 5 ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
