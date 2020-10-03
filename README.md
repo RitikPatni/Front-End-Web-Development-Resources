@@ -30,8 +30,6 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Table of Contents
 
-- [Front-end development](#front-end-development)
-- [Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">](#hi-there-img-srchttpsrawgithubusercontentcomiampavangandhiiampavangandhimastergifshigif-width35px)
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
   - [Useful](#useful)
