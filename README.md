@@ -154,6 +154,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more  ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -384,6 +385,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Picular - Google, but for colors](https://picular.co/) - Primary color generator using Google's image search. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pigment - Palette Generator](https://pigment.shapefactory.co/) - Generate color palettes based on lighting and pigment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control  ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -416,6 +418,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Dribble](https://dribbble.com/) - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web design Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Behance](https://www.behance.net/) - Behance is a social media platform to showcase and discover creative work like Graphic Design, Illustration, Game Design and many more things ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -492,6 +495,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [Am I Responsive](http://ami.responsivedesign.is/) - This is a tool to check the responsiveness of a website and take a screenshot on multiple devices in a single frame. Go to the site and enter the URL to capture the screenshot. You should have separate screen capture tool to take the proper screenshot. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Figma](https://www.figma.com/) 👍 - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Adobe XD](https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjwn9v7BRBqEiwAbq1Ey9SoyrTK1Zsdd88wGlJfTVkU0JuW40rItPaiAypnKZ7J-lLv_IUE0xoC0GEQAvD_BwE:G:s&s_kwcid=AL!3085!3!394015010053!e!!g!!adobe%20xd!1641846448!65452677551) - One of the best tool for UI/UX Design, Wireframe, animate, prototype, collaborate, and more ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Magic Mockups](http://magicmockups.com/) - Place your product in realistic environment! Free real-life product/app mockup generator. **Laptop, Phone, Tablet, Imac.** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The MockUp Club](https://themockup.club/) - Website that offers free downloads of design mockups (mostly Photoshop format). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [MockupsJar](https://mockupsjar.com/) 👍 - Build mockups with screenshots of your application or web Design for free to share with customers and clients ![Free](https://img.shields.io/badge/-Free-brightgreen)
