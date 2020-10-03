@@ -320,6 +320,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Pure CSS](https://purecss.io/) - A set of small, responsive CSS modules. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Semantic UI](https://semantic-ui.com/) - UI framework designed for theming and responsive design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Skeleton CSS](http://getskeleton.com/) - Simple, responsive boilerplate to kickstart any responsive project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Spectre CSS](https://picturepan2.github.io/spectre/) - Lightweight, Responsive and Modern CSS framework for faster and extensible development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Tacit](https://github.com/yegor256/tacit) - Primitive but attractive framework for beginners in graphic design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [TailwindCSS](https://tailwindcss.com/) 🔥🔥🔥 - Highly customizable, low level CSS framework. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Kit](https://getuikit.com/) - Lightweight and modular front-end framework for web interfaces. ![Free](https://img.shields.io/badge/-Free-brightgreen)
