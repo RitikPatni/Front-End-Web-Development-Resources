@@ -154,6 +154,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more  ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -384,6 +385,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Picular - Google, but for colors](https://picular.co/) - Primary color generator using Google's image search. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pigment - Palette Generator](https://pigment.shapefactory.co/) - Generate color palettes based on lighting and pigment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control  ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
 **[⬆ back to top](#table-of-contents)**
