@@ -113,6 +113,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -518,6 +519,9 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/) - A free e-book about making websites in HTML5 and CSS for absolute beginners ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY) - A comprehensive book about making RWD ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series diving deep into the core mechanisms of the JavaScript language. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Guide to Git and Github](https://launchschool.com/books/git) - A beginner friendly guide to using git and working with Github. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Introduction to HTTP](https://launchschool.com/books/http) - Introduction to HTTP, the stateless protocol underlying all of the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Introduction to the Command Line](https://launchschool.com/books/command_line) - A short and beginner friendly introduction to the command line, covering common commands that will make you immediately productive. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -553,6 +557,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [**Flexbox in 20 minutes**](https://youtu.be/JJSoEo8JSnc) - Quick crash-course on the CSS Flexbox model. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎 - Sarah Drasner's talk on nontypical pratical uses of SVGs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [**CSS Grid Tutorial**](https://www.youtube.com/watch?v=EFafSYg-PkI&ab_channel=DevEd) - Use CSS grid to structure and position websites with ease. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) - Ad-free tutorial by freeCodeCamp.![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
