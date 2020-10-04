@@ -1,3 +1,5 @@
+<!-- @format -->
+
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/patniritik@gmail.com)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
 [![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
@@ -8,21 +10,19 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
 
 # Front-end development
+
 # Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
 <p>
 This is an open-source repository for all who want to learn front-end Development.</p>
 
-
 <br>
 <h2 align="center" ><strong>Front-end development</strong></h2><br>
 
 > **Front-end web development** is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
-<br>
+> <br>
 
 **Make sure to show your support by star mark & sharing the repository**
-
-
 
 # A List of Useful Resources for Front End Developers
 
@@ -59,7 +59,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Useful
 
-- [BGJar](https://bgjar.com/) 🔥 🔥 - Free SVG background generator for your websites, blogs, and app.   ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [BGJar](https://bgjar.com/) 🔥 🔥 - Free SVG background generator for your websites, blogs, and app. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Learning
 
@@ -85,34 +85,34 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Scrimba](https://www.scrimba.com/) - Code-screencast-based learning in a variety of languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Scotch](https://scotch.io/) - Many Web development courses. Has both free and "Premium" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Search Courses](https://hackr.io/) - A selection of trending courses and tutorials. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [SoloLearn](https://www.sololearn.com/)- A free portal for learning web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Udacity](https://in.udacity.com/) 👍 - Learn anything online – deep learning, machine learning, front end languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Watch and Code®](https://watchandcode.com/p/practical-javascript) - Build a strong JavaScript foundation for web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [W3School](https://www.w3schools.com/) - Web development reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [WesBos](http://wesbos.com/) - Free and premium courses in web development ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one place. Your handy partner for all types of modern web development and designs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
@@ -123,10 +123,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [A11y Style Guide](https://a11y-style-guide.com/style-guide/section-resources.html) - A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Axe](https://www.deque.com/axe/) - Accessibility testing toolkit. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) - CCA helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Deque University](https://dequeuniversity.com/) - Online courses on web and mobile accessibility skills. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [W3C Intro to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - Strategies, standards, resources to make the Web accessible to people with disabilities. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
@@ -155,7 +155,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more  ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Learn Website Developments with Html , Javascript , Css and other Frameworks with same projects and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -163,10 +164,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Blogs
 
-- [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)  
-- [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍 - Collection of all Codrops web development resources for 2017. ![Free](https://img.shields.io/badge/-Free-brightgreen)  
-- [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore ![Free](https://img.shields.io/badge/-Free-brightgreen)  
-- [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS. ![Free](https://img.shields.io/badge/-Free-brightgreen)  
+- [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍 - Collection of all Codrops web development resources for 2017. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [An Illustrated Guide for Setting Up Your Website Using GitHub &amp; Cloudflare](https://medium.freecodecamp.com/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465) - An illustrated guide to setting up your website using GitHub and Cloudflare from Karan Thakkar. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Brad Frost Blog](https://bradfrost.com/) - Author of Atomic Design, building design systems in CSS & HTML. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Best Free Fonts](https://www.websiteplanet.com/blog/best-free-fonts/) - 70+ Best Free Fonts for Designers – Free for Commercial Use in 2019 ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -179,7 +180,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Beginners guide to Gatsby](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a) - Gatsby.js: How to set up and use the React Static Site Generator from Aman Mittal ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Examples of everything in ECMAScript in 2016,2017, 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flavio Copes Tutorials](https://flaviocopes.com/) - Daily tutorials about Javascript and Web development by Flavio Copes ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/) - Process article on a custom CSS animation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
+- [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/) - Process article on a custom CSS animation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Explanation of the CSS minmax() function, which can be used for CSS grid layouts. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [How to build a random quote generator with JavaScript and HTML, for absolute beginners](https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08#.jbxuk5hiw) - How to Build a Random Quote Generator with JavaScript and HTML, for Absolute Beginners from Sophanarith Sok. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -220,11 +221,11 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [IntellijIDEA](https://www.jetbrains.com/idea/) - A universal IDE from JetBrains. It has code-completion, integrationa, and Version Control System (VCS). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Vim](https://https://www.vim.org//) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UltraEdit](https://www.ultraedit.com/) - UltraEdit is a powerful HTML and Code editor available for Mac, Windows, and Linux. It comes with a built-in file comparison utility, autocompletion, advanced layout, multi-tab, multi-pane editors, and syntax highlighting for the most popular programming languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 ### Visual Studio Code Extensions
 
@@ -254,15 +255,15 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Animista](http://animista.net/) - CSS animation presets/generator ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Better Code Hub](https://bettercodehub.com/repositories) - Checks GitHub codebase against software engineering guidelines and gives feedback. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Browserling](https://www.browserling.com/) - Live interactive cross-browser testing on virtual machines. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [BrowserStack](https://www.browserstack.com/) - Test websites and mobile apps on different browsers and mobile devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Can I use... ](http://www.caniuse.com/) 👍 - Support tables for HTML5, CSS3, etc. on desktop and mobile browsers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Checkbot](https://www.checkbot.io/) - Browser extension that tests websites for SEO, speed and security issues ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Codepen](https://codepen.io/) - Social development environment where you can write code in the browser and see results as you build. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Codesandbox](https://codesandbox.io/) - Instant IDE and prototyping tool for web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/) - Test JS, CSS, HTML, or CoffeeScript in an online code editor. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/) - Reduces the amount of CSS the browser has to go through to render a webpage. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run) - Web service for running functional web tests on mobile and desktop web browsers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -281,10 +282,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) - Tutorial to test JavaScript and execute it via build systems in Sublime Text 3. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Cheat sheet of jQuery selectros, manipulation, events, and more in PDF format. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JS Bin](http://jsbin.com/?html,output) - Live pastebin for HTML, CSS, and JS, as well as a range of processors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) 👍 - Open source, automated tool for improving the quality of webpages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Node Package Manager(npm)](https://www.npmjs.com) - Package manager for Javascript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Responsinator](http://www.responsinator.com/) - Replicate how responsive sites will look on popular devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Responsive Grid System](http://www.responsivegridsystem.com/) - Generate flexible grids to create a responsive website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/) - Collection of tools for designers ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -297,7 +298,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Web Developer Checklist](http://webdevchecklist.com/) 👍 - Categorized checklist for things to cover during web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/) - List of tools that can be used to improve page performance. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba) - Online IDE for Angular and React projects that can be share via link. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API  client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -315,7 +316,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Jeet](http://jeet.gs/) - Fractional grid system for Sass and Stylus. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Less](http://lessframework.com/) - CSS grid system for designing adaptive websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Material Design Lite](https://getmdl.io/) - Implementation of Material Design components in vanilla CSS, JS, and HTML. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Materialize CSS](http://materializecss.com/) - CSS framework aimed to allow a unified user experience across all products on any platform.  ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Materialize CSS](http://materializecss.com/) - CSS framework aimed to allow a unified user experience across all products on any platform. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Neat](https://neat.bourbon.io/) - A lightweight and flexible Sass grid. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Petal CSS](https://shakrmedia.github.io/petal/) - Light CSS UI framework based on LESS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pure CSS](https://purecss.io/) - A set of small, responsive CSS modules. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -337,13 +338,13 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Brandicons](http://fontello.github.io/brandico.font/demo.html) - Icon font generator and viewer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flat Icon](https://www.flaticon.com/) - Database of free icons in PNG, SVG, EPS, PSD, and Base64 formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Font Awesome](http://fontawesome.io/) 👍 - Open source icon set and toolkit with consistent styles. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Glyphicon](http://www.webhostinghub.com/glyphs/) - Icons for use with Bootstrap, other CSS frameworks, and any web projects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google Material Design Icons](http://google.github.io/material-design-icons/) 👍 - An overview of material icons and how to integrate them into projects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Icomoon](https://icomoon.io/) - Icon font generator and icon collection. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Icongram](https://icongr.am/) - Collection of icon packs from different sources. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [IconSVG](https://iconsvg.xyz/) 🔥 🔥 🔥 - Quick customizable icons for your projects  ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [IconSVG](https://iconsvg.xyz/) 🔥 🔥 🔥 - Quick customizable icons for your projects ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Icons8](https://icons8.com/) - Consistently styled and customizable icon packs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Ionicons](http://ionicons.com/) - Open source icons in SVG and webfont. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mapicons](http://map-icons.com/) - Icon font for use with Google Maps API and Google Places API using SVG markers and icon labels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -353,10 +354,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [The Noun Project](https://thenounproject.com/) - Comprehensive icon collection. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Octicons](https://octicons.github.com/) - Collection of GitHub's icons for projects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Open Iconic, a free and open icon set](https://useiconic.com/open/) - Open source icon set in SVG, webfont, and raster formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [OpenWebIcons](http://pfefferle.github.io/openwebicons/) - Webfont for scalable vector icons and logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Shape.so](https://shape.so/) - Customizable collection of icons and animations. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Stackicons](http://stackicons.com/) - Customizable icons for social brands. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Typicons](https://www.s-ings.com/typicons/) - Free-to-use vector icons embedded in a webfont. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather themed icon font and CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -387,8 +388,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Picular - Google, but for colors](https://picular.co/) - Primary color generator using Google's image search. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pigment - Palette Generator](https://pigment.shapefactory.co/) - Generate color palettes based on lighting and pigment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control  ![Free](https://img.shields.io/badge/-Free-brightgreen)
-
+- [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -397,7 +397,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## Typography
 
 - [A Crash Course in Typography: The Basics of Type](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html) - First article of a series on Typography ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Circular Font Combinations | Free Alternatives | Typewolf](https://www.typewolf.com/site-of-the-day/fonts/circular) - A great resource for everything related to Typography ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on How to pair Google Fonts ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -406,7 +406,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Just My Type](https://justmytype.co/) - A collection of font pairings ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Table of Contents | The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) - A practical guide to web typography ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Typekit](https://typekit.com/) - "Quality fonts from the world’s best foundries" ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Typography Terms](https://designschool.canva.com/blog/typography-terms/) - An infographic on Typography Terms + explanations ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
@@ -432,9 +432,9 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Particles JS](https://vincentgarreau.com/particles.js/) 👍 - A lightweight JavaScript library for creating particles. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub ![Free](https://img.shields.io/badge/-Free-brightgreen) 
+- [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -478,13 +478,13 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## APIs
 
 - [Alexa API | Codecademy](https://www.codecademy.com/learn/learn-alexa) - Learn to develop a custom Amazon Alexa skill that respond to the user's voice with custom messages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Abstract APIs](https://www.abstractapi.com) - Free utility API's for compressing images, creating user avatars, validating emails, and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [jsonplaceholder](https://jsonplaceholder.typicode.com) - Fake Online REST API for Testing and Prototyping ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [A list of public APIs](https://github.com/toddmotto/public-apis) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Lorem Picsum](https://picsum.photos/) - Easy to use and customize placeholder photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [OpenWeatherMap](https://openweathermap.org/api) - Weather API with free and paid licenses ![Free](https://img.shields.io/badge/-Free-brightgreen)
-![Paid](https://img.shields.io/badge/-Paid-blue)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Random famous quotes | Rapid APIs](https://rapidapi.com/andruxnet/api/Random%20Famous%20Quotes) - Gets a random quote in JSON format. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) ![Free](https://img.shields.io/badge/-Free-brightgreen)
