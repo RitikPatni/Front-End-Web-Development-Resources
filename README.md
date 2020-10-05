@@ -228,6 +228,8 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Nano](https://www.nano-editor.org) - GNU nano is a text editor for Unix-like OS's. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Visual Studio Code Extensions
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag. ![Free](https://img.shields.io/badge/-Free-brightgreen)
