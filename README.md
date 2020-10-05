@@ -222,10 +222,11 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Vim](https://https://www.vim.org//) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Vim](https://www.vim.org/) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UltraEdit](https://www.ultraedit.com/) - UltraEdit is a powerful HTML and Code editor available for Mac, Windows, and Linux. It comes with a built-in file comparison utility, autocompletion, advanced layout, multi-tab, multi-pane editors, and syntax highlighting for the most popular programming languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Nano](https://www.nano-editor.org) - GNU nano is a text editor for Unix-like OS's. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ### Visual Studio Code Extensions
 
