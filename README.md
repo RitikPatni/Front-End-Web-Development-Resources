@@ -267,7 +267,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Critical Path CSS Generator - by Jonas Ohlsson](https://jonassebastianohlsson.com/criticalpathcssgenerator/) - Reduces the amount of CSS the browser has to go through to render a webpage. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run) - Web service for running functional web tests on mobile and desktop web browsers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Minifier](https://cssminifier.com/) - Minify your CSS files! ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [CSS Reference](https://cssreference.io/) - A free visual guide to CSS. ![Free]
+- [CSS Reference](https://cssreference.io/) - A free visual guide to CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Triggers](https://csstriggers.com/) 👍 - Tells you what gets triggered when mutating a given CSS property. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [ColorLisa](http://colorlisa.com/) - Color palette generator based on great artists ![Free](https://img.shields.io/badge/-Free-brightgreen)
