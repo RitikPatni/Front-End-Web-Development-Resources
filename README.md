@@ -32,6 +32,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
+  - [Roadmap for Front-End Development](#Roadmap)
   - [Useful](#useful)
   - [Learning](#learning)
   - [A11y](#a11y)
@@ -56,6 +57,35 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
+
+## Roadmap
+-[How the internet works](https://www.youtube.com/watch?v=x3c1ih2NJEg)💻-Amazing animation introducing networks, browser networking, IP addressing.
+-[Advanced FrontEnd](https://www.youtube.com/watch?v=6ir8fvmAvrw)🔚-A all-in-one course for advance HTML5, CSS3 and Javascript for intermediate learners.
+-[Operating System](https://www.youtube.com/watch?v=Snrh580U3tI)🖥- A detailed crash course for operating system.
+-[Languages]
+  -[Learn PHP](https://www.youtube.com/watch?v=OK_JCtrrv-c)📕-A full PHP learning course.
+  -[Know Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY)📕-A Ruby learning course.
+  -[Learn Rust](https://www.youtube.com/watch?v=zF34dRivLOw)📕-A Rust learning course.
+  -[Learn Go](https://www.youtube.com/watch?v=YS4e4q9oBaU)📕-A Golang learning course.
+  -[Know Node.Js](https://www.youtube.com/watch?v=JnvKXcSI7yk)📕-A Node.Js learning course.
+-[Database Concepts](https://www.edureka.co/blog/what-is-a-database/)📓- A detailed description of Database.
+-[Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)📔- Theory of Relational Database.
+  -[Learn MySQL](https://www.youtube.com/watch?v=WmGgxTpGs_8)📔
+  -[Learn PostgreSQL](https://www.youtube.com/watch?v=-VO7YjQeG6Y)📔
+  -[Learn MariaDB](https://www.youtube.com/watch?v=_AMj02sANpI)📔
+-[NoSQL Databases]📗-
+  -[Learn MongoDb](https://www.youtube.com/watch?v=VELru-FCWDM)📗
+  -[Learn CouchDb](https://www.youtube.com/watch?v=nlqv9Np3iAU)📗
+  -[Graph Database](https://www.youtube.com/watch?v=GekQqFZm7mA)📗
+-[APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)📨-To know what are they, how do they work, how to use them in your code, and how are they structured?
+-[Catching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)♻️-Websites can be made more responsive by using catching.
+-[Security](https://developer.mozilla.org/en-US/docs/Web/Security)🔒-Learn to protect websites or web applications by detecting, preventing and responding to attacks.
+-[CI/CD](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)🧪-For continuous integration, continuous delivery, and continuous deployment.
+-[Development Concepts](https://dev.to/ham8821/solid-principles-to-start-with-object-oriented-programming-1e49) 📙-Principles of development.
+-[Software Architecture](https://martinfowler.com/architecture/)🏯-A brief description of software architecture.
+-[Containers](https://www.docker.com/resources/what-container)🧊
+-[Servers](https://httpd.apache.org/)📬
+-[Scalability](https://www.conceptatech.com/blog/importance-of-scalability-in-software-design)⚖️-To adapt larger demand by allowing greater supply.
 
 ## Useful
 
