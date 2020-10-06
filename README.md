@@ -395,6 +395,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Pigment - Palette Generator](https://pigment.shapefactory.co/) - Generate color palettes based on lighting and pigment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [UI Color Picker](https://uicolorpicker.com/) - Best colors in few selected shades to choose from very helpful for quickly choosing and adding color to design. ![Free]
 
 **[⬆ back to top](#table-of-contents)**
 
