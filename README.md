@@ -95,7 +95,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [SoloLearn](https://www.sololearn.com/)- A free portal for learning web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Team Treehouse](https://teamtreehouse.com/) - Self-paced learning across a variety of languages and subjects. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [The Modern JavaScript Tutorial](https://javascript.info/) - Everything about the Javascript Language.
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Everything about the Javascript Language. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Udacity](https://in.udacity.com/) 👍 - Learn anything online – deep learning, machine learning, front end languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -181,7 +181,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Beginners guide to Gatsby](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a) - Gatsby.js: How to set up and use the React Static Site Generator from Aman Mittal ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Examples of everything in ECMAScript in 2016,2017, 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flavio Copes Tutorials](https://flaviocopes.com/) - Daily tutorials about Javascript and Web development by Flavio Copes ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive/) - Explanation of how our world wide web works !
+- [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive/) - Explanation of how our world wide web works. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/) - Process article on a custom CSS animation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Explanation of the CSS minmax() function, which can be used for CSS grid layouts. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning ![Free](https://img.shields.io/badge/-Free-brightgreen)
