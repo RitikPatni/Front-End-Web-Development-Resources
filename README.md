@@ -165,7 +165,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Blogs
 
-- [100 Ways to be more creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [100 Ways to be more creative](https://medium.com/the-1000-day-mfa/100-ways-to-be-more-creative-44e4a491b456) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍 - Collection of all Codrops web development resources for 2017. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7) - ACM Month Of Code 2k17: Building Moodify from Ajay NS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
