@@ -267,6 +267,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Better Code Hub](https://bettercodehub.com/repositories) - Checks GitHub codebase against software engineering guidelines and gives feedback. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Browserling](https://www.browserling.com/) - Live interactive cross-browser testing on virtual machines. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [LambdaTest](https://www.lambdatest.com/) - Test websites & web apps on 2000+ browsers & OS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [BrowserStack](https://www.browserstack.com/) - Test websites and mobile apps on different browsers and mobile devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Can I use... ](http://www.caniuse.com/) 👍 - Support tables for HTML5, CSS3, etc. on desktop and mobile browsers ![Free](https://img.shields.io/badge/-Free-brightgreen)
