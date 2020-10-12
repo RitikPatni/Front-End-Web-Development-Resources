@@ -117,8 +117,6 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Dev Tricks](https://webdevtrick.com) - All your CSS, js, jQuery trending codes with source codes in one place. Your handy partner for all types of modern web development and designs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Front-end masters](https://frontendmasters.com/) - In-depth, modern front-end engineering courses. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
