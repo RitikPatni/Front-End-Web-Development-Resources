@@ -85,6 +85,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Frontend Masters](https://frontendmasters.com/) - Web development video tutorials from industry leaders (updated frequently). Has both free (limited-time) and paid memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Khan Academy](https://www.khanacademy.org/computing) - A universal online learning platform that also provides the important courses for developers. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything. ![Free](https://img.shields.io/badge/-Free-brightgreen)
