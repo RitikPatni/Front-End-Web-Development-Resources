@@ -11,7 +11,7 @@
 
 # Front-end development
 
-# Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+# Hi There
 
 <p>
 This is an open-source repository for all who want to learn front-end Development.</p>
@@ -204,6 +204,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Preload, Prefetch and priorities in chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf) - Article on how web loading primitives work on Chrome's neworking stack by Addy Osmani. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [IDEs for web Developers](https://websitesetup.org/best-ide-software/) - Factors to consider when choosing an IDE for web development and examples of good options. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [The Top 8 Weather APIs for 2020](https://www.climacell.co/blog/top-8-weather-apis-for-2020/) - Top 8 Weather APIs for 2020 - The Best Free Weather APIs for Developers
 
   **[⬆ back to top](#table-of-contents)**
 
