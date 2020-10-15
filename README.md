@@ -163,6 +163,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Learn Website Developments with Html , Javascript , Css and other Frameworks with same projects and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - Videos for helping you with your work as a web designer, web developer, or person involved making websites or web apps ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - There's always something to learn. Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
