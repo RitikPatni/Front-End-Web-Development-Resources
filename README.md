@@ -145,6 +145,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on Bootstrap, SASS, jQuery, PHP, Freelancing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on HTML, CSS, JavaScript, Bootstrap ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Codevolution](https://www.youtube.com/c/Codevolution/featured) - Tutorials on React, Vue, Angular, MongoDB, JavaScript, MEAN stack, HTML, CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -171,7 +172,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ---
 
 ## Blogs
-
+- [10 Need to Know JavaScript Concepts Courses](https://scotch.io/courses/10-need-to-know-javascript-concepts) - From basic to advance Javascript concept explained in simple way that every Javascript developer need to know. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [100 Ways to be more creative](https://medium.com/the-1000-day-mfa/100-ways-to-be-more-creative-44e4a491b456) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍 - Collection of all Codrops web development resources for 2017. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [50 Things You [Probably] Forgot To Design – UX Power Tools – Medium](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - 50 Things You Probably Forgot to Design from Jon Moore ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -189,6 +190,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Examples of everything in ECMAScript in 2016,2017, 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flavio Copes Tutorials](https://flaviocopes.com/) - Daily tutorials about Javascript and Web development by Flavio Copes ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive/) - Explanation of how our world wide web works. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Frontend Weekly](https://frontendweekly.co/) - The best articles, links and news related to Frontend Development delivered once a week to your inbox. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/) - Process article on a custom CSS animation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Explanation of the CSS minmax() function, which can be used for CSS grid layouts. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How to Build an Impressive Portfolio When You're New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) - How to Build an Impressive Portfolio When You’re New to Tech from Randle Browning ![Free](https://img.shields.io/badge/-Free-brightgreen)
