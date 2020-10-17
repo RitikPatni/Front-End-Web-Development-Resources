@@ -83,7 +83,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Enboard | Front End Resources](https://enboard.co/frontend/) 👍 - Organized resources about front end development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Flexbox](http://gedd.ski/master/flexbox/) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Flexbox](https://flexboxzombies.com/p/flexbox-zombies) 👍 - Level up your Flexbox knowledge – an online, Zombie-centric story course. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.freecodecamp.org) 👍 - A free resource incorporating programming projects and interview preparation for developer jobs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Frontend Masters](https://frontendmasters.com/) - Web development video tutorials from industry leaders (updated frequently). Has both free (limited-time) and paid memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [GeeksforGeeks](https://geeksforgeeks.org/) 👍 - A computer science portal for geeks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
