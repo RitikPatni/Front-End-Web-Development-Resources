@@ -560,7 +560,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Leetcode](https://leetcode.com/) - Coding problems to solve in a range of categories and difficulties ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Project Euler](https://https://projecteuler.net/) - Challenging computer science and mathematical problems. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Project Euler](https://projecteuler.net/) - Challenging computer science and mathematical problems. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
