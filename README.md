@@ -328,7 +328,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [Bootstrap](http://getbootstrap.com/) - Design and customize responsible mobile-first sites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Bulma CSS](http://bulma.io/) - Modular open source framework based on Flexbox. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Caramel](http://caramel.ga/) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Caramel](http://caramel.kurisubrooks.com/) - A simple, modern, responsive website framework. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Cardinal](http://cardinalcss.com/) - Modular mobile-first framework for performance and scalability. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Element CSS](http://element.eleme.io/#/en-US) - Vue 2.0 based component library. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Foundation CSS](http://foundation.zurb.com/) - Family of responsive front-end frameworks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
