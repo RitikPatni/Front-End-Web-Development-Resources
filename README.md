@@ -474,6 +474,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Pexels](https://www.pexels.com/) - Exclusively stock photos of high quality, great feature: Filter photos by color. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Picalls](https://picalls.com/) - Free photos and wallpapers licensed under the Creative Commons CC0 license. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pixabay](https://pixabay.com/) - In addition to photos, Pixabay offers **video, vectors and illustrations.** ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Pikwizard](https://pikwizard.com) - Free stock photo library for commercial and editorial use. Huge library of stunning, high quality, royalty free images. No attribution required ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Public Domain Archive](http://publicdomainarchive.com/) - “a public domain image repository” created by Matt a graphic designer, web designer and photographer.Vintage and modern images. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [StockSnap.io](https://stocksnap.io/) - High quality stock photos free to download and use. Licensed under the Creative Commons CC0 license. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage ![Free](https://img.shields.io/badge/-Free-brightgreen)
