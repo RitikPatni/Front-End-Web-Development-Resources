@@ -337,6 +337,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Less](http://lessframework.com/) - CSS grid system for designing adaptive websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Material Design Lite](https://getmdl.io/) - Implementation of Material Design components in vanilla CSS, JS, and HTML. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Materialize CSS](http://materializecss.com/) - CSS framework aimed to allow a unified user experience across all products on any platform. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Milligram](https://milligram.io/) - A minimalist CSS framework. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Neat](https://neat.bourbon.io/) - A lightweight and flexible Sass grid. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Petal CSS](https://shakrmedia.github.io/petal/) - Light CSS UI framework based on LESS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pure CSS](https://purecss.io/) - A set of small, responsive CSS modules. ![Free](https://img.shields.io/badge/-Free-brightgreen)
