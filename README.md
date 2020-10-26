@@ -562,6 +562,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Leetcode](https://leetcode.com/) - Coding problems to solve in a range of categories and difficulties ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Project Euler](https://projecteuler.net/) - Challenging computer science and mathematical problems. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [100DaysOfCode](https://www.100daysofcode.com/) - Regardless of your coding skills or your language of choice, this challenge invites you to code for at least 1 hour a day. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
