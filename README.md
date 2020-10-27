@@ -54,8 +54,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Mockups](#mockups)
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
-  - [Free 
-  For Students](#free-tools-for-students)
+  - [Free For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
 
