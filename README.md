@@ -54,7 +54,8 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Mockups](#mockups)
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
-  - [Free Tools For Students](#free-tools-for-students)
+  - [Free 
+  For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
 
@@ -297,6 +298,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Favicon Generator for iOS/Google Progressive Web App Manifest](https://realfavicongenerator.net/) 👍 - Online tool to test favicons on different platforms. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Generate favicon based on text](https://favicon.io/) 👍 - Generate a favicon from text, an image, or emojis. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Get Waves](https://getwaves.io/) - Generate many types of SVG waves for use in web design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Glitch](https://glitch.com/) - Glitch is like working together in Google Docs–multiple people can work on the same project at the same time. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google Analytics](https://analytics.google.com/) - Web service that tracks and reports website traffic. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/) - Tool to interactively explore various Google APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) - Tutorial to test JavaScript and execute it via build systems in Sublime Text 3. ![Free](https://img.shields.io/badge/-Free-brightgreen)
