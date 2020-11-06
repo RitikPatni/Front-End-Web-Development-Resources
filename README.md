@@ -596,6 +596,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Istanbul](https://istanbul.js.org/) - JavaScript test coverage tool ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [TestCafe](https://devexpress.github.io/testcafe/) - Node.js end-to-end testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Puppeteer](https://pptr.dev) - Google's Chrome automation tool for E2E testing.
+- [Playwright](https://playwright.dev) - Microsoft's browser automation tool for E2E testing.
 - [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
