@@ -30,17 +30,20 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Table of Contents
 
+- [Front-end development](#front-end-development)
+- [Hi There](#hi-there)
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
-  - [Roadmap](#roadmap)
+  - [RoadMap](#roadmap)
   - [Useful](#useful)
   - [Learning](#learning)
   - [A11y](#a11y)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
+    - [Hiring](#hiring)
   - [Podcasts](#podcasts)
   - [Code Editors](#code-editors)
-  - [Visual Studio Code Extensions](#visual-studio-code-extensions)
+    - [Visual Studio Code Extensions](#visual-studio-code-extensions)
   - [Tools](#tools)
   - [CSS Frameworks](#css-frameworks)
   - [Icons](#icons)
@@ -54,14 +57,13 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Mockups](#mockups)
   - [Books](#books)
   - [Challenges / Games](#challenges--games)
-  - [Free For Students](#free-tools-for-students)
+  - [Free Tools For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
 
 ## RoadMap
 
 - [Roadmap](https://roadmap.sh/frontend) - For a well described step-by-step roadmap for front-end developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-
 
 ## Useful
 
@@ -173,6 +175,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ---
 
 ## Blogs
+
 - [10 Need to Know JavaScript Concepts Courses](https://scotch.io/courses/10-need-to-know-javascript-concepts) - From basic to advance Javascript concept explained in simple way that every Javascript developer need to know. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [100 Ways to be more creative](https://medium.com/the-1000-day-mfa/100-ways-to-be-more-creative-44e4a491b456) - 100 Ways to be More Creative from Shaunta Grimes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [2017 Design RoundUp](https://tympanus.net/codrops2017/) 👍 - Collection of all Codrops web development resources for 2017. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -210,7 +213,11 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Learning Git for yourself](https://gitbook.tw/) - Traditional Chinese ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [IDEs for web Developers](https://websitesetup.org/best-ide-software/) - Factors to consider when choosing an IDE for web development and examples of good options. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The Top 8 Weather APIs for 2020](https://www.climacell.co/blog/top-8-weather-apis-for-2020/) - Top 8 Weather APIs for 2020 - The Best Free Weather APIs for Developers
-- [Digital Ocean community Tutorials](https://www.digitalocean.com/community/tutorials) - A free tutorial collection from experts. All contributted from digital ocean community. 
+- [Digital Ocean community Tutorials](https://www.digitalocean.com/community/tutorials) - A free tutorial collection from experts. All contributted from digital ocean community.
+
+### Hiring
+
+- [Two Great Places to Discover Tech Talent and How to Attract Them](where-to-find-tech-talent.md) - Hiring tech talent in 2020
 
   **[⬆ back to top](#table-of-contents)**
 
@@ -277,7 +284,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [BrowserStack](https://www.browserstack.com/) - Test websites and mobile apps on different browsers and mobile devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Can I use... ](http://www.caniuse.com/) 👍 - Support tables for HTML5, CSS3, etc. on desktop and mobile browsers ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Can I use...](http://www.caniuse.com/) 👍 - Support tables for HTML5, CSS3, etc. on desktop and mobile browsers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Checkbot](https://www.checkbot.io/) - Browser extension that tests websites for SEO, speed and security issues ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Codepen](https://codepen.io/) - Social development environment where you can write code in the browser and see results as you build. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
@@ -406,7 +413,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspirations ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Material Palette](https://www.materialpalette.com/) - Color palette generator for Material Design ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Palettable](http://www.palettable.io/ED3E75-383838-D4D4D4) - Interactive color picker: creates a color scheme based on your preferences and palettes on the Internet ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes ![Free](https://img.shields.io/badge/-Free-brightgreen
+- [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Advanced tool for creating color schemes ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Picular - Google, but for colors](https://picular.co/) - Primary color generator using Google's image search. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pigment - Palette Generator](https://pigment.shapefactory.co/) - Generate color palettes based on lighting and pigment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
