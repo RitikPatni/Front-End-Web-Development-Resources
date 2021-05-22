@@ -287,7 +287,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Checkbot](https://www.checkbot.io/) - Browser extension that tests websites for SEO, speed and security issues ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Codepen](https://codepen.io/) - Social development environment where you can write code in the browser and see results as you build. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Codeply](https://www.codeply.com/)-A HTML, CSS, JavaScript editor playground for designers & developers to compare, prototype and test frontend frameworks.![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Codeply](https://www.codeply.com/) - A HTML, CSS, JavaScript editor playground for designers & developers to compare, prototype and test frontend frameworks.![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Codesandbox](https://codesandbox.io/) - Instant IDE and prototyping tool for web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Create a new fiddle - JSFiddle](https://jsfiddle.net/) - Test JS, CSS, HTML, or CoffeeScript in an online code editor. ![Free](https://img.shields.io/badge/-Free-brightgreen)
