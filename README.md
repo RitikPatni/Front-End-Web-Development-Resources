@@ -242,9 +242,11 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Geany](https://geany.org/) - Geany is a small and lightweight integrated development environment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [IntellijIDEA](https://www.jetbrains.com/idea/) - A universal IDE from JetBrains. It has code-completion, integrationa, and Version Control System (VCS). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
+-[Pycharm](https://www.jetbrains.com/pycharm/)-Used specially for python language,It provides code analysis,a graphical debugger,an integrated unit tester,integration with version control systems and supports web development with Django as well as data science with Anaconda. **All Platforms** | **Open Source**   ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Vim](https://www.vim.org/) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing Redefined. It has syntax highlighting and autocompletion with IntelliSense, Git commands built-in, Extensible and customizable. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UltraEdit](https://www.ultraedit.com/) - UltraEdit is a powerful HTML and Code editor available for Mac, Windows, and Linux. It comes with a built-in file comparison utility, autocompletion, advanced layout, multi-tab, multi-pane editors, and syntax highlighting for the most popular programming languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
