@@ -32,6 +32,38 @@ Alt text: People Looking at Laptop Computer (Pexels.com)
 
 Caption: Vocational schools are similar to bootcamps but last longer
 
+## Offering Growth Opportunities
+
+It’s human nature to grow.
+
+We’ve been doing it since we were little. First it was growing up, now (for some of us) it’s growing out... either way, our bodies — and our minds — naturally want to become bigger than they are.
+The human desire for growth is perhaps manifested most in the realm of career.
+
+The 4 Types of Growth Opportunities
+
+1. **Financial Growth**
+   This is the one most people consider when they think about career development. Naturally, employees will be motivated by the possibility of increased income, especially when it’s tied to their performance.
+   But don’t make the mistake of thinking that money is the only way to keep your staff happy. If you don’t have the funds (or you don’t like the competitive atmosphere that performance-based compensation can create), consider offering other forms of growth.
+
+1. **Career Growth**
+   Don’t underestimate the power of prestige.
+   Even if they’re not part of a big corporation, most driven individuals will still want to move up in the ranks of their organization. So offer them various opportunities to do so — more significant duties, more impressive job titles, bigger offices, etc.
+
+1. **Professional Growth**
+   If they’re serious about their work, employees will want to improve in their field. In fact, most employees in this study rated training opportunities as highly important career benefits, with job-specific training at the top (54%).
+   The best part about providing opportunities for professional growth is that it is mutually beneficial — employees get to feel more competent, and employers get to have more competent employees!
+   Take advantage of this arrangement by offering ways for employees to sharpen their skills and knowledge, such as conferences, mentoring programs, online courses, or even tuition reimbursement. 
+
+1. **Personal Growth**
+   While it may seem like personal growth has nothing to do with career development, many employees are motivated by factors that are completely unrelated to work. With the increasingly blurred line between private and professional lives, it makes sense to encourage employees to pursue their personal goals.
+
+   Do this by allowing:
+   * *Flexible work schedules*
+   * *The freedom to work remotely*
+   * *Social gatherings outside of work*
+
+   Lipman says that “peer praise” and a “fun work environment” are also good motivators, especially for those a little lower on the totem pole.
+
 ## Connect With Your Workforce
 
 Now that you’ve found your talented employees and built a team that will carry your company far into the future, it’s time to reflect on how to keep them around. The easiest way to do this is with one thing: benefits.
