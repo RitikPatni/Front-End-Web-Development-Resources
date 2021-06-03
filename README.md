@@ -92,6 +92,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 👍 - The latest information about Open Web technologies. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Complete web development tutorials](https://lyty.dev/) 👍 -Lyty.dev complete web development tutorials with well explained examples for free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Saylor](https://www.saylor.org/) - An open, online learning solution offering college credit opportunities for students. ![Free](https://img.shields.io/badge/-Free-brightgreen)
