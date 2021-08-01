@@ -75,10 +75,12 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check the best GitHub Repos for your favourite js framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CodeCademy](https://www.codecademy.com/) 👍 - A series of interactive courses teaching the world how to code. Offering free and paid subscriptions across a variety of languages. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Codementor](https://www.codementor.io/experts) - A tool to get help from experienced developers in various coding languages on your learning journey. ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Coursera](https://www.coursera.org/) - A selection of courses from highly reputable schools like Stanford and Yale. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/) 👍 - A quick reference guide to many features of CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Design Resources](http://designresources.party/) - Design Resources from Skullface. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [dev.to](https://dev.to/) 👍 - Where programmers share ideas and help each other grow. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [DevProjects](https://www.codementor.io/projects) - A free community consists of curated projects from senior developers to help you bridge the gap between theory and practice. ![Free](https://img.shields.io/badge/-Free-brightgreen) !
 - [Dicoding Academy](https://dicoding.com/) - Where everyone can learn programming from fundamentals (**Available only in Bahasa Indonesia**). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [EggHead](https://egghead.io/) - Web development video tutorials in "bite-size" segments. Has both free and "Pro" (paid) memberships. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
