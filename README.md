@@ -66,6 +66,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## Useful
 
 - [BGJar](https://bgjar.com/) 🔥 🔥 - Free SVG background generator for your websites, blogs, and app. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Inspect](https://inspect.dev/) -  inspect and debug your mobile web apps and websites on iOS devices directly from Mac or Windows.
 
 ## Learning
 
@@ -538,6 +539,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [Figma](https://www.figma.com/) 👍 - Free app with a simple to use surface for designing, prototyping and sharing your website and app ideas ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Adobe XD](https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjwn9v7BRBqEiwAbq1Ey9SoyrTK1Zsdd88wGlJfTVkU0JuW40rItPaiAypnKZ7J-lLv_IUE0xoC0GEQAvD_BwE:G:s&s_kwcid=AL!3085!3!394015010053!e!!g!!adobe%20xd!1641846448!65452677551) - One of the best tool for UI/UX Design, Wireframe, animate, prototype, collaborate, and more ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Magic Mockups](http://magicmockups.com/) - Place your product in realistic environment! Free real-life product/app mockup generator. **Laptop, Phone, Tablet, Imac.** ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Rotato 3D Mockup Generator](https://rotato.app) - Make video 3D mockups and images. No experience required. Unlimited renders. MacOS.
 - [The MockUp Club](https://themockup.club/) - Website that offers free downloads of design mockups (mostly Photoshop format). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [MockupsJar](https://mockupsjar.com/) 👍 - Build mockups with screenshots of your application or web Design for free to share with customers and clients ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [MockUPhone](https://mockuphone.com) - Free and simple screenshots device mockups generator. Wrap your design in mobile devices or Laptop/Desktop in a few clicks! ![Free](https://img.shields.io/badge/-Free-brightgreen)
