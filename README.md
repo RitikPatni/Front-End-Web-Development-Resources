@@ -336,7 +336,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/) - List of tools that can be used to improve page performance. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba) - Online IDE for Angular and React projects that can be share via link. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Free Bootstrap 5 Cheat Sheet](https://themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Free Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
