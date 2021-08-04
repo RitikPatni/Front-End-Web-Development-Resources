@@ -473,7 +473,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Particles JS](https://vincentgarreau.com/particles.js/) 👍 - A lightweight JavaScript library for creating particles. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Wow JS](http://mynameismatthieu.com/WOW/) - JavaScript library: Reveal CSS animation as you scroll down a page ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Wow JS](https://wowjs.uk/) - JavaScript library: Reveal CSS animation as you scroll down a page ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
