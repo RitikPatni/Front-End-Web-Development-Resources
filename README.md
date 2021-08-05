@@ -66,7 +66,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## Useful
 
 - [BGJar](https://bgjar.com/) 🔥 🔥 - Free SVG background generator for your websites, blogs, and app. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Inspect](https://inspect.dev/) -  inspect and debug your mobile web apps and websites on iOS devices directly from Mac or Windows.
+- [Inspect](https://inspect.dev/) - inspect and debug your mobile web apps and websites on iOS devices directly from Mac or Windows.
 
 ## Learning
 
@@ -145,8 +145,9 @@ This is an open-source repository for all who want to learn front-end Developmen
 ---
 
 ## YouTube Channels
+
 - [Adrian Twarog](https://www.youtube.com/c/AdrianTwarog)- Tutorials on HTML,CSS,Bootstrap,JavaScript,React,React  
-Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free-brightgreen)
+  Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on WordPress, PSD to HTML ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on Bootstrap, SASS, jQuery, PHP, Freelancing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -246,8 +247,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [Brackets](http://brackets.io/) - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers. **Open Source** | **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Geany](https://geany.org/) - Geany is a small and lightweight integrated development environment. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [IntellijIDEA](https://www.jetbrains.com/idea/) - A universal IDE from JetBrains. It has code-completion, integrationa, and Version Control System (VCS). ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
--[Pycharm](https://www.jetbrains.com/pycharm/)-Used specially for python language,It provides code analysis,a graphical debugger,an integrated unit tester,integration with version control systems and supports web development with Django as well as data science with Anaconda. **All Platforms** | **Open Source**   ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. **Windows Only** ![Free](https://img.shields.io/badge/-Free-brightgreen) -[Pycharm](https://www.jetbrains.com/pycharm/)-Used specially for python language,It provides code analysis,a graphical debugger,an integrated unit tester,integration with version control systems and supports web development with Django as well as data science with Anaconda. **All Platforms** | **Open Source** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. **All Platforms** ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Vim](https://www.vim.org/) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -573,10 +573,12 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [CSS Battle](https://cssbattle.dev/) - CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate **Targets** in smallest possible CSS code and battle it out to get to the top of the leaderboard. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions) - Frontend Mentor challenges help you improve your coding skills by building realistic projects. It is excellent for those who want to revisit their frontend knowledge. You will get a huge community if you get stucked in the challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
