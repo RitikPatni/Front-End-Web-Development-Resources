@@ -583,14 +583,14 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 
 ## Challenges / Games
 
-- [Ace Front End](https://www.frontendmentor.io/) - Ace Front End has complete and practical coding challenges, with a detailed walk through of a perfect interview solution. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Ace Front End](https://www.acefrontend.com/) - Ace Front End has complete and practical coding challenges, with a detailed walk through of a perfect interview solution. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Front End Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 192,401 developers building projects, reviewing code, and helping each other get better. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Front End Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 192,401 developers building projects, reviewing code, and helping each other get better. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
