@@ -152,9 +152,11 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on HTML, CSS, JavaScript, Bootstrap ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codevolution](https://www.youtube.com/c/Codevolution/featured) - Tutorials on React, Vue, Angular, MongoDB, JavaScript, MEAN stack, HTML, CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/videos) - Tutorials on React, MongoDB, JavaScript, MERN stack, HTML, CSS, React Native. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [DesignCourse](https://www.youtube.com/user/DesignCourse) - Tutorials on UI/UX Design or HTML5, CSS, SASS, Animation Library. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) - Tutorials on Django & Flask Full-Stack Web Development Projects ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Tutorials on JavaScript, React, Functional Programming, GraphQL, Life as a Developer ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -174,6 +176,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Learn Website Developments with Html , Javascript , Css and other Frameworks with same projects and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - Videos for helping you with your work as a web designer, web developer, or person involved making websites or web apps ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - There's always something to learn. Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) Project Tutorials on React, Redux, Next JS & React Native![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [WB Web Development](https://www.youtube.com/c/WBWeb/) - Tutorials on HTML, CSS, Bootstrap, SASS, JavaScript, Git and GitHub, MongoDB, NodeJS, ReactJS ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
@@ -220,6 +223,12 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [IDEs for web Developers](https://websitesetup.org/best-ide-software/) - Factors to consider when choosing an IDE for web development and examples of good options. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The Top 8 Weather APIs for 2020](https://www.climacell.co/blog/top-8-weather-apis-for-2020/) - Top 8 Weather APIs for 2020 - The Best Free Weather APIs for Developers
 - [Digital Ocean community Tutorials](https://www.digitalocean.com/community/tutorials) - A free tutorial collection from experts. All contributted from digital ocean community.
+- [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/) - A React.js Handbook for Front End Developers
+- [Ultimate React Resources](https://dev.to/hulyakarakaya/ultimate-react-resources-obl) - The blog includes blog posts, free e-books, Github Repos with curated lists, practical implementation of React.js in the real world with working code.
+- [Complete Introduction to CSS Grid](https://dev.to/cenacr007_harsh/complete-introduction-to-css-grid-2ffh) - A blog to learn the fundamentals of CSS grid by building different complex layouts.
+- [Rado's Blog)](https://blog.rstankov.com/) - A blog consisiting of articles on React Dependencies and Implementation, GraphQl and Lot more!
+- [Monica Powell Blog](https://aboutmonica.com/writing/) - An awesome blog on JavaScript, React, Gatsby and Git.
+
 
 ### Hiring
 
@@ -256,6 +265,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [UltraEdit](https://www.ultraedit.com/) - UltraEdit is a powerful HTML and Code editor available for Mac, Windows, and Linux. It comes with a built-in file comparison utility, autocompletion, advanced layout, multi-tab, multi-pane editors, and syntax highlighting for the most popular programming languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Nano](https://www.nano-editor.org) - GNU nano is a text editor for Unix-like OS's. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [StackBlitz](https://stackblitz.com/) - An online open-source powerful code editor for JavaScript Frameworks and Libraries, with some awesome features such as GitHub Imports, Live Server and direct commit from the Editor to Github! ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -469,8 +479,10 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 ## Animation Frameworks
 
 - [Animate CSS](https://daneden.github.io/animate.css/) - Choose, try out and get the CSS-Code for different animation types (over 70) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Anime JS](https://animejs.com/) - It’s easy to use, has a small and simple API, and offers everything you could want from a modern animation engine. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Bounce JS](http://bouncejs.com/) - Tool and JS Library, creating CSS3 powered animations(adjustments possible) & export CSS code ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - Showcase of different animations with link to GitHub repo ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [MO JS](https://mojs.github.io/) - The library provides built-in components to start animating from scratch like HTML, shape, swirl, burst, and stagger but also brings you tools to help craft your animation in a most natural way. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Particles JS](https://vincentgarreau.com/particles.js/) 👍 - A lightweight JavaScript library for creating particles. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Typed JS](http://www.mattboldt.com/typed.js/) - A JavaScript typing animation library with a great documentation on GitHub ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Wow JS](https://wowjs.uk/) - JavaScript library: Reveal CSS animation as you scroll down a page ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -571,12 +583,14 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 
 ## Challenges / Games
 
+- [Ace Front End](https://www.frontendmentor.io/) - Ace Front End has complete and practical coding challenges, with a detailed walk through of a perfect interview solution. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codepen Challenges](https://codepen.io/challenges/) - Each month has a theme and every week there is a new challenge prompt that you can use to build a project online using HTML, CSS and JavaScript. The best projects are featured on Codepen's homepage. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Diner](http://flukeout.github.io/) - It's a fun game to learn and practice CSS selectors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design, and a chance to do your own. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Defense](http://www.flexboxdefense.com) - It is a game that covers the flex properties align-items, justify-content, flex-direction, align-self and has 12 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flexbox Froggy](https://flexboxfroggy.com) - This game is also about Flexbox and it covers even more flex properties: align-items, justify-content, align-content, flex-direction, align-self, flex-wrap, flex-flow and has 24 different levels. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Front End Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 192,401 developers building projects, reviewing code, and helping each other get better. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden! It has 28 different levels to learn CSS Grid Layout. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Hackerrank](https://www.hackerrank.com/) - Practice coding, prepare for interviews, and solve interview style coding challenges. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JavaScript30](https://javascript30.com/) - A free challenge course, building 30 little projects with HTML, CSS and plain JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
