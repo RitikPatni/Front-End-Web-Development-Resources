@@ -417,7 +417,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ---
 
 ## Colors
-
+- [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient, Accessibility Tools and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [BADA55 Color Codes](http://bada55.io/) - Convert leet words into CSS hex colors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples ![Free](https://img.shields.io/badge/-Free-brightgreen)
