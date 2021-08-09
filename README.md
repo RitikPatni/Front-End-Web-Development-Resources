@@ -323,8 +323,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/) - Tool to interactively explore various Google APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) - Tutorial to test JavaScript and execute it via build systems in Sublime Text 3. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [jQuery mega cheat sheet](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Cheat sheet of jQuery selectros, manipulation, events, and more in PDF format. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [JS Bin](http://jsbin.com/?html,output) - Live pastebin for HTML, CSS, and JS, as well as a range of processors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-  c
+- [JS Bin](http://jsbin.com/?html,output) - Live pastebin for HTML, CSS, and JS, as well as a range of processors. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) 👍 - Open source, automated tool for improving the quality of webpages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Modern JavaScript cheat sheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - This is an excellent collection of JavaScript Tips and concept by Manuel Beaudru works as a nice overview of many of the things you'll need to be familiar with if you're just getting started with JavaScript and other related frameworks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Node Package Manager(npm)](https://www.npmjs.com) - Package manager for Javascript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
