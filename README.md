@@ -495,6 +495,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Stock Resources
 
+- [Burst](https://burst.shopify.com) - Free, high-resolution images. All our pictures are free to download for personal and commercial use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Canva](https://www.canva.com) 👍 - 8,000+ free templates and thousands of free photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Free stock images and Videos](http://allthefreestock.com/) - A great collection of stock photos, videos and other resources. Most of them under the CC0-License, all of them free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
