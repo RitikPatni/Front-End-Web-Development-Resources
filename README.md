@@ -413,6 +413,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Open Iconic, a free and open icon set](https://useiconic.com/open/) - Open source icon set in SVG, webfont, and raster formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [OpenWebIcons](http://pfefferle.github.io/openwebicons/) - Webfont for scalable vector icons and logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [ReactIcons](https://github.com/react-icons/react-icons) -SVG react icons of popular icon packs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [RemixIcon](https://github.com/Remix-Design/remixicon) - Open source neutral style icon system. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Shape.so](https://shape.so/) - Customizable collection of icons and animations. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Stackicons](http://stackicons.com/) - Customizable icons for social brands. ![Free](https://img.shields.io/badge/-Free-brightgreen)
