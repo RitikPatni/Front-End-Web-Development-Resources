@@ -233,6 +233,8 @@
 - [Octicons](https://octicons.github.com/)
 - [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 - [OpenWebIcons](http://pfefferle.github.io/openwebicons/)
+- [ReactIcons](https://github.com/react-icons/react-icons)
+- [RemixIcon](https://github.com/Remix-Design/remixicon)
 - [Stackicons](http://stackicons.com/)
 - [Typicons](http://typicons.com/)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
