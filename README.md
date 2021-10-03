@@ -126,6 +126,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
