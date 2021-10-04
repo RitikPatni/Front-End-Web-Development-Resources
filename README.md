@@ -127,6 +127,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -182,6 +183,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) Project Tutorials on React, Redux, Next JS & React Native![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [WB Web Development](https://www.youtube.com/c/WBWeb/) - Tutorials on HTML, CSS, Bootstrap, SASS, JavaScript, Git and GitHub, MongoDB, NodeJS, ReactJS ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)- Top class contents on front end web development. Has exclusive tutorials on HTML,CSS and javascript with amazing effects. A must visit for all front end developers![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Akshay Saini](https://www.youtube.com/c/akshaymarch7)-  Videos on Frontend Interview Tips, Interview Experiences, and specially core concepts of Javascript.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -634,6 +636,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [**SVGs can do that**](https://www.youtube.com/watch?&v=4laPOtTRteI) 😎 - Sarah Drasner's talk on nontypical pratical uses of SVGs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [**CSS Grid Tutorial**](https://www.youtube.com/watch?v=EFafSYg-PkI&ab_channel=DevEd) - Use CSS grid to structure and position websites with ease. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) - Ad-free tutorial by freeCodeCamp.![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [**12HR Coding Bootcamp 2021!**](https://www.youtube.com/watch?v=Xm4BObh4MhI) - Complete frontend bootcamp!
+![Free](https://img.shields.io/badge/-Free-brightgreen) 
 
 **[⬆ back to top](#table-of-contents)**
 
