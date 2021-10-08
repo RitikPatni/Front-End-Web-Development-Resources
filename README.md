@@ -346,6 +346,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Responsinator](http://www.responsinator.com/) - Replicate how responsive sites will look on popular devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [React cheat sheet](https://reactcheatsheet.com/) - A documentation based website also a progressive web app which means that works well even in offline. You can search by keyword or select one of the predefined filters. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Responsive Grid System](http://www.responsivegridsystem.com/) - Generate flexible grids to create a responsive website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Regular Expression (Regex) Editor](https://rubular.com/) - Helps create and verify your regular expressions. 
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/) - Collection of tools for designers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-independent pixel. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sizzy:Browser Testing Tool](https://sizzy.co/) - Tool for developing and testing responsive design on multiple devices at once. ![Free](https://img.shields.io/badge/-Free-brightgreen)
