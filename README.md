@@ -352,6 +352,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Stack Overflow](https://stackoverflow.com/) - Online community for developers to ask questions and get answers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input) - Checks the markup validity of Web documents in HTML, XHTML, SMIL, MATHML, etc. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input) - Checks the validity of CSS and XHTML documents with style sheets. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Time Helper](https://currentmillis.com/) - Helps convert millis to DateTimes and vice-versa. 
 - [TinyPNG](https://tinypng.com/) - PNG and JPEG compression/optimizer ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Developer Checklist](http://webdevchecklist.com/) - Categorized checklist for things to cover during web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/) - List of tools that can be used to improve page performance. ![Free](https://img.shields.io/badge/-Free-brightgreen)
