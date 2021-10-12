@@ -334,6 +334,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Generate favicon based on text](https://favicon.io/) - Generate a favicon from text, an image, or emojis. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Get Waves](https://getwaves.io/) - Generate many types of SVG waves for use in web design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Glitch](https://glitch.com/) - Glitch is like working together in Google Docs–multiple people can work on the same project at the same time. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Graphic Generator](https://www.norio.be/graphic-generator/) - Generates graphics for some common front end applications. 
 - [Google Analytics](https://analytics.google.com/) - Web service that tracks and reports website traffic. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/) - Tool to interactively explore various Google APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) - Tutorial to test JavaScript and execute it via build systems in Sublime Text 3. ![Free](https://img.shields.io/badge/-Free-brightgreen)
