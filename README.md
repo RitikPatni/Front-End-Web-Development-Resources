@@ -662,5 +662,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Cheatsheets
 
--[Devhints] (https://devhints.io/) - a modest collection of cheatsheets for multiple programming languages. ![Free]
+- [Devhints] (https://devhints.io/) - a modest collection of cheatsheets for multiple programming languages. ![Free]
+
+
 **[⬆ back to top](#table-of-contents)**
