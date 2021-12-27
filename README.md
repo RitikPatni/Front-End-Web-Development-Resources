@@ -532,6 +532,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [UnDraw](https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UnSplash](https://unsplash.com) - "Beautiful, Free Photos" & themed collections of photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [3D Bay](https://clouddevs.com/3dbay/) - "Free, 3D Illustrations" A collection of High-quality 3D Illustration resources ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Design Stripe](https://designstripe.com/catalog) - "Create beautiful illustrations, no design skills needed ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
