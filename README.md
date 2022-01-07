@@ -660,6 +660,6 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Playwright](https://playwright.dev) - Microsoft's browser automation tool for E2E testing.
 - [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [PactumJS](https://pactumjs.github.io/#/pactum) -  REST API Testing Tool used to automate e2e, integration, contract & component (or service level) tests ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [PactumJS](https://pactumjs.github.io/) -  REST API Testing Tool used to automate e2e, integration, contract & component (or service level) tests ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
