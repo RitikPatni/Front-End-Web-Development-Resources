@@ -338,6 +338,7 @@ Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba) - Online IDE for Angular and React projects that can be share via link. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Free Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/) - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
