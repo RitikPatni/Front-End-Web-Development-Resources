@@ -361,7 +361,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [StackBlitz](https://stackblitz.com/angular/pxxjqeeegeba) - Online IDE for Angular and React projects that can be share via link. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Free Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-
+- [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -427,6 +427,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Typicons](https://www.s-ings.com/typicons/) - Free-to-use vector icons embedded in a webfont. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather themed icon font and CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Zocial | CSS3 Button Set](http://zocial.smcllns.com/) - Create social buttons using CSS and rendering social icons as a font. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [3dicons](https://www.3dicons.com/) - A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Iconshock](https://www.iconshock.com/) - 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :) ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -535,6 +537,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [UnSplash](https://unsplash.com) - "Beautiful, Free Photos" & themed collections of photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [3D Bay](https://clouddevs.com/3dbay/) - "Free, 3D Illustrations" A collection of High-quality 3D Illustration resources ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Design Stripe](https://designstripe.com/catalog) - "Create beautiful illustrations, no design skills needed ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Illustrations Figma](https://www.artify.co/illustrations-figma) - More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Vector Illustrations](https://www.artify.co/vector-illustrations) - Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -582,6 +586,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [MockUPhone](https://mockuphone.com) - Free and simple screenshots device mockups generator. Wrap your design in mobile devices or Laptop/Desktop in a few clicks! ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Multi Device Website Mockup Generator](http://techsini.com/multi-mockup/) - Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, MacBook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click. You should have a proper screen grabber tool to take the screenshot from the browser. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Wireframe.cc](https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [tshirtdesigns](https://www.tshirtdesigns.com/mockups) - You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
