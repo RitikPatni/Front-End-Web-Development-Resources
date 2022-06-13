@@ -566,6 +566,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Random famous quotes | Rapid APIs](https://rapidapi.com/andruxnet/api/Random%20Famous%20Quotes) - Gets a random quote in JSON format. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [News API](https://newsapi.org/) - Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
