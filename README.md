@@ -94,6 +94,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [GeeksforGeeks](https://geeksforgeeks.org/) - A computer science portal for geeks. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Khan Academy](https://www.khanacademy.org/computing) - A universal online learning platform that also provides the important courses for developers. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Learn JavaScript](https://learnjavascript.online/) - Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Mastering Markdown](https://masteringmarkdown.com/) - A Mini Series that will change how you write documentation. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - The latest information about Open Web technologies. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Complete web development tutorials](https://lyty.dev/) -Lyty.dev complete web development tutorials with well explained examples for free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
