@@ -154,6 +154,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on WordPress, PSD to HTML ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on Bootstrap, SASS, jQuery, PHP, Freelancing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+-[CSS Tutorials](https://www.youtube.com/watch?v=rxjFI4RlR9A&list=PLw9zMOoodWb4OtAt8aDKqklEJDqZHYXBm)-Tutorials by Husain sir  covering all the basics of CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on HTML, CSS, JavaScript, Bootstrap ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codevolution](https://www.youtube.com/c/Codevolution/featured) - Tutorials on React, Vue, Angular, MongoDB, JavaScript, MEAN stack, HTML, CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/videos) - Tutorials on React, MongoDB, JavaScript, MERN stack, HTML, CSS, React Native. ![Free](https://img.shields.io/badge/-Free-brightgreen)
