@@ -128,8 +128,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development 
-with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Beginner's Typescript Tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners by Matt Pocock ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
