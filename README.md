@@ -116,7 +116,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Watch and Code®](https://watchandcode.com/p/practical-javascript) - Build a strong JavaScript foundation for web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Watch and Code](https://watchandcode.com) - The computer science school for students that demand intellectual rigor and depth. ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [W3School](https://www.w3schools.com/) - Web development reference library. Covers HTML, CSS, Javascript (jQuery, AJAX, and more), as well as some server-side languages. Includes descriptions and interactive examples. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) - Everything a beginner needs to know about Web APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas creator of [Bulma CSS](http://bulma.io/) and [marksheet.io](http://marksheet.io). ![Free](https://img.shields.io/badge/-Free-brightgreen)
