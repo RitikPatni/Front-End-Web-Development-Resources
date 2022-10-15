@@ -571,7 +571,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [News API](https://newsapi.org/) - Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [Spotify API](https://developer.spotify.com/) - Spotify's Web API allows you to find music and podcasts, manage your Spotify collection, control audio playing, and do a variety of other things. [Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [Spotify API](https://developer.spotify.com/) - Spotify's Web API allows you to find music and podcasts, manage your Spotify collection, control audio playing, and do a variety of other things. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
