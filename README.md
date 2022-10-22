@@ -185,7 +185,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) Project Tutorials on React, Redux, Next JS & React Native![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [WB Web Development](https://www.youtube.com/c/WBWeb/) - Tutorials on HTML, CSS, Bootstrap, SASS, JavaScript, Git and GitHub, MongoDB, NodeJS, ReactJS ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)- Top class contents on front end web development. Has exclusive tutorials on HTML,CSS and javascript with amazing effects. A must visit for all front end developers![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Akshay Saini](https://www.youtube.com/c/akshaymarch7)-  Videos on Frontend Interview Tips, Interview Experiences, and specially core concepts of Javascript.
+- [Akshay Saini](https://www.youtube.com/c/akshaymarch7)- Videos on Frontend Interview Tips, Interview Experiences, and specially core concepts of Javascript.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -236,7 +236,6 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Complete Introduction to CSS Grid](https://dev.to/cenacr007_harsh/complete-introduction-to-css-grid-2ffh) - A blog to learn the fundamentals of CSS grid by building different complex layouts.
 - [Rado's Blog)](https://blog.rstankov.com/) - A blog consisiting of articles on React Dependencies and Implementation, GraphQl and Lot more!
 - [Monica Powell Blog](https://aboutmonica.com/writing/) - An awesome blog on JavaScript, React, Gatsby and Git.
-
 
 ### Hiring
 
@@ -337,7 +336,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Generate favicon based on text](https://favicon.io/) - Generate a favicon from text, an image, or emojis. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Get Waves](https://getwaves.io/) - Generate many types of SVG waves for use in web design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Glitch](https://glitch.com/) - Glitch is like working together in Google Docs–multiple people can work on the same project at the same time. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Graphic Generator](https://www.norio.be/graphic-generator/) - Generates graphics for some common front end applications. 
+- [Graphic Generator](https://www.norio.be/graphic-generator/) - Generates graphics for some common front end applications.
 - [Google Analytics](https://analytics.google.com/) - Web service that tracks and reports website traffic. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/) - Tool to interactively explore various Google APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Javascript Console in Sublime Text](https://pawelgrzybek.com/javascript-console-in-sublime-text/) - Tutorial to test JavaScript and execute it via build systems in Sublime Text 3. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -350,14 +349,14 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Responsinator](http://www.responsinator.com/) - Replicate how responsive sites will look on popular devices. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [React cheat sheet](https://reactcheatsheet.com/) - A documentation based website also a progressive web app which means that works well even in offline. You can search by keyword or select one of the predefined filters. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Responsive Grid System](http://www.responsivegridsystem.com/) - Generate flexible grids to create a responsive website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Regular Expression (Regex) Editor](https://rubular.com/) - Helps create and verify your regular expressions. 
+- [Regular Expression (Regex) Editor](https://rubular.com/) - Helps create and verify your regular expressions.
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/) - Collection of tools for designers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-independent pixel. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Sizzy:Browser Testing Tool](https://sizzy.co/) - Tool for developing and testing responsive design on multiple devices at once. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Stack Overflow](https://stackoverflow.com/) - Online community for developers to ask questions and get answers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input) - Checks the markup validity of Web documents in HTML, XHTML, SMIL, MATHML, etc. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_input) - Checks the validity of CSS and XHTML documents with style sheets. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Time Helper](https://currentmillis.com/) - Helps convert millis to DateTimes and vice-versa. 
+- [Time Helper](https://currentmillis.com/) - Helps convert millis to DateTimes and vice-versa.
 - [TinyPNG](https://tinypng.com/) - PNG and JPEG compression/optimizer ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Developer Checklist](http://webdevchecklist.com/) - Categorized checklist for things to cover during web development. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Progressive Tooling to optimize your performance on Web](https://progressivetooling.com/) - List of tools that can be used to improve page performance. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -437,6 +436,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ---
 
 ## Colors
+
 - [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient, Accessibility Tools and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [BADA55 Color Codes](http://bada55.io/) - Convert leet words into CSS hex colors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -650,7 +650,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [**CSS Grid Tutorial**](https://www.youtube.com/watch?v=EFafSYg-PkI&ab_channel=DevEd) - Use CSS grid to structure and position websites with ease. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [**Git and GitHub for Beginners - Crash Course**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) - Ad-free tutorial by freeCodeCamp.![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [**12HR Coding Bootcamp 2021!**](https://www.youtube.com/watch?v=Xm4BObh4MhI) - Complete frontend bootcamp!
-![Free](https://img.shields.io/badge/-Free-brightgreen) 
+  ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -666,6 +666,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Playwright](https://playwright.dev) - Microsoft's browser automation tool for E2E testing.
 - [Sinon.JS](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [PactumJS](https://pactumjs.github.io/) -  REST API Testing Tool used to automate e2e, integration, contract & component (or service level) tests ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [PactumJS](https://pactumjs.github.io/) - REST API Testing Tool used to automate e2e, integration, contract & component (or service level) tests ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Vitest](https://vitest.dev/) - Vitest is a blazing fast unit test framework powered by Vite ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
