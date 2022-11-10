@@ -129,7 +129,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Devtools Tech](https://devtools.tech?ref=frontend-web-development-resources-github-repo) - A free interview preparation platform for Frontend Engineers with a focus on high quality real world programming questions.
+- [Devtools Tech](https://devtools.tech?ref=frontend-web-development-resources-github-repo) - A free interview preparation platform for Frontend Engineers with a focus on high quality real world programming questions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -187,7 +187,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [WB Web Development](https://www.youtube.com/c/WBWeb/) - Tutorials on HTML, CSS, Bootstrap, SASS, JavaScript, Git and GitHub, MongoDB, NodeJS, ReactJS ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)- Top class contents on front end web development. Has exclusive tutorials on HTML,CSS and javascript with amazing effects. A must visit for all front end developers![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Akshay Saini](https://www.youtube.com/c/akshaymarch7)- Videos on Frontend Interview Tips, Interview Experiences, and specially core concepts of Javascript.
-- [Devtools Tech](https://www.youtube.com/c/devtoolstech)- Videos on Advanced Frontend Concepts, Interview Questions & Experiences, and focus on intermediate to advanced JavaScript concepts.
+- [Devtools Tech](https://www.youtube.com/c/devtoolstech)- Videos on Advanced Frontend Concepts, Interview Questions & Experiences, and focus on intermediate to advanced JavaScript concepts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -238,7 +238,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Complete Introduction to CSS Grid](https://dev.to/cenacr007_harsh/complete-introduction-to-css-grid-2ffh) - A blog to learn the fundamentals of CSS grid by building different complex layouts.
 - [Rado's Blog)](https://blog.rstankov.com/) - A blog consisiting of articles on React Dependencies and Implementation, GraphQl and Lot more!
 - [Monica Powell Blog](https://aboutmonica.com/writing/) - An awesome blog on JavaScript, React, Gatsby and Git.
-- [Devtools Tech](https://www.devtools.tech/resources/all?ref=frontend-web-development-resources-github-repo) - Carefully curated high quality resources for Frontend Engineers.
+- [Devtools Tech](https://www.devtools.tech/resources/all?ref=frontend-web-development-resources-github-repo) - Carefully curated high quality resources for Frontend Engineers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ### Hiring
 
@@ -633,7 +633,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Leetcode](https://leetcode.com/) - Coding problems to solve in a range of categories and difficulties ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Project Euler](https://projecteuler.net/) - Challenging computer science and mathematical problems. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [100DaysOfCode](https://www.100daysofcode.com/) - Regardless of your coding skills or your language of choice, this challenge invites you to code for at least 1 hour a day. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Devtools Tech](https://www.devtools.tech/questions/all?ref=frontend-web-development-resources-github-repo) - Devtools Tech is a free platform for Frontend Engineers to practice high quality real world programming interview questions, follow curated learning paths, read blogs, and track progress across various frontend domains.
+- [Devtools Tech](https://www.devtools.tech/questions/all?ref=frontend-web-development-resources-github-repo) - Devtools Tech is a free platform for Frontend Engineers to practice high quality real world programming interview questions, follow curated learning paths, read blogs, and track progress across various frontend domains. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
