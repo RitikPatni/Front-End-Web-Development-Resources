@@ -57,6 +57,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
+  - [Getting Started in Android](#android)
 
 ## RoadMap
 
@@ -675,3 +676,17 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Vitest](https://vitest.dev/) - Vitest is a blazing fast unit test framework powered by Vite ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
+
+<div id="android">
+<H2> Getting Started In Android</H2>
+
+ You can start learning Web development through Android and you can even create websites using Android.
+For Learning you can have a look at resources mentioned above. While taking about editor. Here's it is:<br>
+- [Tred edit](https://play.google.com/store/apps/details?id=com.teejay.trebedit) - HTML,CSS and JavaScript editor. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Spck Code Editor](https://play.google.com/store/apps/details?id=io.spck) - HTML,CSS, JavaScript, Typescript, Gitt Client and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) - For Running Python on Android. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+
+**[⬆ back to top](#table-of-contents)**
+
+</div>
