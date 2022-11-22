@@ -497,6 +497,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Pinterest](https://www.pinterest.com/) - Pinterest has a host of design inspirations in a variety of forms and styles. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Pixpa](https://www.pixpa.com/) - Pixpa features some nice modern designs and inspirations for web designers and photographers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Lapa Ninja](https://www.lapa.ninja/) - Lapa Ninja is a gallery featuring the best 4127 landing page examples, free books for designers and free UI kits from around the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
