@@ -612,6 +612,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Guide to Git and Github](https://launchschool.com/books/git) - A beginner friendly guide to using git and working with Github. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Introduction to HTTP](https://launchschool.com/books/http) - Introduction to HTTP, the stateless protocol underlying all of the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Introduction to the Command Line](https://launchschool.com/books/command_line) - A short and beginner friendly introduction to the command line, covering common commands that will make you immediately productive. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [HTML & CSS Books](https://www.interviewbit.com/blog/html-css-books/)  ![Free]
 
 **[⬆ back to top](#table-of-contents)**
 
