@@ -443,6 +443,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient, Accessibility Tools and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [BADA55 Color Codes](http://bada55.io/) - Convert leet words into CSS hex colors. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Branition Colors](http://branition.com/colors/) - Hand-curated collection of color palettes best fitted for branding. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color Hunt](http://colorhunt.co/) - Open collections of beautiful color palettes ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color Theory by Natalya Shelburne](https://tallys.github.io/color-theory/) - Practical Color Theory for People who Code: Tutorial on the use of color with examples ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.050000000000000044,1,0.6943295865110486,0.13153196324950517,0.04550000000000004,0.91,1,0,0,0.91,0.6632375135840386,0.04550000000000004,0.2526315789473136,0.48,0.216140350877193&swatchOrder=0,1,2,3,4) - Interactive color wheel with different color rules (adjustments possible) ![Free](https://img.shields.io/badge/-Free-brightgreen)
