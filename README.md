@@ -613,6 +613,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Introduction to HTTP](https://launchschool.com/books/http) - Introduction to HTTP, the stateless protocol underlying all of the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Introduction to the Command Line](https://launchschool.com/books/command_line) - A short and beginner friendly introduction to the command line, covering common commands that will make you immediately productive. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [HTML & CSS Books](https://www.interviewbit.com/blog/html-css-books/)  ![Free]
+- [Web Design Playground, Second Edition](https://www.manning.com/books/web-design-playground-second-edition) - Modern HTML, CSS, and web design standards.[Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
