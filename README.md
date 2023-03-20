@@ -240,6 +240,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Rado's Blog)](https://blog.rstankov.com/) - A blog consisiting of articles on React Dependencies and Implementation, GraphQl and Lot more!
 - [Monica Powell Blog](https://aboutmonica.com/writing/) - An awesome blog on JavaScript, React, Gatsby and Git.
 - [Devtools Tech](https://www.devtools.tech/resources/all?ref=frontend-web-development-resources-github-repo) - Carefully curated high quality resources for Frontend Engineers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Introduction to HTML Tutorial - Designing a web page](https://technosmarter.com/html/designing-a-web-page)
 
 ### Hiring
 
