@@ -57,6 +57,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
+  - [Cheatsheets] (#cheatsheets)
 
 ## RoadMap
 
@@ -679,5 +680,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [PactumJS](https://pactumjs.github.io/) - REST API Testing Tool used to automate e2e, integration, contract & component (or service level) tests ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Vitest](https://vitest.dev/) - Vitest is a blazing fast unit test framework powered by Vite ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+## Cheatsheets
+
+- [Devhints] (https://devhints.io/) - a modest collection of cheatsheets for multiple programming languages. ![Free]
+
 
 **[⬆ back to top](#table-of-contents)**
