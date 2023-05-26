@@ -255,6 +255,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Frontend Happy Hour](https://frontendhappyhour.com/) - Front end, software, and career development podcasts by industry panelists. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JavaScript Jabber](https://devchat.tv/js-jabber) - Podcasts for JavaScript developers. Website also offers many other programming-related podcasts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Syntax](https://syntax.fm/) - Front end development podcasts by Wes Bos and Scott Tolinski from Level Up Tuts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Select*](https://www.harperdb.io/blog-categories/podcast) - Podcast featuring guests across many different areas of software engineering, tech careers, and front end dev. 
 
 **[⬆ back to top](#table-of-contents)**
 
