@@ -211,6 +211,7 @@
 - [UI Kit](https://getuikit.com/)
 - [Unsemantic](https://unsemantic.com/)
 - [Vital CSS](https://vitalcss.com/components/)
+- [Ant Design](https://ant.design/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -261,6 +262,7 @@
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code
 - [All Gradient sites in one place](https://cssgradient.io/gradient-backgrounds/) 👍
 - [Google, but for colors](https://picular.co/)
+- [FLAT UI COLORS 2](https://flatuicolors.com/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -320,6 +322,8 @@
 - [The Open Photo Project](https://openphoto.net/) - The Open Photo Project is a photo sharing platform created in 1998 by Michael Jastremski. Contributors have offered their images free of charge under terms of Creative Commons licensing.
 - [UnSplash](https://unsplash.com) 👍 - "Beautiful, Free Photos" & themed collections of photos
 - [UnDraw](https://undraw.co) 👍 - "MIT licensed illustrations for every project you can imagine and create
+- [storyset](https://storyset.com/) - Awesome free customizable illustrations for your next project
+Customize, animate and download illustrations to make incredible landing pages, app or presentations!
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -341,6 +345,7 @@
 - [Random famous quotes | Mashape APIs](https://market.mashape.com/andruxnet/random-famous-quotes)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API)
 - [A list of public APIs](https://github.com/toddmotto/public-apis)
+- [RapidAPI, the world's largest API hub](https://rapidapi.com/hub)
 
 **[⬆ back to top](#table-of-contents)**
 
