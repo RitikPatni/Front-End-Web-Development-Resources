@@ -8,7 +8,7 @@
 
 # Front-end development
 
-# Hi There
+# Hi Everyone
 
 <p>
 This is an open-source repository for all who want to learn front-end Development.</p>
