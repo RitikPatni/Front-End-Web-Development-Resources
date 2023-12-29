@@ -244,6 +244,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Roblog](https://robiul.dev/) - A Go-to destination for all things related to technology, JavaScript, Node.js, and web development.
 - [Monica Powell Blog](https://aboutmonica.com/writing/) - An awesome blog on JavaScript, React, Gatsby and Git.
 - [Devtools Tech](https://www.devtools.tech/resources/all?ref=frontend-web-development-resources-github-repo) - Carefully curated high quality resources for Frontend Engineers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Introduction to HTML Tutorial - Designing a web page](https://technosmarter.com/html/designing-a-web-page)
 
 ### Hiring
 
