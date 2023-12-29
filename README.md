@@ -372,6 +372,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Postman(Tool for testing APIs)](https://docs.api.getpostman.com/?version=latest) - API client to create, share, test, and document APIs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Free Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [JSONT](https://www.jsont.run/) - An online simple and powerful JSON formatting tool. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Materio Bootstrap 5 HTML Admin Template](https://github.com/themeselection/materio-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Open-source Bootstrap 5 HTML Admin Dashboard Template built for developers.
+
 
 **[⬆ back to top](#table-of-contents)**
 
