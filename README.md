@@ -504,6 +504,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Pixpa](https://www.pixpa.com/) - Pixpa features some nice modern designs and inspirations for web designers and photographers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Lapa Ninja](https://www.lapa.ninja/) - Lapa Ninja is a gallery featuring the best 4127 landing page examples, free books for designers and free UI kits from around the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [LovelyLanding.net](https://www.lovelylanding.net/) - A frequently updated collection of inspirational landing page designs. Includes desktop, tablet and mobile designs. ![Free]
 
 **[⬆ back to top](#table-of-contents)**
 
