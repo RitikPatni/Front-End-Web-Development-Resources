@@ -44,6 +44,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Tools](#tools)
   - [CSS Frameworks](#css-frameworks)
   - [Icons](#icons)
+  - [Icon Fonts](#icon-fonts)
   - [Colors](#colors)
   - [Typography](#typography)
   - [Design Inspiration](#design-inspiration)
@@ -57,6 +58,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTube Videos](#youtube-videos)
   - [Testing](#testing)
+  - [Logos](#logos)
 
 ## RoadMap
 
@@ -191,6 +193,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)- Top class contents on front end web development. Has exclusive tutorials on HTML,CSS and javascript with amazing effects. A must visit for all front end developers![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Akshay Saini](https://www.youtube.com/c/akshaymarch7)- Videos on Frontend Interview Tips, Interview Experiences, and specially core concepts of Javascript.
 - [Devtools Tech](https://www.youtube.com/c/devtoolstech)- Videos on Advanced Frontend Concepts, Interview Questions & Experiences, and focus on intermediate to advanced JavaScript concepts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [EGATOR](https://www.youtube.com/@EGATORTUTORIALS)- Produce tutorials covering HTML, CSS, JavaScript, Node.js, MongoDB, and the intricacies of hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -438,6 +441,28 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Typicons](https://www.s-ings.com/typicons/) - Free-to-use vector icons embedded in a webfont. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather themed icon font and CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Zocial | CSS3 Button Set](http://zocial.smcllns.com/) - Create social buttons using CSS and rendering social icons as a font. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Circum Icons](https://circumicons.com/) - Consistant open source icons as SVG for React, Vue and Svelte. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) - 8000+ free icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Tabler Icons](https://tabler.io/icons) - 3500+ highly customizable open source SVG icons with React, Preact, Vue, Svelte and SolidJS support. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Xicons](https://www.xicons.org/#/) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc. (Vue3, Vue2, React, SVG). ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Iconoir](https://iconoir.com/) - Free library of 900+ open source icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [The Noun Project](https://thenounproject.com/) - Over 2 Million curated icons, created by a global community. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## Icon Fonts
+
+- [Font Awesome](https://fontawesome.com/) - The web's most popular icon set and toolkit. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Line Awesome](https://icons8.com/line-awesome) - Swap in replacement of Font Awesome with modern line icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Material Icons](https://fonts.google.com/icons) - Material design icon library. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [IonIcons](https://ionic.io/ionicons) - Beautifully crafted open source icons from Ionic team. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) - Customizable Foundation icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Fontisto Icons](https://fontisto.com) - Fontisto the iconic font and css toolkit · 616+ free icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Boxicons](https://boxicons.com/) - Boxicons is a free collection of carefully crafted open source icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) - The icon font from Visual Studio Code. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -468,6 +493,9 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [UI Gradients](https://uigradients.com/#Influenza) - Scroll through or pick from beautiful gradients, download JPG and copy CSS Code ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [W3school Color Picker](https://www.w3schools.com/colors/colors_picker.asp) - Find the perfect color from the color wheel, easy control ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UI Color Picker](https://uicolorpicker.com/) - Best colors in few selected shades to choose from very helpful for quickly choosing and adding color to design. ![Free]
+- [Huetone](https://huetone.ardov.me/) - A tool to create accessible color systems. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Color Brewer 2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) - The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Happyhues](https://www.happyhues.co/) - Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -685,3 +713,23 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Vitest](https://vitest.dev/) - Vitest is a blazing fast unit test framework powered by Vite ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
+
+---
+
+## Logos
+
+- [LogoSear.ch](https://logosear.ch/search.html) - Search engine with over 200,000 SVG logos indexed. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [SVGPorn](https://svgporn.com/) - 1000+ high-quality SVG logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Payment System Logos](https://github.com/mpay24/payment-logos/) - Logos for payment systems available in png and svg. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [VectorLogoZone](https://www.vectorlogo.zone/) - Consistently formatted SVG logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [World Vector Logo](https://worldvectorlogo.com/) - Download vector logos of brands you love. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Logo Maker](https://logomakr.com/) - Create custom logos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Free Logo Maker](https://www.namecheap.com/logo-maker/) - Fast, All-in-One Logo Generator. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [LOGOwine](https://www.logo.wine/) - Brand Logos Free Download in SVG Vector & PNG File Format
+. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
