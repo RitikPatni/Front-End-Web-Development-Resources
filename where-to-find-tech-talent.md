@@ -1,12 +1,11 @@
 # Two Great Places to Discover Tech Talent and How to Attract Them
 
-In 2020 and beyond, finding and hiring talented individuals who have technological experience will become increasingly important. This is due to the fact that technology is disrupting every industry of work in new and unprecedented ways. Staying on top of this disruption and making your company stand out from the competition starts with learning where to find talented tech employees.
+In 2020 and beyond, finding and hiring talented individuals with technological experience will become increasingly important. This is because technology is disrupting every industry in new and unprecedented ways. Staying on top of this disruption and making your company stand out from the competition starts with learning where to find talented tech employees.
 
-To that point, finding talented tech workers is only the tip of the iceberg, as it is equally important to retain your workforce. If your company has a high employee turnover rate, it’s more likely than not that fewer people will want to work there. Therefore, there are a few small steps you can take that will help you retain the talent you work so hard to identify.
+To that point, finding talented tech workers is only the tip of the iceberg, as it is equally important to retain your workforce. If your company has a high employee turnover rate, it’s more likely than not that fewer people will want to work there. Therefore, there are a few small steps you can take that will help you retain the talent you worked so hard to identify.
 
 ## Tech Bootcamps
-
-More often than not, companies choose to source their employees from a standard source such as colleges or universities. However, there are new and unique educational institutions that produce graduates who are just as talented. An example of such a unique institution is a tech bootcamp. Unlike a university, bootcamps often last a number of months and teach students a single skill that prepares them for one career.
+Often, companies choose to source their employees from a standard source such as colleges or universities. However, there are new and unique educational institutions that produce graduates who are just as talented. An example of such a unique institution is a tech boot camp. Unlike a university, boot camps often last several months and teach students a single skill that prepares them for a career.
 
 For example, highly rated [data science bootcamps](https://careerkarma.com/rankings/best-data-science-bootcamps/) prepare students for a career in data science. Even though data science is a field that used to require a master’s degree, the field has been opened up to bootcamp graduates due to their specialized knowledge. Despite the quick level of education, bootcamp graduates often boast as many skills as university counterparts.
 
