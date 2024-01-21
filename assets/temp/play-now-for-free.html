@@ -1,0 +1,4901 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" wf-loading>
+    <head>
+        
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+
+
+    <script>
+        window.newrelicAttributes = {
+            accountId: "1796917",
+            trustKey: "1796917",
+            agentId: "149134891",
+            licenseKey: "f701a6c63c",
+            applicationId: "149134891"
+        };
+    </script>
+    <script src="/newrelic.js"></script>
+
+
+
+<!-- Compliant Google Optimize -->
+<script>
+        (() => {
+            const getPrivacyCookie = () => {
+                const privacyCookie = document.cookie.match('(^|;)\\s*cmapi_cookie_privacy\\s*=\\s*([^;]+)');
+
+                return privacyCookie ? privacyCookie.pop() : null;
+            };
+
+            const getBehaviorCookie = () => {
+                const behaviorCookie = document.cookie.match('(^|;)\\s*notice_behavior\\s*=\\s*([^;]+)');
+
+                return behaviorCookie ? behaviorCookie.pop() : null;
+            };
+
+            const hasOptedIn = () => {
+                const behaviorCookie = getBehaviorCookie();
+                const privacyCookie = getPrivacyCookie();
+
+                return behaviorCookie && behaviorCookie.match(/^none$/) || privacyCookie && privacyCookie.match(/2|3/);
+            }
+
+            const appendOptimize = () => {
+                const head = document.getElementsByTagName('head')[0];
+
+                if (head) {
+                    const script = document.createElement('script');
+
+                    script.src = 'https://www.googleoptimize.com/optimize.js?id=GTM-M6BQF2W';
+                    script.id = "google-optimize"
+                    head.append(script);
+                }
+            };
+
+            const removeOptimize = () => {
+                const head = document.getElementsByTagName('head')[0];
+                const optimizeScript = document.getElementById('google-optimize');
+
+                if (head && optimizeScript) {
+                    head.removeChild(optimizeScript);
+                }
+            }
+
+            /**
+             * Append or remove Google Optimize script to head,
+             * depending on whether user's cookie preferences
+             * have opted in and Google Optimize script already
+             * exists in head.
+             */
+            const handleConsentDecision = () => {
+                const googleOptimizeScript = document.getElementById('google-optimize');
+                if (hasOptedIn() && !googleOptimizeScript) {
+                    appendOptimize();
+                } else if (!hasOptedIn() && googleOptimizeScript) {
+                    removeOptimize();
+                }
+            }
+
+            /**
+             * Callbacks will occur in the form of a PostMessage event. This code listens for the
+             * appropriately formatted PostMessage event, gets the new consent decision, and then sets
+             * the new cookie preferences.
+             */
+            const handlePreferencesUpdated = (e) => {
+                try {
+                    const { capabilities, action } = JSON.parse(e.data).PrivacyManagerAPI || {};
+                    if (capabilities && action === 'getConsentDecision') {
+                        handleConsentDecision();
+                    }
+                } catch (error) {
+                    console.error(error);
+                }
+            }
+
+            /**
+             * Registers with the TrustArc Content Manager (CM) API to receive callbacks when
+             * a preference update occurs, and initialized dispatched preferences array to
+             * the user's current preferences. You must wait for the CM API (PrivacyManagerAPI object)
+             * to exist on the page before registering.
+             */
+            const CMICallbackRegister = () => {
+                const interval = setInterval(() => {
+                    if (window.PrivacyManagerAPI && interval) {
+                        const apiObject = {
+                            PrivacyManagerAPI: {
+                                action: 'getConsentDecision',
+                                timestamp: new Date().getTime(),
+                                self: window.location.host
+                            }
+                        };
+                        window.top.postMessage(JSON.stringify(apiObject), '*');
+                        clearInterval(interval);
+                    }
+                }, 50);
+            }
+
+            /**
+             * Listener registers a message callback on the TrustArc Content Manager when
+             * user's cookie preferences are updated and adds an event listener
+             * on the message events that occur when said preference updates occur.
+             */
+            const trustArcScriptLoadListener = () => {
+                if (typeof window.truste === 'object') {
+                    CMICallbackRegister();
+                    window.addEventListener('message', handlePreferencesUpdated);
+                }
+            }
+
+            window.addEventListener('load', trustArcScriptLoadListener);
+            const behaviorCookie = getBehaviorCookie();
+
+            if (behaviorCookie === null) {
+                // wait for TrustArc script to load before checking cookies
+                let numIntervals = 0;
+                const scriptLoadInterval = setInterval( () => {
+                    if(getBehaviorCookie()) {
+                        handleConsentDecision();
+                        clearInterval(scriptLoadInterval);
+                    }
+                    // Stop running interval after 8 times (8x the documented 500ms it
+                    // should take to load the TrustArc script on the BE) to prevent running forever
+                    if (++numIntervals >= 10) {
+                        clearInterval(scriptLoadInterval);
+                    }
+                } , 500);
+            } else {
+                handleConsentDecision();
+            }
+        })();
+</script>
+    <!-- End Compliant Google Optimize -->
+
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+
+        var f = d.getElementsByTagName(s)[0];
+        var j = d.createElement(s);
+        var dl = l !== 'dataLayer' ? '&l=' + l : '';
+
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TG32RCX' + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer');
+</script>
+<!-- End Google Tag Manager -->
+
+
+
+<style>
+    [unresolved] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+<noscript>
+    <style>
+        [unresolved] {
+            visibility: visible !important;
+        }
+    </style>
+</noscript>
+
+<style>
+    body {
+        margin: 0;
+    }
+
+    .image img {
+        max-width: 100%;
+    }
+</style>
+
+
+<script>
+    
+    if (!CSS.supports('width', 'calc((var(--test))')) {
+        window.ShadyCSS = {
+            shimcssproperties: true
+        };
+    }
+
+    document.addEventListener('nds.typeKit.active', function() {
+        document.querySelector('html').removeAttribute('wf-loading');
+    });
+</script>
+
+<script src="//unpkg.com/@webcomponents/webcomponentsjs@2.2.7/webcomponents-loader.js"
+    integrity="sha384-3HK5hxQbkFqOIxMbpROlRmRtYl2LBZ52t+tqcjzsmr9NJuOWQxl8RgQSyFvq2lhy"
+    crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"
+    integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D"
+    crossorigin="anonymous"></script>
+<script src="//w.soundcloud.com/player/api.js"></script>
+
+
+
+
+
+
+<script>
+    window.nds = window.nds || {};
+    window.nds.componentUrlPrefix = '//pl.ea.com/release/4.64.3/elements/ea-elements.min.js'.substring(0, '//pl.ea.com/release/4.64.3/elements/ea-elements.min.js'.lastIndexOf('/') + 1);
+    window.nds.contentfulUrl = 'https://contentful-proxy.juno.ea.com/graphql';
+    window.nds.salUrl = 'https://service-aggregation-layer.juno.ea.com/graphql';
+    window.nds.useApq = true;
+    window.nds.salClientId = 'eacom-fe';
+    window.nds.xGameDistMethod = 'eacom';
+    window.nds.lockboxGameId = 'eacom';
+    window.nds.lockboxInvoiceSource = 'EACOM-STORE-WEB-%countryCode%';
+    window.nds.lockboxExternalPaymentPath = '/lockbox-external-payment';
+</script>
+
+
+
+<script type="module" src="//pl.ea.com/release/4.64.3/elements/ea-elements.min.js"></script>
+<script nomodule defer src="//pl.ea.com/release/4.64.3/elements/ea-elements.min.js"></script>
+
+
+
+    
+        
+            
+                <style> @font-face {font-family: 'Duke_Fill'; font-weight: 400; src: url(/assets/fonts/apex-legends/DukeFill_web.woff) format('woff');} </style> <link href="https://fast.fonts.net/cssapi/d4e9a514-63ad-4b92-b0b9-b19163f3cb59.css" rel="stylesheet" />
+            
+        
+    
+
+<style>
+    @font-face {
+    font-family: 'ElectronicArtsDisplay';
+    src: url(/assets/fonts/display/ElectronicArtsDisplay-Regular.woff2) format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ElectronicArtsDisplay';
+    src: url(/assets/fonts/display/ElectronicArtsDisplay-Bold.woff2) format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-Light.woff2) format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-LightItalic.woff2) format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-Regular.woff2) format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-Italic.woff2) format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-Bold.woff2) format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ElectronicArtsText';
+    src: url(/assets/fonts/text/ElectronicArtsText-BoldItalic.woff2) format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+</style>
+
+
+
+
+
+
+    <title>Play Apex Legends Now - The Next Evolution of Battle Royale - Free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam</title>
+    
+
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Play Apex Legends Now - The Next Evolution of Battle Royale - Free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam">
+<meta property="og:description" content="Download Apex Legends for free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam.">
+
+    <meta property="og:url" content="https://www.ea.com/games/apex-legends/play-now-for-free">
+
+<meta property="og:site_name" content="Electronic Arts Inc.">
+
+    <meta property="og:image" content="https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg">
+
+
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="628">
+
+
+<meta name="description" content="Download Apex Legends for free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam.">
+<meta name="author" content="Electronic Arts">
+<meta property="article:modified_time" content="2022-12-15T00:27:17Z">
+<meta property="article:published_time" content="2018-09-20T13:27-07:00">
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ea">
+<meta name="twitter:title" content="Play Apex Legends Now - The Next Evolution of Battle Royale - Free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam">
+<meta name="twitter:description" content="Download Apex Legends for free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam.">
+
+    <meta name="twitter:image" content="https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg">
+
+<meta name="twitter:creator" content="@ea">
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+     
+"image": {
+    "@type": "ImageObject",
+    "url": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg"
+},
+ 
+    "author": {
+      "@type": "Organization",
+      "name": "Electronic Arts",
+      "sameAs": "https://en.wikipedia.org/wiki/Electronic_Arts"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Electronic Arts",
+        "sameAs": "https://en.wikipedia.org/wiki/Electronic_Arts",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://media.contentapi.ea.com/content/dam/ea/EA_logo.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "inLanguage": "en",
+    "description": "Download Apex Legends for free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam.",
+    "datePublished": "2018-09-20T13:27-07:00",
+    "dateModified": "2022-12-15T00:27:17Z",
+    "headline": "Play Apex Legends Now - The Next Evolution of Battle Royale - Free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam",
+    "url": "https://www.ea.com/games/apex-legends/play-now-for-free"
+}
+</script>
+
+
+
+    <script >bazadebezolkohpepadr="1350702002"</script><script type="text/javascript" src="https://www.ea.com/akam/13/508210ad"  defer></script></head>
+    <body unresolved>
+        
+    
+
+
+<custom-style><style include="ea-shared-styles-base-common"></style></custom-style>
+<custom-style><style include="ea-shared-styles-base-headings"></style></custom-style>
+<custom-style><style include="ea-shared-styles-base-lists"></style></custom-style>
+<custom-style><style include="ea-shared-styles-base-links"></style></custom-style>
+<custom-style><style include="ea-shared-styles-base-images"></style></custom-style>
+<custom-style><style include="ea-shared-styles-typography-headings"></style></custom-style>
+<custom-style><style include="ea-shared-styles-typography-paragraphs"></style></custom-style>
+<custom-style><style include="ea-shared-styles-typography-labels"></style></custom-style>
+
+
+    
+        
+            <custom-style>
+                <style>
+                    html {
+                        
+                            --origin-brand-color: #07F468;
+                        
+                            --eaCorporate-landingSection-spacerTop-XS: 32px;
+                        
+                            --eaCorporate-landingSection-spacerTop-SM: 32px;
+                        
+                            --eaCorporate-landingSection-spacerTop-MD: 80px;
+                        
+                            --eaCorporate-landingSection-spacerTop-LG: 104px;
+                        
+                            --eaCorporate-landingSection-spacerTop-XL: 128px;
+                        
+                            --eaCorporate-landingSection-spacerBottom-XS: 32px;
+                        
+                            --eaCorporate-landingSection-spacerBottom-SM: 32px;
+                        
+                            --eaCorporate-landingSection-spacerBottom-MD: 40px;
+                        
+                            --eaCorporate-landingSection-spacerBottom-LG: 48px;
+                        
+                            --eaCorporate-landingSection-spacerBottom-XL: 56px;
+                        
+                            --eaCorporate-standardSection-spacerTop-XS: 48px;
+                        
+                            --eaCorporate-standardSection-spacerTop-SM: 48px;
+                        
+                            --eaCorporate-standardSection-spacerTop-MD: 80px;
+                        
+                            --eaCorporate-standardSection-spacerTop-LG: 80px;
+                        
+                            --eaCorporate-standardSection-spacerTop-XL: 80px;
+                        
+                            --eaCorporate-standardSection-spacerBottom-XS: 48px;
+                        
+                            --eaCorporate-standardSection-spacerBottom-SM: 48px;
+                        
+                            --eaCorporate-standardSection-spacerBottom-MD: 80px;
+                        
+                            --eaCorporate-standardSection-spacerBottom-LG: 80px;
+                        
+                            --eaCorporate-standardSection-spacerBottom-XL: 80px;
+                        
+                            --ea-theme-stream-ui-paddle-default: #161616;
+                        
+                            --ea-theme-stream-ui-paddle-disabled: #BFBFBF;
+                        
+                            --ea-theme-stream-ui-progress-indicator-default: rgb(255,255,255);
+                        
+                            --ea-theme-stream-ui-progress-indicator-hover: rgb(255,255,255);
+                        
+                            --ea-theme-stream-ui-progress-bar-stroke-default: #ff8e8e;
+                        
+                            --ea-theme-stream-ui-progress-bar-stroke-hover: #ff8e8e;
+                        
+                            --ea-theme-stream-ui-progress-bar-fill-hover: #ff8e8e;
+                        
+                            --ea-theme-toaster-eyebrow-font-size-mobile: 16px;
+                        
+                            --ea-theme-toaster-eyebrow-font-size-tablet: 18px;
+                        
+                            --ea-theme-toaster-eyebrow-font-size-desktop: 20px;
+                        
+                            --ea-theme-toaster-copy-font-size-tablet: 16px;
+                        
+                            --ea-theme-toaster-copy-font-size-desktop: 18px;
+                        
+                            --ea-theme-tabs-background-color: #161616;
+                        
+                            --ea-theme-tabs-indicator-color: #da292a;
+                        
+                            --ea-theme-tabs-interface-color: #FF4747;
+                        
+                            --ea-theme-tabs-unselected-type: #ffffff;
+                        
+                            --ea-theme-tabs-selected-type: #ffffff;
+                        
+                            --ea-theme-tabs-selected-state: #000000;
+                        
+                             --ea-theme-tabs-accent-elements: rgba(0, 0, 0, 0.08);
+                        
+                            --ea-theme-tabs-inactive-interface-color: rgba(255, 255, 255, 0.1);
+                        
+                            --ea-theme-tabs-tab-text-transform: capitalize;
+                        
+                            --ea-theme-h5-font-size-tablet-landscape: 22px;
+                        
+                            --ea-theme-secondary-font-family: Duke_Fill;
+                        
+                            --ea-theme-typographic-headings-font-family: Duke_Fill;
+                        
+                            --ea-theme-primary-font-family: TT Lakes W05 Regular, sans-serif;
+                        
+                            --ea-theme-color: #DA292A;
+                        
+                            --ea-theme-dark-gradient: #B03039;
+                        
+                            --ea-theme-light-gradient: #DA292A;
+                        
+                            --ea-theme-d3-line-height-desktop: 62px;
+                        
+                            --ea-theme-d3-line-height-tablet-landscape: 46px;
+                        
+                            --ea-theme-d3-line-height-mobile: 46px;
+                        
+                            --ea-theme-d2-font-weight: normal;
+                        
+                            --ea-theme-d3-font-weight: normal;
+                        
+                            --ea-theme-d4-font-weight: normal;
+                        
+                            --ea-theme-l1-font-weight: normal;
+                        
+                            --ea-theme-l2-font-weight: normal;
+                        
+                            --ea-theme-local-nav-shelf-header-font-size-desktop: 24px;
+                        
+                            --ea-theme-local-nav-shelf-header-font-size-tablet-landscape: 18px;
+                        
+                            --ea-theme-local-nav-shelf-header-font-size-mobile: 20px;
+                        
+                            --ea-theme-d2-font-size-desktop: 82px;
+                        
+                            --ea-theme-d2-font-size-tablet-landscape: 68px;
+                        
+                            --ea-theme-d2-font-size-tablet-portrait: 54px;
+                        
+                            --ea-theme-d2-font-size-mobile: 48px;
+                        
+                            --ea-theme-d3-font-size-desktop: 64px;
+                        
+                            --ea-theme-d3-font-size-tablet-landscape: 54px;
+                        
+                            --ea-theme-d3-font-size-tablet-portrait: 44px;
+                        
+                            --ea-theme-d3-font-size-mobile: 40px;
+                        
+                            --ea-theme-d4-font-size-desktop: 48px;
+                        
+                            --ea-theme-d4-font-size-tablet-landscape: 44px;
+                        
+                            --ea-theme-d4-font-size-tablet-portrait: 40px;
+                        
+                            --ea-theme-d4-font-size-mobile: 36px;
+                        
+                            --ea-theme-l2-font-size-desktop: 22px;
+                        
+                            --ea-theme-l2-font-size-mobile: 20px;
+                        
+                            --ea-theme-l2-font-size-tablet-landscape: 20px;
+                        
+                            --ea-text-case: uppercase;
+                        
+                            --ea-theme-spacer-height-xsmall: 93px;
+                        
+                            --ea-theme-spacer-height-mobile-small: 93px;
+                        
+                            --ea-theme-spacer-height-tablet-portrait: 96px;
+                        
+                            --ea-theme-spacer-height-tablet-landscape: 96px;
+                        
+                            --ea-theme-spacer-height-desktop: 100px;
+                        
+                    }
+                </style>
+            </custom-style>
+        
+    
+
+
+
+<ea-elements-loader elements="ea-network-nav, ea-player, ea-type-kit">
+</ea-elements-loader>
+
+
+    <ea-network-nav
+        unresolved
+        userData="/user-data"
+        content="//nds-network-nav.ea.com//en-us/network-nav"
+        login-url="/login"
+        logout-url="/logout"
+            
+                
+                    
+                        hide-logo
+                    
+                
+            
+    ></ea-network-nav>
+
+
+
+
+    
+        
+            
+                
+<ea-elements-loader elements="ea-page-background">
+</ea-elements-loader>
+<ea-page-background
+    unresolved
+    layout="fixed"
+    background-color=""
+    
+>
+    
+
+
+    <ea-elements-loader elements="ea-image">
+    </ea-elements-loader>
+    <ea-image
+        unresolved
+        tooltip=""
+        smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.320w.jpg"
+        small="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.767w.jpg"
+        medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1023w.jpg"
+        large="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1455w.jpg"
+        largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1920w.jpg"
+        
+        
+        
+        
+            slot="image"
+        
+        
+    >
+        <img
+            src="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.320w.jpg"
+            alt=""
+            srcset="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.320w.jpg 320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.767w.jpg 768w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1023w.jpg 1024w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1455w.jpg 1320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-page-bg-solid-beige.jpg.adapt.crop16x9.1920w.jpg 1456w" />
+    </ea-image>
+
+
+
+</ea-page-background>
+
+            
+        
+    
+
+
+
+
+    
+        
+            
+                
+
+    
+<ea-elements-loader elements="ea-local-nav-advanced, ea-link">
+</ea-elements-loader>
+<ea-local-nav-advanced
+    
+    
+        home-text="Home"
+        home-tooltip=""
+        home-link="/games/apex-legends/"
+    
+    
+        logo-image="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-white-nav-logo.svg"
+        
+            logo-tooltip=""
+        
+    
+    
+        theme="light"
+    
+    
+        shelf-type="band"
+    
+    
+        open-drawer-text="Open"
+    
+    
+        close-drawer-text="Close"
+    
+    
+        mini
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    unresolved
+>
+    
+
+    
+
+    
+        <a title="" href="/games/apex-legends/">
+            Home
+            
+                <img
+                    src="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-white-nav-logo.svg"
+                    
+                />
+            
+        </a>
+    
+
+    
+        
+            
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav
+    slot="local-nav-shelf-link"
+    toggle-text="About"
+    theme="light"
+    type="narrow"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text="Overview"
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="About Apex Legends"
+    link-href="/games/apex-legends/about"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/about">About Apex Legends</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Legends"
+    link-href="/games/apex-legends/about/characters"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/about/characters">Legends</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Maps"
+    link-href="/games/apex-legends/maps"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/maps">Maps</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Lore Hub"
+    link-href="/games/apex-legends/lore-hub"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/lore-hub">Lore Hub</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="FAQ"
+    link-href="/games/apex-legends/about/frequently-asked-questions"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/about/frequently-asked-questions">FAQ</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="PC Requirements"
+    link-href="/games/apex-legends/about/pc-system-requirements"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/about/pc-system-requirements">PC Requirements</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Credits"
+    link-href="/games/apex-legends/credits"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/credits">Credits</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Accessibility"
+    link-href="/able/resources/apex-legends"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="/able/resources/apex-legends">Accessibility</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+</ea-local-nav-shelf-sub-nav>
+
+        
+    
+        
+            
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav
+    slot="local-nav-shelf-link"
+    toggle-text="Modes"
+    theme="light"
+    type="simple"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text=""
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Battle Royale"
+    link-href="/games/apex-legends/modes/battle-royale"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/modes/battle-royale">Battle Royale</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Team Deathmatch"
+    link-href="/games/apex-legends/modes/mixtape"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/modes/mixtape">Team Deathmatch</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Control"
+    link-href="/games/apex-legends/modes/mixtape"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/modes/mixtape">Control</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Gun Run"
+    link-href="/games/apex-legends/modes/mixtape"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/modes/mixtape">Gun Run</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+</ea-local-nav-shelf-sub-nav>
+
+        
+    
+        
+            
+                <ea-link
+                    slot="local-nav-shelf-link"
+                    class="eapl-local-nav__shelf-link"
+                    text-color="dark"
+                    link-href="/games/apex-legends/ignite"
+                    link-title="Season"
+                    link-text="Season"
+                    unresolved
+                >
+                    <a href="/games/apex-legends/ignite">Season</a>
+                </ea-link>
+            
+        
+    
+        
+            
+                <ea-link
+                    slot="local-nav-shelf-link"
+                    class="eapl-local-nav__shelf-link"
+                    text-color="dark"
+                    link-href="/games/apex-legends/battle-pass"
+                    link-title="Battle Pass"
+                    link-text="Battle Pass"
+                    unresolved
+                >
+                    <a href="/games/apex-legends/battle-pass">Battle Pass</a>
+                </ea-link>
+            
+        
+    
+        
+            
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav
+    slot="local-nav-shelf-link"
+    toggle-text="News &amp; Media"
+    theme="light"
+    type="simple"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text=""
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Latest News"
+    link-href="/games/apex-legends/news"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/news">Latest News</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Game Updates"
+    link-href="/games/apex-legends/news#game-updates"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/news#game-updates">Game Updates</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Latest Media"
+    link-href="/games/apex-legends/media"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/media">Latest Media</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Sign up for News"
+    link-href="/games/apex-legends/newsletter "
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/newsletter ">Sign up for News</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+</ea-local-nav-shelf-sub-nav>
+
+        
+    
+        
+            
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav
+    slot="local-nav-shelf-link"
+    toggle-text="Community"
+    theme="light"
+    type="narrow"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text="Social"
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Twitter"
+    link-href="https://twitter.com/PlayApex"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="https://twitter.com/PlayApex">Twitter</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Instagram"
+    link-href="https://www.instagram.com/playapex/"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="https://www.instagram.com/playapex/">Instagram</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Facebook"
+    link-href="https://www.facebook.com/playapex"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="https://www.facebook.com/playapex">Facebook</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Youtube"
+    link-href="https://www.youtube.com/playapex"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="https://www.youtube.com/playapex">Youtube</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Twitch"
+    link-href="https://www.twitch.tv/playapex"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="https://www.twitch.tv/playapex">Twitch</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text="Community"
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Forums"
+    link-href="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en">Forums</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Community Resources"
+    link-href="/games/apex-legends/community-resources"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/community-resources">Community Resources</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text="Merchandise"
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="playapexshop.com"
+    link-href="/games/apex-legends/apex-legends-shop"
+    link-target="_blank"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/apex-legends-shop">playapexshop.com</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+</ea-local-nav-shelf-sub-nav>
+
+        
+    
+        
+            
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav
+    slot="local-nav-shelf-link"
+    toggle-text="Compete"
+    theme="light"
+    type="simple"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section
+    title-text="Compete"
+    slot="sub-nav-section"
+    unresolved
+>
+    
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Compete"
+    link-href="/games/apex-legends/compete"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/compete">Compete</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+<ea-elements-loader elements="ea-local-nav-shelf-sub-nav-section-link">
+</ea-elements-loader>
+<ea-local-nav-shelf-sub-nav-section-link
+    slot="sub-nav-section-link"
+    link-text="Community Guidelines"
+    link-href="/games/apex-legends/community-tournament-guidelines"
+    link-target="_self"
+    
+    unresolved
+>
+    <a href="/games/apex-legends/community-tournament-guidelines">Community Guidelines</a>
+</ea-local-nav-shelf-sub-nav-section-link>
+
+</ea-local-nav-shelf-sub-nav-section>
+
+</ea-local-nav-shelf-sub-nav>
+
+        
+    
+
+    
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-advanced">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-advanced
+        
+            slot="local-nav-drawer-link"
+        
+        toggle-text="About"
+        toggle-tooltip=""
+        theme="light"
+        
+            type="narrow"
+        
+        unresolved
+    >
+        
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-section, ea-link">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-section
+        slot="local-nav-drawer-sub-nav-section"
+        title-text="Overview"
+        unresolved
+    >
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/about"
+            link-title=""
+            link-text="About Apex Legends"
+            unresolved
+        >
+            <a href="/games/apex-legends/about">About Apex Legends</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/about/characters"
+            link-title=""
+            link-text="Legends"
+            unresolved
+        >
+            <a href="/games/apex-legends/about/characters">Legends</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/maps"
+            link-title=""
+            link-text="Maps"
+            unresolved
+        >
+            <a href="/games/apex-legends/maps">Maps</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/lore-hub"
+            link-title=""
+            link-text="Lore Hub"
+            unresolved
+        >
+            <a href="/games/apex-legends/lore-hub">Lore Hub</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/about/frequently-asked-questions"
+            link-title=""
+            link-text="FAQ"
+            unresolved
+        >
+            <a href="/games/apex-legends/about/frequently-asked-questions">FAQ</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/about/pc-system-requirements"
+            link-title=""
+            link-text="PC Requirements"
+            unresolved
+        >
+            <a href="/games/apex-legends/about/pc-system-requirements">PC Requirements</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/credits"
+            link-title=""
+            link-text="Credits"
+            unresolved
+        >
+            <a href="/games/apex-legends/credits">Credits</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/able/resources/apex-legends"
+            link-title=""
+            link-text="Accessibility"
+            unresolved
+        >
+            <a href="/able/resources/apex-legends">Accessibility</a>
+        </ea-link>
+    
+    </ea-local-nav-drawer-sub-nav-section>
+
+
+        
+    </ea-local-nav-drawer-sub-nav-advanced>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-advanced">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-advanced
+        
+            slot="local-nav-drawer-link"
+        
+        toggle-text="Modes"
+        toggle-tooltip=""
+        theme="light"
+        
+            type="simple"
+        
+        unresolved
+    >
+        
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/modes/battle-royale"
+        link-title=""
+        link-text="Battle Royale"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/modes/battle-royale">Battle Royale</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/modes/mixtape"
+        link-title=""
+        link-text="Team Deathmatch"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/modes/mixtape">Team Deathmatch</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/modes/mixtape"
+        link-title=""
+        link-text="Control"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/modes/mixtape">Control</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/modes/mixtape"
+        link-title=""
+        link-text="Gun Run"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/modes/mixtape">Gun Run</a>
+    </ea-link>
+
+
+        
+    </ea-local-nav-drawer-sub-nav-advanced>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        
+            slot="local-nav-drawer-link"
+        
+        class="eapl-local-nav__drawer-link"
+        link-href="/games/apex-legends/ignite"
+        link-title="Season"
+        link-text="Season"
+        text-color="dark"
+        unresolved
+    >
+        <a href="/games/apex-legends/ignite">Season</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        
+            slot="local-nav-drawer-link"
+        
+        class="eapl-local-nav__drawer-link"
+        link-href="/games/apex-legends/battle-pass"
+        link-title="Battle Pass"
+        link-text="Battle Pass"
+        text-color="dark"
+        unresolved
+    >
+        <a href="/games/apex-legends/battle-pass">Battle Pass</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-advanced">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-advanced
+        
+            slot="local-nav-drawer-link"
+        
+        toggle-text="News &amp; Media"
+        toggle-tooltip=""
+        theme="light"
+        
+            type="simple"
+        
+        unresolved
+    >
+        
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/news"
+        link-title=""
+        link-text="Latest News"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/news">Latest News</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/news#game-updates"
+        link-title=""
+        link-text="Game Updates"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/news#game-updates">Game Updates</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/media"
+        link-title=""
+        link-text="Latest Media"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/media">Latest Media</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/newsletter "
+        link-title=""
+        link-text="Sign up for News"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/newsletter ">Sign up for News</a>
+    </ea-link>
+
+
+        
+    </ea-local-nav-drawer-sub-nav-advanced>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-advanced">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-advanced
+        
+            slot="local-nav-drawer-link"
+        
+        toggle-text="Community"
+        toggle-tooltip=""
+        theme="light"
+        
+            type="narrow"
+        
+        unresolved
+    >
+        
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-section, ea-link">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-section
+        slot="local-nav-drawer-sub-nav-section"
+        title-text="Social"
+        unresolved
+    >
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://twitter.com/PlayApex"
+            link-title=""
+            link-text="Twitter"
+            unresolved
+        >
+            <a href="https://twitter.com/PlayApex">Twitter</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://www.instagram.com/playapex/"
+            link-title=""
+            link-text="Instagram"
+            unresolved
+        >
+            <a href="https://www.instagram.com/playapex/">Instagram</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://www.facebook.com/playapex"
+            link-title=""
+            link-text="Facebook"
+            unresolved
+        >
+            <a href="https://www.facebook.com/playapex">Facebook</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://www.youtube.com/playapex"
+            link-title=""
+            link-text="Youtube"
+            unresolved
+        >
+            <a href="https://www.youtube.com/playapex">Youtube</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://www.twitch.tv/playapex"
+            link-title=""
+            link-text="Twitch"
+            unresolved
+        >
+            <a href="https://www.twitch.tv/playapex">Twitch</a>
+        </ea-link>
+    
+    </ea-local-nav-drawer-sub-nav-section>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-section, ea-link">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-section
+        slot="local-nav-drawer-sub-nav-section"
+        title-text="Community"
+        unresolved
+    >
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en"
+            link-title=""
+            link-text="Forums"
+            unresolved
+        >
+            <a href="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en">Forums</a>
+        </ea-link>
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/community-resources"
+            link-title=""
+            link-text="Community Resources"
+            unresolved
+        >
+            <a href="/games/apex-legends/community-resources">Community Resources</a>
+        </ea-link>
+    
+    </ea-local-nav-drawer-sub-nav-section>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-section, ea-link">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-section
+        slot="local-nav-drawer-sub-nav-section"
+        title-text="Merchandise"
+        unresolved
+    >
+    
+        <ea-link
+            slot="local-nav-drawer-sub-nav-section-link"
+            link-href="/games/apex-legends/apex-legends-shop"
+            link-title=""
+            link-text="playapexshop.com"
+            unresolved
+        >
+            <a href="/games/apex-legends/apex-legends-shop">playapexshop.com</a>
+        </ea-link>
+    
+    </ea-local-nav-drawer-sub-nav-section>
+
+
+        
+    </ea-local-nav-drawer-sub-nav-advanced>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-local-nav-drawer-sub-nav-advanced">
+    </ea-elements-loader>
+    <ea-local-nav-drawer-sub-nav-advanced
+        
+            slot="local-nav-drawer-link"
+        
+        toggle-text="Compete"
+        toggle-tooltip=""
+        theme="light"
+        
+            type="simple"
+        
+        unresolved
+    >
+        
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/compete"
+        link-title=""
+        link-text="Compete"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/compete">Compete</a>
+    </ea-link>
+
+
+        
+            
+
+    <ea-elements-loader elements="ea-link">
+    </ea-elements-loader>
+    <ea-link
+        slot="local-nav-drawer-sub-link"
+        class="eapl-local-nav__drawer-sub-link"
+        link-href="/games/apex-legends/community-tournament-guidelines"
+        link-title=""
+        link-text="Community Guidelines"
+        text-color=""
+        unresolved
+    >
+        <a href="/games/apex-legends/community-tournament-guidelines">Community Guidelines</a>
+    </ea-link>
+
+
+        
+    </ea-local-nav-drawer-sub-nav-advanced>
+
+
+        
+    
+
+    
+        
+
+
+    <ea-elements-loader elements="ea-cta-dropdown, ea-hybrid-modal-invoker">
+    </ea-elements-loader>
+
+    
+        <ea-cta-dropdown
+            slot="cta-dropdown"
+            theme="light"
+            cta-title-text="DOWNLOAD FOR FREE*"
+            cta-link="/games/apex-legends/play-now-for-free"
+            border-color="none"
+            fill-color="brand"
+            text-color="light"
+
+            
+            
+            
+            
+            unresolved
+        >
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://www.ea.com/games/apex-legends/buy/pc"
+    
+    
+        link-title="Download for PC"
+    
+    
+        link-text="The EA App For Windows"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="misc"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.ea.com/games/apex-legends/buy/pc"
+        
+        
+            title="Download for PC"
+        
+    >
+        
+            The EA App For Windows
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-steam"
+    
+    
+        link-title="Steam on PC"
+    
+    
+        link-text="Steam on PC"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="misc"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-steam"
+        
+        
+            title="Steam on PC"
+        
+    >
+        
+            Steam on PC
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps4"
+    
+    
+    
+        link-text="PlayStation®4"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps4"
+        
+        
+    >
+        
+            PlayStation®4
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps5"
+    
+    
+    
+        link-text="PlayStation®5"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps5"
+        
+        
+    >
+        
+            PlayStation®5
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+    
+    
+    
+        link-text="Xbox"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+        
+        
+    >
+        
+            Xbox
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://smarturl.it/apex-std-ed-switch"
+    
+    
+    
+        link-text="Nintendo Switch"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://smarturl.it/apex-std-ed-switch"
+        
+        
+    >
+        
+            Nintendo Switch
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+
+            
+        </ea-cta-dropdown>
+    
+
+
+
+        
+            <ea-elements-loader elements="ea-local-nav-dropdown">
+            </ea-elements-loader>
+            <ea-local-nav-dropdown
+                slot="local-nav-dropdown"
+                theme="light"
+                menu-title=""
+                cta-title-text="DOWNLOAD FOR FREE*"
+                cta-link="/games/apex-legends/play-now-for-free"
+                border-color="none"
+                fill-color="brand"
+                text-color="light"
+                
+                unresolved
+            >
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://www.ea.com/games/apex-legends/buy/pc"
+    
+    
+        link-title="Download for PC"
+    
+    
+        link-text="The EA App For Windows"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="misc"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.ea.com/games/apex-legends/buy/pc"
+        
+        
+            title="Download for PC"
+        
+    >
+        
+            The EA App For Windows
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-steam"
+    
+    
+        link-title="Steam on PC"
+    
+    
+        link-text="Steam on PC"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="misc"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-steam"
+        
+        
+            title="Steam on PC"
+        
+    >
+        
+            Steam on PC
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps4"
+    
+    
+    
+        link-text="PlayStation®4"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps4"
+        
+        
+    >
+        
+            PlayStation®4
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps5"
+    
+    
+    
+        link-text="PlayStation®5"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps5"
+        
+        
+    >
+        
+            PlayStation®5
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+    
+    
+    
+        link-text="Xbox"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+        
+        
+    >
+        
+            Xbox
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+                <ea-container>
+                    
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="standard"
+    
+    
+        link-url="https://smarturl.it/apex-std-ed-switch"
+    
+    
+    
+        link-text="Nintendo Switch"
+    
+    
+        icon="none"
+    
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="light"
+    
+    
+        target="_blank"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://smarturl.it/apex-std-ed-switch"
+        
+        
+    >
+        
+            Nintendo Switch
+        
+    </a>
+</ea-cta>
+
+                </ea-container>
+            
+            
+            </ea-local-nav-dropdown>
+        
+    
+</ea-local-nav-advanced>
+
+<ea-elements-loader elements="ea-modal">
+</ea-elements-loader>
+<ea-modal
+    modal
+    restore-focus-on-close
+    unresolved
+    
+        id="pc-download"
+    
+    
+        theme="dark"
+    
+    
+        type="full-bleed"
+    
+>
+    
+
+    
+<ea-elements-loader elements="ea-section">
+</ea-elements-loader>
+<ea-section
+    unresolved
+    slot="section"
+    
+    
+        type="railed"
+    
+    
+        layout="100"
+    
+    
+    
+        background-color="light"
+    
+    
+    
+        background-overflow="hidden"
+    
+    
+        spacing-top="none"
+    
+    
+        spacing-bottom="none"
+    
+    
+    
+    
+        background-image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.320w.jpg"
+        background-image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.768w.jpg"
+        background-image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1024w.jpg"
+        background-image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1456w.jpg"
+        background-image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1920w.jpg"
+        image-tooltip=""
+    
+    
+>
+    
+        <img
+            src="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.320w.jpg"
+            alt=""
+            srcset="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.320w.jpg 320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.768w.jpg 768w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1024w.jpg 1024w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1456w.jpg 1320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-tan-texture-longer-xl.jpg.adapt.1920w.jpg 1456w"
+        />
+    
+    
+
+
+<ea-section-column
+    slot="section-column"
+    
+        indent-left="1"
+    
+    
+        indent-right="1"
+    
+    
+        text-align="center"
+    
+    
+    
+        mobile-order="0"
+    
+    
+>
+    
+<ea-elements-loader elements="ea-spacer">
+</ea-elements-loader>
+<ea-spacer
+    unresolved
+    
+        smallest="3rem"
+    
+    
+        small="3rem"
+    
+    
+        medium="3rem"
+    
+    
+        large="3rem"
+    
+    
+        largest="3rem"
+    
+>
+</ea-spacer>
+
+<ea-elements-loader elements="ea-subheading">
+</ea-elements-loader>
+<ea-subheading
+    unresolved
+    
+        type="ordered"
+    
+    
+        layout="medium"
+    
+    
+        text-align="center"
+    
+    
+        text-color="dark"
+    
+    
+    
+        title-text="Download Apex Legends on PC"
+    
+    
+    
+        spacing-top="medium"
+    
+    
+        spacing-bottom="small"
+    
+>
+    
+    
+        <h3>Download Apex Legends on PC</h3>
+    
+    
+</ea-subheading>
+
+<ea-elements-loader elements="ea-grid">
+</ea-elements-loader>
+<ea-grid
+    
+
+    type="ordered"
+
+
+    tile-media-shape="rectangle"
+
+
+
+    layout="3up"
+
+
+    tile-type="vertical"
+
+
+    tile-text-align="center"
+
+
+    tile-text-color="light"
+
+
+    tile-color="light"
+
+
+
+    hide-media
+
+
+    hide-eyebrow
+
+
+    hide-title
+
+
+    hide-copy
+
+
+
+    hide-brand-stroke
+
+
+    hide-byline
+
+
+    spacing-top="none"
+
+
+    spacing-bottom="none"
+
+
+
+
+    
+    
+    
+        tile-scrim-color="none"
+    
+    
+        tile-scrim-opacity="medium"
+    
+    tile-align="center"
+    
+    
+    
+    
+    
+    
+    
+    animate-in-order=""
+    animate-out-order=""
+    
+    unresolved
+>
+    
+    
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="brand"
+        
+        
+            type="filled"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://origin-a.akamaihd.net/Origin-Client-Download/origin/live/194908/ApexLegendsInstaller.exe"
+    
+    
+        link-title="Download on PC"
+    
+    
+        link-text="Download on PC"
+    
+    
+        icon="custom"
+    
+    
+        custom-icon="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;150&quot; height=&quot;150&quot; viewBox=&quot;0 0 150 150&quot;&gt;   &lt;path fill=&quot;#FFF&quot; fill-rule=&quot;evenodd&quot; d=&quot;M59,106 L8,106 C3.581722,106 5.41083001e-16,102.418278 0,98 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 L142,0 C146.418278,-8.11624501e-16 150,3.581722 150,8 L150,98 C150,102.418278 146.418278,106 142,106 L91,106 L91,138 L119,138 L119,150 L31,150 L31,138 L59,138 L59,106 Z M134,16 L16,16 L16,90 L134,90 L134,16 Z&quot;/&gt; &lt;/svg&gt;"
+    
+    
+        fill-color="none"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="none"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="misc"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://origin-a.akamaihd.net/Origin-Client-Download/origin/live/194908/ApexLegendsInstaller.exe"
+        
+        
+            title="Download on PC"
+        
+    >
+        
+            Download on PC
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+    
+
+
+</ea-grid>
+
+<ea-elements-loader elements="ea-text">
+</ea-elements-loader>
+<ea-text
+    unresolved
+    slot="text"
+    
+        text-color="dark"
+    
+>
+    <p style="text-align: center;">This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.</p>
+<p style="text-align: center;"><span style="color: rgb(255,0,0);"><a style="color: rgb(255,0,0);" href="http://tos.ea.com/legalapp/termsofsale/US/en/PC/" target="_blank">Terms and Conditions</a></span></p>
+<p style="text-align: center;"><span style="color: rgb(255,0,0);"><a style="color: rgb(255,0,0);" href="http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/" target="_blank">EA User Agreement</a></span></p>
+
+    
+</ea-text>
+
+
+    <div>
+        <img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"/>
+    </div>
+
+
+<ea-elements-loader elements="ea-spacer">
+</ea-elements-loader>
+<ea-spacer
+    unresolved
+    
+        smallest="3rem"
+    
+    
+        small="3rem"
+    
+    
+        medium="3rem"
+    
+    
+        large="3rem"
+    
+    
+        largest="3rem"
+    
+>
+</ea-spacer>
+
+</ea-section-column>
+
+    
+</ea-section>
+
+
+
+</ea-modal>
+
+
+
+            
+        
+    
+
+
+
+
+
+<main>
+    
+
+
+<ea-elements-loader elements="ea-spacer">
+</ea-elements-loader>
+<ea-spacer
+    unresolved
+    
+        smallest="10vh"
+    
+    
+        small="10vh"
+    
+    
+        medium="10vh"
+    
+    
+        large="10vh"
+    
+    
+        largest="10vh"
+    
+>
+</ea-spacer>
+
+<ea-elements-loader elements="ea-section">
+</ea-elements-loader>
+<ea-section
+    unresolved
+    slot="section"
+    
+    
+        type="railed"
+    
+    
+        layout="100"
+    
+    
+    
+        background-color="none"
+    
+    
+    
+        background-overflow="hidden"
+    
+    
+        spacing-top="none"
+    
+    
+        spacing-bottom="none"
+    
+    
+    
+    
+        background-image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.320w.jpg"
+        background-image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.768w.jpg"
+        background-image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1024w.jpg"
+        background-image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1456w.jpg"
+        background-image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1920w.jpg"
+        image-tooltip=""
+    
+    
+>
+    
+        <img
+            src="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.320w.jpg"
+            alt=""
+            srcset="https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.320w.jpg 320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.768w.jpg 768w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1024w.jpg 1024w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1456w.jpg 1320w, https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-texture-play-free-xl.jpg.adapt.1920w.jpg 1456w"
+        />
+    
+    
+
+
+<ea-section-column
+    slot="section-column"
+    
+    
+    
+        text-align="center"
+    
+    
+    
+        mobile-order="0"
+    
+    
+>
+    
+<ea-elements-loader elements="ea-spacer">
+</ea-elements-loader>
+<ea-spacer
+    unresolved
+    
+        smallest="7vh"
+    
+    
+        small="7vh"
+    
+    
+        medium="7vh"
+    
+    
+        large="7vh"
+    
+    
+        largest="7vh"
+    
+>
+</ea-spacer>
+
+
+    <div>
+        <img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-white-icon.svg"/>
+    </div>
+
+
+<ea-elements-loader elements="ea-subheading">
+</ea-elements-loader>
+<ea-subheading
+    unresolved
+    
+        type="ordered"
+    
+    
+        layout="medium"
+    
+    
+        text-align="center"
+    
+    
+        text-color="light"
+    
+    
+    
+        title-text="Select Your Platform"
+    
+    
+    
+        spacing-top="none"
+    
+    
+        spacing-bottom="medium"
+    
+>
+    
+    
+        <h3>Select Your Platform</h3>
+    
+    
+</ea-subheading>
+
+<ea-elements-loader elements="ea-text">
+</ea-elements-loader>
+<ea-text
+    unresolved
+    slot="text"
+    
+        text-color="light"
+    
+>
+    <h5>Apex Legends is available for free on PlayStation®4, PlayStation®5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via EA App and Steam. Choose your platform below, download the game, and get ready to jump into the arena.</h5>
+
+    
+</ea-text>
+
+<ea-elements-loader elements="ea-grid">
+</ea-elements-loader>
+<ea-grid
+    
+
+    type="ordered"
+
+
+    tile-media-shape="rectangle"
+
+
+
+    layout="4up"
+
+
+    tile-type="vertical"
+
+
+    tile-text-align="center"
+
+
+    tile-text-color="dark"
+
+
+    tile-color="none"
+
+
+
+
+    hide-eyebrow
+
+
+
+    hide-copy
+
+
+
+
+    hide-byline
+
+
+    spacing-top="medium"
+
+
+    spacing-bottom="none"
+
+
+
+
+    
+    
+        two-up-on-mobile
+    
+    
+        tile-scrim-color="none"
+    
+    
+        tile-scrim-opacity="medium"
+    
+    tile-align="center"
+    
+    
+    
+    
+    
+    
+    
+    animate-in-order=""
+    animate-out-order=""
+    
+    unresolved
+>
+    
+    
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps4"
+    
+    
+    
+        link-text="PlayStation®4"
+    
+    
+        icon="platform-ps"
+    
+    
+    
+        fill-color="playstation-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="playstation-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps4"
+        
+        
+    >
+        
+            PlayStation®4
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://lnk.to/apex-legends-ps5"
+    
+    
+    
+        link-text="PlayStation®5"
+    
+    
+        icon="platform-ps"
+    
+    
+    
+        fill-color="playstation-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="playstation-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://lnk.to/apex-legends-ps5"
+        
+        
+    >
+        
+            PlayStation®5
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+    
+    
+    
+        link-text="Xbox"
+    
+    
+        icon="platform-xbox"
+    
+    
+    
+        fill-color="xbox-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="xbox-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.microsoft.com/p/APEX-Legends/BV9ML45J2Q5V"
+        
+        
+    >
+        
+            Xbox
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://smarturl.it/apex-std-ed-switch"
+    
+    
+    
+        link-text="Nintendo Switch"
+    
+    
+        icon="platform-nintendo"
+    
+    
+    
+        fill-color="nintendo-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="nintendo-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://smarturl.it/apex-std-ed-switch"
+        
+        
+    >
+        
+            Nintendo Switch
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+    
+
+
+</ea-grid>
+
+<ea-elements-loader elements="ea-grid">
+</ea-elements-loader>
+<ea-grid
+    
+
+    type="ordered"
+
+
+    tile-media-shape="rectangle"
+
+
+
+    layout="4up"
+
+
+    tile-type="vertical"
+
+
+    tile-text-align="center"
+
+
+    tile-text-color="dark"
+
+
+    tile-color="none"
+
+
+
+
+    hide-eyebrow
+
+
+
+    hide-copy
+
+
+
+
+    hide-byline
+
+
+    spacing-top="small"
+
+
+    spacing-bottom="none"
+
+
+
+
+    
+    
+        two-up-on-mobile
+    
+    
+        tile-scrim-color="none"
+    
+    
+        tile-scrim-opacity="medium"
+    
+    tile-align="center"
+    
+    
+    
+    
+    
+    
+    
+    animate-in-order=""
+    animate-out-order=""
+    
+    unresolved
+>
+    
+    
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://www.ea.com/games/apex-legends/buy/pc"
+    
+    
+    
+        link-text="The EA App for Windows"
+    
+    
+        icon="custom"
+    
+    
+        custom-icon="&lt;svg width=&quot;600&quot; height=&quot;600&quot; viewBox=&quot;0 0 600 600&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path d=&quot;M300 0C134.33 0 0 134.33 0 300C0 465.67 134.32 600 300 600C465.68 600 600 465.73 600 300C600 134.27 465.66 0 300 0ZM180.47 182H352.93L326.71 223.94H154.27L180.47 182ZM468.59 391.49L442.38 349.65H365.84L392.1 307.73H416.28L387.05 261.07L305.53 391.49H88L140.37 307.73H101.94L128.07 265.81H296.21L270.05 307.73H189.86L163.65 349.65H282.27L387.05 182L518 391.49H468.59Z&quot; fill=&quot;#FFFFFF&quot;/&gt; &lt;/svg&gt;"
+    
+    
+        fill-color="origin-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="origin-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://www.ea.com/games/apex-legends/buy/pc"
+        
+        
+    >
+        
+            The EA App for Windows
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+<ea-elements-loader elements="ea-cta-tile">
+</ea-elements-loader>
+<ea-container slot="container">
+    <ea-cta-tile
+        slot="cta-tile"
+        
+            background-color="light"
+        
+        
+            type="stroke"
+        
+        unresolved
+    >
+        
+<ea-elements-loader elements="ea-cta">
+</ea-elements-loader>
+<ea-cta
+    
+        slot="cta"
+    
+    
+        type="graphic"
+    
+    
+        link-url="https://smarturl.it/apex-steam-ubuy"
+    
+    
+    
+        link-text="Steam on PC"
+    
+    
+        icon="platform-steam"
+    
+    
+    
+        fill-color="origin-brand"
+    
+    
+        text-color="light"
+    
+    
+        stroke-color="origin-brand"
+    
+    
+        target="_self"
+    
+    
+    
+    
+        intent="retailer"
+    
+    
+    
+    
+        emphasis="primary"
+    
+    
+    
+    
+    
+    unresolved
+>
+    <a
+        
+            href="https://smarturl.it/apex-steam-ubuy"
+        
+        
+    >
+        
+            Steam on PC
+        
+    </a>
+</ea-cta>
+
+    </ea-cta-tile>
+</ea-container>
+
+    
+
+
+</ea-grid>
+
+<ea-elements-loader elements="ea-subheading">
+</ea-elements-loader>
+<ea-subheading
+    unresolved
+    
+        type="ordered"
+    
+    
+        layout="large"
+    
+    
+        text-align="left"
+    
+    
+        text-color="dark"
+    
+    
+    
+    
+    
+        spacing-top="medium"
+    
+    
+        spacing-bottom="medium"
+    
+>
+    
+    
+    
+</ea-subheading>
+
+<ea-elements-loader elements="ea-text">
+</ea-elements-loader>
+<ea-text
+    unresolved
+    slot="text"
+    
+        text-color="light"
+    
+>
+    <p style="text-align: center;"><small style="text-align: left;">*Applicable platform account and platform subscription (sold separately) may be required. Persistent internet connection and EA account required. Age restrictions apply. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br>
+ </small></p>
+
+    
+</ea-text>
+
+</ea-section-column>
+
+    
+</ea-section>
+
+
+
+
+    
+        
+            
+                
+
+    
+
+
+    
+
+
+
+
+            
+        
+    
+
+
+
+    
+    <div style="display: none;"></div>
+</main>
+<footer role="contentinfo">
+    
+
+    
+        
+            
+                
+
+    
+<ea-elements-loader elements="ea-local-footer, ea-local-links, ea-local-link, ea-social-links, ea-social-link, ea-hybrid-regional-rating">
+</ea-elements-loader>
+<ea-local-footer
+    theme="light"
+    sal-game-slug="apex-legends"
+    rating-lang="en"
+    unresolved
+>
+    <ea-local-links
+        slot="local-links"
+        title-text=""
+        text-color="light"
+        unresolved
+    >
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends"
+            link-title="Home"
+            link-text="Home"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends"
+                title="Home"
+            >Home</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/about"
+            link-title="About"
+            link-text="About"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/about"
+                title="About"
+            >About</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/about/characters"
+            link-title="Legends"
+            link-text="Legends"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/about/characters"
+                title="Legends"
+            >Legends</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/about/frequently-asked-questions"
+            link-title="FAQ"
+            link-text="FAQ"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/about/frequently-asked-questions"
+                title="FAQ"
+            >FAQ</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/about/pc-system-requirements"
+            link-title="PC Specs"
+            link-text="PC Specs"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/about/pc-system-requirements"
+                title="PC Specs"
+            >PC Specs</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/news"
+            link-title="News "
+            link-text="News "
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/news"
+                title="News "
+            >News </a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/media"
+            link-title="Media"
+            link-text="Media"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/media"
+                title="Media"
+            >Media</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en"
+            link-title="Forums"
+            link-text="Forums"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="https://answers.ea.com/t5/Apex-Legends/ct-p/apex-legends-en"
+                title="Forums"
+            >Forums</a>
+        </ea-local-link>
+    
+        <ea-local-link
+            slot="local-link"
+            link-url="/games/apex-legends/play-now-for-free"
+            link-title="Play Free Now"
+            link-text="Play Free Now*"
+            text-color="light"
+            unresolved
+        >
+            <a
+                href="/games/apex-legends/play-now-for-free"
+                title="Play Free Now"
+            >Play Free Now*</a>
+        </ea-local-link>
+    
+    </ea-local-links>
+
+    <ea-social-links
+        slot="social-links"
+        text-color="light"
+        title-text="Join the Conversation"
+        unresolved
+    >
+    
+        <ea-social-link
+            slot="social-link"
+            link-url="https://twitter.com/PlayApex"
+            link-title="Twitter"
+            link-target="_blank"
+            text-color="light"
+            social-network="twitter"
+            unresolved
+        >
+            <a
+                href="https://twitter.com/PlayApex"
+                title="Twitter"
+            >twitter</a>
+        </ea-social-link>
+    
+        <ea-social-link
+            slot="social-link"
+            link-url="https://www.instagram.com/playapex/"
+            link-title="Instagram"
+            link-target="_blank"
+            text-color="light"
+            social-network="instagram"
+            unresolved
+        >
+            <a
+                href="https://www.instagram.com/playapex/"
+                title="Instagram"
+            >instagram</a>
+        </ea-social-link>
+    
+        <ea-social-link
+            slot="social-link"
+            link-url="https://www.twitch.tv/playapex"
+            link-title="Twitch"
+            link-target="_blank"
+            text-color="light"
+            social-network="twitch"
+            unresolved
+        >
+            <a
+                href="https://www.twitch.tv/playapex"
+                title="Twitch"
+            >twitch</a>
+        </ea-social-link>
+    
+        <ea-social-link
+            slot="social-link"
+            link-url="https://www.facebook.com/playapex"
+            link-title="Facebook"
+            link-target="_blank"
+            text-color="light"
+            social-network="facebook"
+            unresolved
+        >
+            <a
+                href="https://www.facebook.com/playapex"
+                title="Facebook"
+            >facebook</a>
+        </ea-social-link>
+    
+        <ea-social-link
+            slot="social-link"
+            link-url="https://www.youtube.com/playapex"
+            link-title="Youtube"
+            link-target="_blank"
+            text-color="light"
+            social-network="youtube"
+            unresolved
+        >
+            <a
+                href="https://www.youtube.com/playapex"
+                title="Youtube"
+            >youtube</a>
+        </ea-social-link>
+    
+    </ea-social-links>
+
+    
+        
+<ea-elements-loader elements="ea-studio-link">
+</ea-elements-loader>
+<ea-studio-link
+    unresolved
+    slot="studio-link"
+    link-url="/games/apex-legends"
+    link-title="Apex Legends"
+    
+    
+        image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-copyright-sigil-white.png"
+        image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-copyright-sigil-white.png"
+        image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-copyright-sigil-white.png"
+        image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-copyright-sigil-white.png"
+        image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-copyright-sigil-white.png"
+        image-alt=""
+        
+        
+    
+>
+    <a
+        href="/games/apex-legends"
+        title="Apex Legends"
+    ></a>
+</ea-studio-link>
+
+<ea-elements-loader elements="ea-studio-link">
+</ea-elements-loader>
+<ea-studio-link
+    unresolved
+    slot="studio-link"
+    link-url="/games/apex-legends/compete"
+    link-title="Apex Legends Global Series"
+    
+        image-max-height="55px"
+    
+    
+        image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-global-series-footer-logo.svg"
+        image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-global-series-footer-logo.svg"
+        image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-global-series-footer-logo.svg"
+        image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-global-series-footer-logo.svg"
+        image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-global-series-footer-logo.svg"
+        image-alt=""
+        
+        
+    
+>
+    <a
+        href="/games/apex-legends/compete"
+        title="Apex Legends Global Series"
+    ></a>
+</ea-studio-link>
+
+<ea-elements-loader elements="ea-studio-link">
+</ea-elements-loader>
+<ea-studio-link
+    unresolved
+    slot="studio-link"
+    link-url="http://www.respawn.com/"
+    link-title="Respawn Entertainment"
+    
+        image-max-height="55px"
+    
+    
+        image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-respawn-white-logo.png"
+        image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-respawn-white-logo.png"
+        image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-respawn-white-logo.png"
+        image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-respawn-white-logo.png"
+        image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-respawn-white-logo.png"
+        image-alt=""
+        
+        
+    
+>
+    <a
+        href="http://www.respawn.com/"
+        title="Respawn Entertainment"
+    ></a>
+</ea-studio-link>
+
+    
+
+    
+        
+<ea-elements-loader elements="ea-rating-link">
+</ea-elements-loader>
+<ea-rating-link
+    unresolved
+    slot="rating-link"
+    link-url="http://www.esrb.org/"
+    link-title="ESRB"
+    
+    
+        image-smallest="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"
+        image-small="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"
+        image-medium="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"
+        image-large="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"
+        image-largest="https://media.contentapi.ea.com/content/dam/apex-legends/common/age-ratings/apex-esrb-rating-t-interactive-june-2021.svg"
+        image-alt=""
+        
+        
+    
+>
+    <a
+        href="http://www.esrb.org/"
+        title="ESRB"
+    ></a>
+</ea-rating-link>
+
+    
+
+    
+<ea-elements-loader elements="ea-hybrid-regional-rating"></ea-elements-loader>
+
+<ea-hybrid-regional-rating
+    
+    
+        slug="apex-legends"
+    
+    
+        slot="regional-rating"
+    
+    
+        lang="en"
+    
+>
+</ea-hybrid-regional-rating>
+
+
+    
+        <ea-legal-disclaimer-text slot="legal-disclaimer-text">
+            <p>&nbsp;</p>
+<div style="position: absolute; left: -10000px; width: 9000px; top: 0px;"><b>© 2017 Electronic Arts Inc.</b></div>
+<div style="position: absolute; left: -10000px; width: 9000px; top: 0px;"><b>© 2017 Electronic Arts Inc.</b></div>
+<div style="position: absolute; left: -10000px; width: 9000px; top: 0px;"><b>© 2017 Electronic Arts Inc.</b></div>
+
+        </ea-legal-disclaimer-text>
+    
+</ea-local-footer>
+
+
+
+            
+        
+    
+
+
+    
+
+    
+        
+            
+                
+<ea-elements-loader elements="ea-network-footer, ea-network-legal, ea-link, ea-content-loader">
+</ea-elements-loader>
+<ea-network-footer
+    theme="dark"
+    
+    
+        logo-image="https://media.contentapi.ea.com/content/dam/eacom/en-us/common/october-ea-ring.png"
+        logo-tooltip=""
+    
+    
+        logo-link-url="https://www.ea.com"
+        logo-link-text="EA"
+        logo-link-tooltip="EA"
+    
+    unresolved
+>
+    
+        <img
+            src="https://media.contentapi.ea.com/content/dam/eacom/en-us/common/october-ea-ring.png"
+            alt=""
+        />
+    
+    
+        
+            <ea-link
+                slot="link"
+                link-href="/games"
+                link-title="Browse Games"
+                link-text="Browse Games"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="/games"
+                    title="Browse Games"
+                >Browse Games</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="/about"
+                link-title="About"
+                link-text="About"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="/about"
+                    title="About"
+                >About</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="https://help.ea.com/"
+                link-title="Support"
+                link-text="Support"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="https://help.ea.com/"
+                    title="Support"
+                >Support</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="https://www.ea.com/ea-app"
+                link-title="Shop on EA App"
+                link-text="Shop on EA App"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="https://www.ea.com/ea-app"
+                    title="Shop on EA App"
+                >Shop on EA App</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="/able "
+                link-title="Accessibility"
+                link-text="Accessibility"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="/able "
+                    title="Accessibility"
+                >Accessibility</a>
+            </ea-link>
+        
+    
+    <ea-elements-loader elements="ea-regional-pricing-selector">
+</ea-elements-loader>
+<ea-regional-pricing-selector
+slot="regional-pricing-selector"
+theme="dark"
+label-text="Regional Pricing"
+
+unresolved
+    >
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="AT"
+    >Austria</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="BE"
+    >Belgium</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="BG"
+    >Bulgaria</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="HR"
+    >Croatia</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="CY"
+    >Cyprus</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="CZ"
+    >Czech Republic</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="DK"
+    >Denmark</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="EE"
+    >Estonia</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="FI"
+    >Finland</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="FR"
+    >France</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="DE"
+    >Germany</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="GR"
+    >Greece</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="HU"
+    >Hungary</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="IS"
+    >Iceland</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="IE"
+    >Ireland</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="IT"
+    >Italy</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="LV"
+    >Latvia</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="LI"
+    >Liechtenstein</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="LT"
+    >Lithuania</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="LU"
+    >Luxembourg</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="MT"
+    >Malta</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="NL"
+    >Netherlands</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="NO"
+    >Norway</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="PL"
+    >Poland</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="PT"
+    >Portugal</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="RO"
+    >Romania</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="SK"
+    >Slovakia</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="SL"
+    >Slovenia</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="ES"
+    >Spain</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="SE"
+    >Sweden</ea-regional-pricing-selector-option>
+
+    <ea-regional-pricing-selector-option
+    slot="regional-pricing-selector-option"
+    value="CH"
+    >Switzerland</ea-regional-pricing-selector-option>
+
+</ea-regional-pricing-selector>
+    
+<ea-elements-loader elements="ea-locale-selector">
+</ea-elements-loader>
+<ea-locale-selector
+    slot="locale-selector"
+    theme="dark"
+    value="en-us"
+    label-text="Language"
+    
+    unresolved
+    >
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="en-us"
+        >United States</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="en-gb"
+        >United Kingdom</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="en-au"
+        >Australia</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="de-de"
+        >Deutschland</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="es-es"
+        >España</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="fr-fr"
+        >France</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="it-it"
+        >Italia</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="pl-pl"
+        >Polska</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="ru-ru"
+        >Россия</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="pt-br"
+        >Brasil</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="es-mx"
+        >Mexico</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="ja-jp"
+        >日本</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="ko-kr"
+        >대한민국</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="zh-tw"
+        >繁體中文</ea-locale-selector-option>
+    
+        <ea-locale-selector-option
+            slot="locale-selector-option"
+            value="ar-sa"
+        >العربية</ea-locale-selector-option>
+    
+</ea-locale-selector>
+
+    <ea-network-legal
+        slot="network-legal"
+        copyright-text="© 2024 Electronic Arts Inc. "
+        text-color="dark"
+        unresolved
+    >
+        
+            <ea-link
+                slot="link"
+                link-href="http://www.ea.com/legal"
+                link-title="Legal &amp; Privacy"
+                link-text="Legal &amp; Privacy"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="http://www.ea.com/legal"
+                    title="Legal &amp; Privacy"
+                >Legal &amp; Privacy</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="https://www.ea.com/terms-of-service"
+                link-title="NEW User Agreement"
+                link-text="User Agreement"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="https://www.ea.com/terms-of-service"
+                    title="NEW User Agreement"
+                >User Agreement</a>
+            </ea-link>
+        
+            <ea-link
+                slot="link"
+                link-href="https://www.ea.com/legal/privacy-and-cookie-policy"
+                link-title="Privacy &amp; Cookie Policy (Your Privacy Rights)"
+                link-text="Privacy &amp; Cookie Policy (Your Privacy Rights)"
+                text-color="dark"
+                unresolved
+            >
+                <a
+                    href="https://www.ea.com/legal/privacy-and-cookie-policy"
+                    title="Privacy &amp; Cookie Policy (Your Privacy Rights)"
+                >Privacy &amp; Cookie Policy (Your Privacy Rights)</a>
+            </ea-link>
+        
+        <ea-content-loader
+            slot="link"
+            content-url="https://www.ea.com/ccpa/footer-link"
+        >
+        </ea-content-loader>
+        
+    </ea-network-legal>
+    
+<ea-elements-loader elements="ea-truste">
+</ea-elements-loader>
+
+
+<script async>
+
+        function createElement(id, hidden) {
+            const element = document.createElement("div");
+
+            element.id = id;
+            element.hidden = hidden;
+
+            return element;
+        }
+
+        function createScriptTag() {
+            const script = document.createElement("script");
+            let src = `//consent.trustarc.com/notice?` +
+                `domain=ea.com&c=teconsent&js=nj&noticeType=bb&text=true&gtm=1&pn=1`;
+
+            if (shouldAutoShowCookiePreferences()) {
+                src = src + "&behavior=expressed";
+            }
+
+            script.src = src;
+            script.setAttribute("crossorigin", "");
+
+            return script;
+        }
+
+        function shouldAutoShowCookiePreferences() {
+            const showCookiePreferencesParam = "show=cookiePreferences";
+            const urlSearchParams = window.location.search.slice(1).split("&");
+
+            return urlSearchParams.includes(showCookiePreferencesParam);
+        }
+
+        function isLocalNDS(componentUrlPrefix) {
+            return componentUrlPrefix && componentUrlPrefix.includes('local');
+        }
+
+        function isNDSBranch(componentUrlPrefix) {
+            return componentUrlPrefix && componentUrlPrefix.includes('branch');
+        }
+
+        function isNDSVersionGreaterOrEqual(componentUrlPrefix) {
+            let ndsVersion = componentUrlPrefix && componentUrlPrefix.match('/release\/([^\/]*)/')[1];
+            let isGreaterOrEqual = ndsVersion && ndsVersion.localeCompare("4.40.5", undefined, { numeric: true, sensitivity: 'base' });
+
+            return isGreaterOrEqual >= 0;
+        }
+
+        const componentUrlPrefix = window.nds.componentUrlPrefix;
+
+        /**
+         * Check for backwards compatibility with NDS version greater or equal to when TrustArc was integrated
+         */
+        if (
+            isLocalNDS(componentUrlPrefix) ||
+            isNDSBranch(componentUrlPrefix) ||
+            isNDSVersionGreaterOrEqual(componentUrlPrefix)
+        )
+        {
+            const trustArcScript = createScriptTag();
+            const elements = document.createDocumentFragment();
+
+            elements.appendChild(createElement("consent_blackbar", false));
+            elements.appendChild(createElement("teconsent", true));
+            elements.appendChild(trustArcScript);
+
+            document.body.appendChild(elements);
+        }
+
+</script>
+<ea-truste
+    unresolved
+    slot="truste"
+    
+        domain="ea.com"
+    
+>
+    <div>
+        
+            <a href="//privacy.truste.com/privacy-seal/validation?rid=f1a11c5d-0232-4077-8498-2e69a38c1335" target="_blank">
+                <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=f1a11c5d-0232-4077-8498-2e69a38c1335" alt="TRUSTe"/>
+            </a>
+        
+    </div>
+</ea-truste>
+
+</ea-network-footer>
+
+            
+        
+    
+
+
+</footer>
+<ea-player player-endpoint="/user-data"></ea-player>
+
+
+    
+        
+            
+                
+<ea-elements-loader elements="ea-modal">
+</ea-elements-loader>
+<ea-modal
+    modal
+    restore-focus-on-close
+    unresolved
+    
+        id="eacomagegate"
+    
+    
+        theme="dark"
+    
+    
+>
+    
+<ea-elements-loader elements="ea-age-gate">
+</ea-elements-loader>
+<ea-age-gate
+    unresolved
+    slot="age-gate"
+    age-gate-id="eacomagegate"
+    
+        age="18"
+    
+    
+        error="You are not eligible to view this content."
+    
+    
+    
+        message="Please provide your birth date. "
+    
+>
+    
+        
+<ea-elements-loader elements="ea-date-field">
+</ea-elements-loader>
+<ea-date-field
+    
+        slot="date-field"
+    
+    
+        type="date"
+    
+    
+    
+    
+    
+    
+        text-color="light"
+    
+    
+    
+        month-placeholder="MM"
+    
+    
+        day-placeholder="DD"
+    
+    
+        year-placeholder="YYYY"
+    
+    
+    
+        label-text="Enter your birthdate"
+    
+    
+    
+    
+    unresolved
+>
+</ea-date-field>
+
+    
+    
+        
+<ea-elements-loader elements="ea-submit">
+</ea-elements-loader>
+<ea-submit
+    unresolved
+    
+        slot="submit"
+    
+    
+        value-text="Submit"
+    
+    
+        text-color="light"
+    
+    
+    
+    
+    
+></ea-submit>
+
+    
+</ea-age-gate>
+
+</ea-modal>
+
+            
+        
+    
+
+
+
+
+    
+        
+            
+                <script src="//pl.ea.com/release/4.64.3/elements/browser-support.min.js"></script>
+<script>
+    eaBrowserSupport.requiredFeatures = 'picture';
+    eaBrowserSupport.requiredHeading = 'Sorry, this browser is not supported';
+    eaBrowserSupport.requiredText = 'Please download a supported browser to view this webpage.';
+    eaBrowserSupport.recommendedFeatures = 'cssgrid';
+    eaBrowserSupport.recommendedText = 'This browser is not recommended and the webpage may not display properly.';
+    eaBrowserSupport.ctas = [{"text":"Download Chrome","url":"https://www.google.com/chrome/"},{"text":"Download Firefox","url":"https://www.mozilla.org/firefox/new/"},{"text":"Download Edge","url":"https://www.microsoft.com/edge/"}];
+    eaBrowserSupport.dismissText = 'Dismiss';
+    eaBrowserSupport.svgLogo = '';
+    eaBrowserSupport.init();
+</script>
+
+            
+        
+    
+
+
+
+
+    <ea-type-kit kit-url="//use.typekit.net/txn1klh.js"></ea-type-kit>
+
+
+    <noscript><img src="https://www.ea.com/akam/13/pixel_508210ad?a=dD04Mzg3NzU2YjUwNGNiZDQwZjU2NWUzODM1YjhjZDk5NjIxZDhlYjliJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+</html>
+
