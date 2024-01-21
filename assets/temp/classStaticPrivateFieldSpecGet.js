@@ -1,9 +1,8 @@
-var classApplyDescriptorGet = require("./classApplyDescriptorGet.js");
-var classCheckPrivateStaticAccess = require("./classCheckPrivateStaticAccess.js");
-var classCheckPrivateStaticFieldDescriptor = require("./classCheckPrivateStaticFieldDescriptor.js");
-function _classStaticPrivateFieldSpecGet(receiver, classConstructor, descriptor) {
+import classApplyDescriptorGet from "./classApplyDescriptorGet.js";
+import classCheckPrivateStaticAccess from "./classCheckPrivateStaticAccess.js";
+import classCheckPrivateStaticFieldDescriptor from "./classCheckPrivateStaticFieldDescriptor.js";
+export default function _classStaticPrivateFieldSpecGet(receiver, classConstructor, descriptor) {
   classCheckPrivateStaticAccess(receiver, classConstructor);
   classCheckPrivateStaticFieldDescriptor(descriptor, "get");
   return classApplyDescriptorGet(receiver, descriptor);
 }
-module.exports = _classStaticPrivateFieldSpecGet, module.exports.__esModule = true, module.exports["default"] = module.exports;

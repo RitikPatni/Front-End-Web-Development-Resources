@@ -1,6 +1,6 @@
-var _typeof = require("./typeof.js")["default"];
-var assertThisInitialized = require("./assertThisInitialized.js");
-function _possibleConstructorReturn(self, call) {
+import _typeof from "./typeof.js";
+import assertThisInitialized from "./assertThisInitialized.js";
+export default function _possibleConstructorReturn(self, call) {
   if (call && (_typeof(call) === "object" || typeof call === "function")) {
     return call;
   } else if (call !== void 0) {
@@ -8,4 +8,3 @@ function _possibleConstructorReturn(self, call) {
   }
   return assertThisInitialized(self);
 }
-module.exports = _possibleConstructorReturn, module.exports.__esModule = true, module.exports["default"] = module.exports;

@@ -1,5 +1,5 @@
-var _typeof = require("./typeof.js")["default"];
-function _toPrimitive(input, hint) {
+import _typeof from "./typeof.js";
+export default function _toPrimitive(input, hint) {
   if (_typeof(input) !== "object" || input === null) return input;
   var prim = input[Symbol.toPrimitive];
   if (prim !== undefined) {
@@ -9,4 +9,3 @@ function _toPrimitive(input, hint) {
   }
   return (hint === "string" ? String : Number)(input);
 }
-module.exports = _toPrimitive, module.exports.__esModule = true, module.exports["default"] = module.exports;

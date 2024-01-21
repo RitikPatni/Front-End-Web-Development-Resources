@@ -1,5 +1,5 @@
 var REACT_ELEMENT_TYPE;
-function _createRawReactElement(type, props, key, children) {
+export default function _createRawReactElement(type, props, key, children) {
   REACT_ELEMENT_TYPE || (REACT_ELEMENT_TYPE = "function" == typeof Symbol && Symbol["for"] && Symbol["for"]("react.element") || 60103);
   var defaultProps = type && type.defaultProps,
     childrenLength = arguments.length - 3;
@@ -19,4 +19,3 @@ function _createRawReactElement(type, props, key, children) {
     _owner: null
   };
 }
-module.exports = _createRawReactElement, module.exports.__esModule = true, module.exports["default"] = module.exports;

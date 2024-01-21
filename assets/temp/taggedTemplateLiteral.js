@@ -1,4 +1,4 @@
-function _taggedTemplateLiteral(strings, raw) {
+export default function _taggedTemplateLiteral(strings, raw) {
   if (!raw) {
     raw = strings.slice(0);
   }
@@ -8,4 +8,3 @@ function _taggedTemplateLiteral(strings, raw) {
     }
   }));
 }
-module.exports = _taggedTemplateLiteral, module.exports.__esModule = true, module.exports["default"] = module.exports;

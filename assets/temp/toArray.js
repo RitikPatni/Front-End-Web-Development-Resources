@@ -1,8 +1,7 @@
-var arrayWithHoles = require("./arrayWithHoles.js");
-var iterableToArray = require("./iterableToArray.js");
-var unsupportedIterableToArray = require("./unsupportedIterableToArray.js");
-var nonIterableRest = require("./nonIterableRest.js");
-function _toArray(arr) {
+import arrayWithHoles from "./arrayWithHoles.js";
+import iterableToArray from "./iterableToArray.js";
+import unsupportedIterableToArray from "./unsupportedIterableToArray.js";
+import nonIterableRest from "./nonIterableRest.js";
+export default function _toArray(arr) {
   return arrayWithHoles(arr) || iterableToArray(arr) || unsupportedIterableToArray(arr) || nonIterableRest();
 }
-module.exports = _toArray, module.exports.__esModule = true, module.exports["default"] = module.exports;

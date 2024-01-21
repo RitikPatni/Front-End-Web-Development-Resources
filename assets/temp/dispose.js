@@ -9,7 +9,7 @@ function dispose_SuppressedError(suppressed, error) {
     }
   })), new dispose_SuppressedError(suppressed, error);
 }
-function _dispose(stack, error, hasError) {
+export default function _dispose(stack, error, hasError) {
   function next() {
     for (; stack.length > 0;) try {
       var r = stack.pop(),
@@ -25,4 +25,3 @@ function _dispose(stack, error, hasError) {
   }
   return next();
 }
-module.exports = _dispose, module.exports.__esModule = true, module.exports["default"] = module.exports;

@@ -1,4 +1,4 @@
-function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) {
+export default function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) {
   var desc = {};
   Object.keys(descriptor).forEach(function (key) {
     desc[key] = descriptor[key];
@@ -21,4 +21,3 @@ function _applyDecoratedDescriptor(target, property, decorators, descriptor, con
   }
   return desc;
 }
-module.exports = _applyDecoratedDescriptor, module.exports.__esModule = true, module.exports["default"] = module.exports;

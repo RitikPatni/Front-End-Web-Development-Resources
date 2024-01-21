@@ -1,5 +1,5 @@
-var OverloadYield = require("./OverloadYield.js");
-function _asyncGeneratorDelegate(inner) {
+import OverloadYield from "./OverloadYield.js";
+export default function _asyncGeneratorDelegate(inner) {
   var iter = {},
     waiting = !1;
   function pump(key, value) {
@@ -21,4 +21,3 @@ function _asyncGeneratorDelegate(inner) {
     return waiting ? (waiting = !1, value) : pump("return", value);
   }), iter;
 }
-module.exports = _asyncGeneratorDelegate, module.exports.__esModule = true, module.exports["default"] = module.exports;

@@ -1,4 +1,3 @@
-function _AwaitValue(value) {
+export default function _AwaitValue(value) {
   this.wrapped = value;
 }
-module.exports = _AwaitValue, module.exports.__esModule = true, module.exports["default"] = module.exports;

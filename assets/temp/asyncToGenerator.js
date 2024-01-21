@@ -12,7 +12,7 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {
     Promise.resolve(value).then(_next, _throw);
   }
 }
-function _asyncToGenerator(fn) {
+export default function _asyncToGenerator(fn) {
   return function () {
     var self = this,
       args = arguments;
@@ -28,4 +28,3 @@ function _asyncToGenerator(fn) {
     });
   };
 }
-module.exports = _asyncToGenerator, module.exports.__esModule = true, module.exports["default"] = module.exports;

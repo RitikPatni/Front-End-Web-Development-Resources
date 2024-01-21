@@ -1,5 +1,5 @@
-var superPropBase = require("./superPropBase.js");
-var defineProperty = require("./defineProperty.js");
+import superPropBase from "./superPropBase.js";
+import defineProperty from "./defineProperty.js";
 function set(target, property, value, receiver) {
   if (typeof Reflect !== "undefined" && Reflect.set) {
     set = Reflect.set;
@@ -31,11 +31,10 @@ function set(target, property, value, receiver) {
   }
   return set(target, property, value, receiver);
 }
-function _set(target, property, value, receiver, isStrict) {
+export default function _set(target, property, value, receiver, isStrict) {
   var s = set(target, property, value, receiver || target);
   if (!s && isStrict) {
     throw new TypeError('failed to set property');
   }
   return value;
 }
-module.exports = _set, module.exports.__esModule = true, module.exports["default"] = module.exports;
