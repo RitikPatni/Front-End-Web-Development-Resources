@@ -129,9 +129,10 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [WebGlossary.info](https://webglossary.info/) - Glossary for web development and design, with more than 3,500 entries (as per August 2023) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Devtools Tech](https://devtools.tech?ref=frontend-web-development-resources-github-repo) - A free interview preparation platform for Frontend Engineers with a focus on high quality real world programming questions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Scaler Blogs](https://www.scaler.com/blog/category/software-development/) - A platform comprising the tech career roadmaps and latest market trends in the tech job market. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
