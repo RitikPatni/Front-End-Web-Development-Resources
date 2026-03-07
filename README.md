@@ -38,6 +38,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
     - [Hiring](#hiring)
+    - [Freelancing & Job Portals](#freelancing--job-portals)
   - [Podcasts](#podcasts)
   - [Code Editors](#code-editors)
     - [Visual Studio Code Extensions](#visual-studio-code-extensions)
@@ -248,6 +249,15 @@ This is an open-source repository for all who want to learn front-end Developmen
 ### Hiring
 
 - [Two Great Places to Discover Tech Talent and How to Attract Them](where-to-find-tech-talent.md) - Hiring tech talent in 2020
+
+### Freelancing & Job Portals
+
+- [Fiverr](https://www.fiverr.com) - Freelance platform for web developers to offer services ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Freelancer](https://www.freelancer.com) - Bid on freelance web development projects ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs) - Professional network with job listings for developers ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Toptal](https://www.toptal.com) - Exclusive network for top freelance developers ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Upwork](https://www.upwork.com) - Freelance marketplace for web developers ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [We Work Remotely](https://weworkremotely.com) - Remote job board for web developers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
   **[⬆ back to top](#table-of-contents)**
 
