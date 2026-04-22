@@ -578,7 +578,7 @@ This is an open-source repository for all who want to learn front-end Developmen
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Random famous quotes | Rapid APIs](https://rapidapi.com/andruxnet/api/Random%20Famous%20Quotes) - Gets a random quote in JSON format. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [TMDB API](https://www.themoviedb.org/documentation/api) - API Service for those who are interested in displaying data/images about different movies, TV Shows or actors in their application. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Unsplash Source](https://source.unsplash.com/) - API to retrieve random images from Unsplash.com ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [tteg](https://tteg.kushalsm.com/) - Search and save Unsplash photos from a no-key CLI or HTTP API; useful as a working replacement for the deprecated Unsplash Source endpoint. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web APIs | MDN](https://developer.mozilla.org/en/docs/Web/API) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [News API](https://newsapi.org/) - Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Spotify API](https://developer.spotify.com/) - Spotify's Web API allows you to find music and podcasts, manage your Spotify collection, control audio playing, and do a variety of other things. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
