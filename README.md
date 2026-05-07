@@ -481,6 +481,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/) - Clean web-tool on How to pair Google Fonts ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Fontspiration](http://sfcd.com/work/fontspiration/) - An iOS app for creating custom typographic designs ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Fontsquirrel](https://www.fontsquirrel.com/) - A resource for FREE, hand-picked, high-quality, commercial-use fonts ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [FontsWiki](https://fontswiki.com/) - Free typography reference for discovering fonts, alternatives, pairings, and fonts in use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Google Fonts](https://fonts.google.com/) - A catalog of free & open source fonts, great details and font pair suggestions ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Just My Type](https://justmytype.co/) - A collection of font pairings ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Table of Contents | The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/) - A practical guide to web typography ![Free](https://img.shields.io/badge/-Free-brightgreen)
