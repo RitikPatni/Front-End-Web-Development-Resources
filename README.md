@@ -331,6 +331,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [CrossBrowserTesting App](https://app.crossbrowsertesting.com/livetests/run) - Web service for running functional web tests on mobile and desktop web browsers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet) - A very easy to use one page reference for css selectors and properties. It also includes categories for flexbox and grid. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Minifier](https://cssminifier.com/) - Minify your CSS files! ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [CSS Formatter](https://99tools.net/css-formatter/) - Format and beautify your CSS code instantly! ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Reference](https://cssreference.io/) - A free visual guide to CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Triggers](https://csstriggers.com/) - Tells you what gets triggered when mutating a given CSS property. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [CSS Filters](https://www.cssfilters.co/) - Interactive CSS filter generator ![Free](https://img.shields.io/badge/-Free-brightgreen)
