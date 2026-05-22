@@ -113,6 +113,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Everything about the Javascript Language. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The Odin Project](https://www.theodinproject.com/) - An Open-Source Curriculum for Learning Web Development ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Tutorials point](https://www.tutorialspoint.com/html/) - Tutorials for many different languages with interactive code examples. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/front-end-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Udacity](https://in.udacity.com/) - Learn anything online – deep learning, machine learning, front end languages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Udemy](https://www.udemy.com/) - An online learning and teaching marketplace. ![Free](https://img.shields.io/badge/-Free-brightgreen)
