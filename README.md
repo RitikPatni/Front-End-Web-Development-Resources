@@ -620,6 +620,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [HTML & CSS Books](https://www.interviewbit.com/blog/html-css-books/)  ![Free]
 - [Web Design Playground, Second Edition](https://www.manning.com/books/web-design-playground-second-edition) - Modern HTML, CSS, and web design standards.[Paid](https://img.shields.io/badge/-Paid-blue)
 - [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - Learn how a frontend web framework works by coding your own.[Paid](https://img.shields.io/badge/-Paid-blue)
+- [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Learn how to build reusable web components that last well beyond the next library update.[Paid](https://img.shields.io/badge/-Paid-blue)
 
 **[⬆ back to top](#table-of-contents)**
 
