@@ -360,6 +360,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Regular Expression (Regex) Editor](https://rubular.com/) - Helps create and verify your regular expressions.
 - [Sans Francisco - a tool for designers](http://www.sansfrancis.co/) - Collection of tools for designers ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Screensizemap](https://www.screensizemap.com/) - A comparison of screen sizes in device-independent pixel. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Sez](https://sez.c-sharptutorial.com/) - Upload HTML website themes to instantly generate, preview, and apply color palettes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+  ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Sizzy:Browser Testing Tool](https://sizzy.co/) - Tool for developing and testing responsive design on multiple devices at once. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Stack Overflow](https://stackoverflow.com/) - Online community for developers to ask questions and get answers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_input) - Checks the markup validity of Web documents in HTML, XHTML, SMIL, MATHML, etc. ![Free](https://img.shields.io/badge/-Free-brightgreen)
