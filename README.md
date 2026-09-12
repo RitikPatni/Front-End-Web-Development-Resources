@@ -613,6 +613,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [HTML Tutorialspoint](http://www.tutorialspoint.com/html/html_tutorial.pdf) - A thorough tutorial on HTML (free pdf/486 pages) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Learn How To Code In HTML5 and CSS3](http://howtocodeinhtml.com/) - A free e-book about making websites in HTML5 and CSS for absolute beginners ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Responsive Web Design with HTML5 and CSS3](http://www.amazon.com/gp/product/1784398934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398934&linkCode=as2&tag=pinnok-20&linkId=6CN4JQGXTZU6DHRY) - A comprehensive book about making RWD ![Paid](https://img.shields.io/badge/-Paid-blue)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series diving deep into the core mechanisms of the JavaScript language. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Guide to Git and Github](https://launchschool.com/books/git) - A beginner friendly guide to using git and working with Github. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Introduction to HTTP](https://launchschool.com/books/http) - Introduction to HTTP, the stateless protocol underlying all of the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)
