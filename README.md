@@ -671,6 +671,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Testing
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web regression tests, with test memory and UI-change adaptation.
 - [Jest](https://jestjs.io/) - JavaScript testing framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mocha](https://mochajs.org/) - JavaScript testing framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Karma](https://karma-runner.github.io/latest/index.html) - JavaScript test runner![Free](https://img.shields.io/badge/-Free-brightgreen)
