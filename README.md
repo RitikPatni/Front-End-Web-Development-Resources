@@ -127,7 +127,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [web.dev](https://web.dev/) - Guides and resources for modern fast websites by google developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) - Develop competency with HTML, CSS, JavaScript, and jQuery. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
-- [WebGlossary.info](https://webglossary.info/) - Glossary for web development and design, with more than 3,500 entries (as per August 2023) ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [WebGlossary.info](https://webglossary.info/) - Glossary for web development and design, with more than 4,600 entries (as per November 2026) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [The App Brewery](https://www.appbrewery.co/) - All in one platform to cover your web development skills ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [Full Stack open 2021](https://fullstackopen.com/en/) - This course serves as an introduction to modern web application development with JavaScript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -154,7 +154,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 ## YouTube Channels
 
 - [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)- Tutorials on HTML,CSS,Bootstrap,JavaScript,Git,Github,SQL ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Adrian Twarog](https://www.youtube.com/c/AdrianTwarog)- Tutorials on HTML,CSS,Bootstrap,JavaScript,React,React  
+- [Adrian Twarog](https://www.youtube.com/c/AdrianTwarog)- Tutorials on HTML,CSS,Bootstrap,JavaScript,React,React
   Native,UI/UX and cool Designing stuff ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/) - Tutorials on WordPress, PSD to HTML ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Brad Hussey](https://www.youtube.com/user/hussey17) - Tutorials on Bootstrap, SASS, jQuery, PHP, Freelancing ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -212,11 +212,11 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Design Resources](http://designresources.party/) - List of resources for working in and learning about design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Design For Change](https://medium.muz.li/design-for-change-439fc7ec6bb9?source=grid_home---8-5969bf7021a3-----3-1-----------------10) - Article on regenerative and sustainable designing by Viba Mohan. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Domain registrars DNS and hosting](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19) - Domain Registrars, DNS, and Hosting from Kirby Kohlmorge ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [dxsrc](https://dxsrc.org/) - News and tools for frontend development, usually updated twice a day ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Beginners guide to Gatsby](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a) - Gatsby.js: How to set up and use the React Static Site Generator from Aman Mittal ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Examples of everything in ECMAScript in 2016,2017, 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Flavio Copes Tutorials](https://flaviocopes.com/) - Daily tutorials about Javascript and Web development by Flavio Copes ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive/) - Explanation of how our world wide web works. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Frontend Dogma](https://frontenddogma.com/) - News and tools for frontend development, usually updated twice a day ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Frontend Weekly](https://frontendweekly.co/) - The best articles, links and news related to Frontend Development delivered once a week to your inbox. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [How I Animated the bitsofcode Logo with CSS](https://bitsofco.de/how-i-animated-the-bitsofcode-logo/) - Process article on a custom CSS animation. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Explanation of the CSS minmax() function, which can be used for CSS grid layouts. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
