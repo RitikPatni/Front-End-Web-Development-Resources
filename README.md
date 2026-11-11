@@ -43,6 +43,7 @@ This is an open-source repository for all who want to learn front-end Developmen
     - [Visual Studio Code Extensions](#visual-studio-code-extensions)
   - [Tools](#tools)
   - [CSS Frameworks](#css-frameworks)
+  - [UI Components](#ui-components)
   - [Icons](#icons)
   - [Colors](#colors)
   - [Typography](#typography)
@@ -402,6 +403,14 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [UI Kit](https://getuikit.com/) - Lightweight and modular front-end framework for web interfaces. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Unsemantic](https://unsemantic.com/) - Fluid grid system based on percentages, rather than a set number of columns. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Vital CSS](https://vitalcss.com/components/) - Minimally invasive CSS framework for web applications built with Sass and Slim. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## UI Components
+
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown components for AI chat interfaces across Vue, React, Solid, Svelte, and Angular. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
